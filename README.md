@@ -2,9 +2,9 @@
 
 基于 GitHub Actions 的 AI 技术情报自动化项目。系统在工作日自动采集 AI 工具、Agent、模型、行业资讯及医疗 AI 动态，调用 OpenAI 兼容模型生成中文日报，并发布到 GitHub Pages、提交到仓库，最后通过飞书机器人发送报告摘要和阅读链接。英文报告可按需启用。
 
-- GitHub 仓库：[BlackJack-Cao/agents-radar](https://github.com/BlackJack-Cao/agents-radar)
-- Web UI：[https://blackjack-cao.github.io/agents-radar/](https://blackjack-cao.github.io/agents-radar/)
-- RSS：[https://blackjack-cao.github.io/agents-radar/feed.xml](https://blackjack-cao.github.io/agents-radar/feed.xml)
+- GitHub 仓库：[nayutayuki/agents-radar](https://github.com/nayutayuki/agents-radar)
+- Web UI：[https://nayutayuki.github.io/agents-radar/](https://nayutayuki.github.io/agents-radar/)
+- RSS：[https://nayutayuki.github.io/agents-radar/feed.xml](https://nayutayuki.github.io/agents-radar/feed.xml)
 
 ## 工作流程
 
@@ -66,7 +66,7 @@ GitHub Actions 定时触发
 
 ## Web UI
 
-访问 [AI Radar Web UI](https://blackjack-cao.github.io/agents-radar/) 可以按日期查看全部历史报告。
+访问 [AI Radar Web UI](https://nayutayuki.github.io/agents-radar/) 可以按日期查看全部历史报告。
 
 页面为纯静态站点：
 
@@ -171,7 +171,7 @@ export OPENAI_MODEL=your-model-name
 export GENERATE_ENGLISH=false
 
 # 可选：仅在需要创建 GitHub Issues 时设置
-export DIGEST_REPO=BlackJack-Cao/agents-radar
+export DIGEST_REPO=nayutayuki/agents-radar
 ```
 
 ### 执行
@@ -186,7 +186,7 @@ pnpm manifest
 
 ```bash
 export FEISHU_WEBHOOK_URLS=https://open.feishu.cn/open-apis/bot/v2/hook/xxxx
-export PAGES_URL=https://blackjack-cao.github.io/agents-radar/
+export PAGES_URL=https://nayutayuki.github.io/agents-radar/
 pnpm notify:feishu
 ```
 

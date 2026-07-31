@@ -22,7 +22,7 @@
 
 ## Web UI
 
-**[https://duanyytop.github.io/agents-radar](https://duanyytop.github.io/agents-radar)**
+**[https://nayutayuki.github.io/agents-radar](https://nayutayuki.github.io/agents-radar)**
 
 在线浏览所有历史简报，深色主题，无需登录。报告直接由本仓库的 Markdown 文件通过 GitHub Pages 渲染。历史双语报告仍可切换语言，新报告默认只生成中文。
 
@@ -45,7 +45,7 @@
 
 ## RSS 订阅
 
-**[https://duanyytop.github.io/agents-radar/feed.xml](https://duanyytop.github.io/agents-radar/feed.xml)**
+**[https://nayutayuki.github.io/agents-radar/feed.xml](https://nayutayuki.github.io/agents-radar/feed.xml)**
 
 在任意 RSS 阅读器（Feedly、Reeder、NewsBlur 等）中订阅，每日自动推送新简报。Feed 包含最新 30 条报告（覆盖所有报告类型），与 `manifest.json` 同步更新。
 
@@ -411,4 +411,4 @@ OpenAI 内容精选            (research / release / company / safety / ...)
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=duanyytop/agents-radar&type=Date)](https://star-history.com/#duanyytop/agents-radar&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=nayutayuki/agents-radar&type=Date)](https://star-history.com/#nayutayuki/agents-radar&Date)
