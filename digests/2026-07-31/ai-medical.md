@@ -1,99 +1,102 @@
 # 医疗 AI 行业日报 2026-07-31
 
-> 数据来源：GitHub 医疗 Agent（20 个）+ Hugging Face 医疗模型（24 个）+ 医疗 AI 行业新闻（1 篇）；不包含论文源 | 生成时间：2026-07-30 23:42 UTC
+> 数据来源：GitHub 医疗 Agent（20 个）+ Hugging Face 医疗模型（24 个）+ 医疗 AI 行业新闻（1 篇）；不包含论文源 | 生成时间：2026-07-31 02:31 UTC
 
 ---
 
-好的，这是为您生成的医疗 AI 行业分析师日报。
+# 医疗 AI 行业日报 | 2026-07-31
+
+## 1. 今日结论
+
+今日未发现已通过临床验证或获得监管批准的新医疗专用模型或 Agent。开源社区活跃度集中在 RAG 架构、多模态医学影像微调及 Agent 编排框架上，但多数项目处于早期实验阶段（星数≤10，下载量＜500），缺乏独立第三方评估。仅有的行业新闻指向牙科领域的 AI 原生转型，但未披露具体临床效果指标。
+
+## 2. 医疗 Agent
+
+### ① SkinGraphAI
+- **链接**: https://github.com/chencyan21/SkinGraphAI
+- **用途**: 多智能体医疗助手，支持医疗问答、RAG、网络检索、医学影像分析，并引入人工审核环节。
+- **成熟度**: 10 Stars，最后更新 2026-07-28，Apache-2.0 许可证，技术栈完整（LangGraph+Qdrant+Ollama）。
+- **限制**: 未提及临床验证或真实患者数据测试；人工审核流程未说明具体标准。
+
+### ② Medical-Agentic-RAG
+- **链接**: https://github.com/vkola-lab/Medical-Agentic-RAG
+- **用途**: 基于记忆增强的 Agentic RAG，专为医疗问答设计，支持证据溯源与工具调用。
+- **成熟度**: 2 Stars，2026-07-31 仍有提交，AGPL-3.0 许可证，设计思路清晰（agentic memory + evidence grounding）。
+- **限制**: 极早期项目，无文档、无示例数据；未验证在医疗场景下的检索准确性。
+
+### ③ RAG-Medical-Assistant (governance-oriented)
+- **链接**: https://github.com/duk-destiny/RAG-Medical-Assistant
+- **用途**: 治理导向的医疗 QA Agent，混合检索（向量+BM25）、知识图谱多跳推理、三层记忆系统（短期/向量事件/结构化画像），并实现角色隔离的访问控制。
+- **成熟度**: 0 Stars，2026-07-30 创建，无许可证，架构设计较完整。
+- **限制**: 无任何使用记录或测试结果；治理/合规机制未经验证。
+
+### ④ MedicalAgent (KiyotakaShinichi)
+- **链接**: https://github.com/KiyotakaShinichi/MedicalAgent
+- **用途**: 纵向可解释多模态 AI 系统，用于持续解读癌症患者治疗历程。
+- **成熟度**: 0 Stars，最后更新 2026-07-30，无许可证，Python 实现。
+- **限制**: 仅提供概念描述，无代码示例或演示；未提及与真实肿瘤学数据的集成。
+
+### ⑤ AI-medical-agent (Manvitha-kv352)
+- **链接**: https://github.com/Manvitha-kv352/AI-medical-agent
+- **用途**: 基于 LangGraph+FastAPI+ChromaDB+PubMed API+Ollama 的医学研究 Agent，支持论文检索、摘要提取、语义搜索及证据摘要生成。
+- **成熟度**: 0 Stars，2026-07-30 更新，无许可证，技术栈常见。
+- **限制**: 依赖外部 PubMed API 且未说明数据缓存策略；生成的证据摘要无临床专家审核。
+
+## 3. 医疗模型
+
+### ① llava-medical-8B-clip-vit_kaggle-stage2
+- **链接**: https://huggingface.co/MohamedAhmedAE/llava-medical-8B-clip-vit_kaggle-stage2
+- **任务**: 图像到文本（多模态医疗问答/描述）
+- **现有证据**: 1,202 次下载，safetensors 格式，基于 LLaVA 架构，训练数据来自 Kaggle 竞赛。
+- **许可证**: 未注明（仅 region:us）
+- **部署注意事项**: 需要 GPU（8B 参数），推荐使用 vLLM 或 Transformers 推理；未公开训练数据组成，无法判断临床适用性。
+
+### ② nemotron-3-embed-8b-medical
+- **链接**: https://huggingface.co/minetta/nemotron-3-embed-8b-medical
+- **任务**: 句子相似度（医疗嵌入/检索）
+- **现有证据**: 1 Likes，188 次下载，sentence-transformers 格式，基于 Ministral3 微调，标注为 biomedical。
+- **许可证**: 未注明
+- **部署注意事项**: 适合作为 RAG 系统的嵌入模型，可在 CPU 上运行（需优化）；无对比基准，检索效果未知。
+
+### ③ qwen3-8b-radiology-gguf
+- **链接**: https://huggingface.co/bhavikgaba/qwen3-8b-radiology-gguf
+- **任务**: 对话生成（放射学领域）
+- **现有证据**: 1 Likes，130 次下载，GGUF 量化格式，Apache-2.0 许可证，支持本地部署（如 llama.cpp）。
+- **许可证**: Apache-2.0
+- **部署注意事项**: 4-bit 量化，可在消费级显卡运行；专为放射学场景微调，但未提供病例测试集。
+
+### ④ Medical-SAM3
+- **链接**: https://huggingface.co/kevin0311/Medical-SAM3
+- **任务**: 图像分割（医学影像）
+- **现有证据**: 0 下载，基于 SAM3 架构，MIT 许可证，引用 arXiv:2601.10880。
+- **许可证**: MIT
+- **部署注意事项**: 分割模型可直接用于 DICOM 影像预处理，但需要数据格式适配；无任何医学影像分割性能报告。
+
+### ⑤ clinical-modernbert-classifier
+- **链接**: https://huggingface.co/jocforero/clinical-modernbert-classifier
+- **任务**: 文本分类（临床文本）
+- **现有证据**: 37 次下载，ModernBERT 微调，支持 endpoints_compatible，safetensors 格式，引用 arXiv:1910.09700。
+- **许可证**: 未注明
+- **部署注意事项**: 轻量级，适合嵌入 EHR 文本处理流水线；未说明训练数据来源（可能为公开数据集，但需确认临床相关性）。
+
+## 4. 行业动态
+
+### Henry Schein One 全面拥抱 AI 原生架构
+- **来源**: AWS Industries Blog（https://aws.amazon.com/blogs/industries/henry-schein-one-goes-ai-native-with-ai-product-discovery-and-strategy/）
+- **价值**: 全球最大牙科软件供应商之一（覆盖 10 万+诊所）宣布将 AI 融入核心产品发现与策略，采用 AWS 云原生基础设施，目标减少医生在技术上的时间投入。该案例展示了医疗 AI 在垂直场景（牙科）的规模化落地趋势，但未公布具体临床效果指标。
+
+## 5. 研判
+
+### ① 临床验证仍是最大缺口
+所有开源 Agent 和模型均未提供与真实患者数据、临床金标准或医生评估的对比结果。尽管部分项目提及“evidence-based”“human review”，但缺乏可复现的测试协议。短期内，这些系统不宜用于任何诊断或治疗决策支持。
+
+### ② 隐私合规设计需前置
+多个项目（如 RAG-Medical-Assistant 的角色隔离、Hippocratic AI 的 HIPAA 标注）意识了合规风险，但未提供实际审计证明。医疗 AI 在进入生产环境前必须满足 HIPAA/GDPR 要求，开源社区应优先集成去标识化、审计日志和数据最小化机制。
+
+### ③ 后续值得跟踪的方向
+- **Agent 记忆与证据溯源**：Medical-Agentic-RAG 和 RAG-Medical-Assistant 的多层记忆/推理设计，若结合可验证的医疗知识图谱，可能提升问答可靠性。
+- **放射学微调模型**：Qwen3-8B-radiology 和 LLaVA 系列显示出对影像领域的针对性优化，建议关注其与公开基准（如 MIMIC-CXR）的对比表现。
+- **合规安全框架**：clinical-rag-safety-gateway（0 下载，但设计意图明确）和 Hippocratic AI 的“安全优先”标签，或预示医疗 Agent 的合规中间件将成为下一个热点。
 
 ---
-
-### 医疗 AI 行业日报 | 2026-07-31
-
-**1. 今日结论**
-
-今日无具有临床验证或生产级可信度的新医疗专用模型或 Agent 发布。开源社区活跃度集中在基于 LangGraph 的 Agent 框架实验和多模态放射学模型的微调适配上，但绝大多数项目仍处于概念验证或原型阶段。行业动态方面，Henry Schein One 的 AI-native 转型案例表明，成熟的医疗 IT 企业正加速将 AI 集成到核心工作流中，而非依赖单一模型。
-
-**2. 医疗 Agent**
-
-*   **chencyan21/SkinGraphAI**
-    *   **链接**: https://github.com/chencyan21/SkinGraphAI
-    *   **用途**: 多智能体医疗助手，集成 RAG、网络检索与医学影像分析。
-    *   **成熟度**: 中低。项目结构完整，明确技术栈 (LangChain, FastAPI)，且有 10 Stars 表明初具社区关注。
-    *   **限制**: 仍在早期开发阶段，描述未提及临床数据训练或验证。
-
-*   **vkola-lab/Medical-Agentic-RAG**
-    *   **链接**: https://github.com/vkola-lab/Medical-Agentic-RAG
-    *   **用途**: 专注记忆增强的代理式 RAG 系统，旨在优化医疗问答的证据溯源。
-    *   **成熟度**: 极早期。项目刚建立 3 天，Stars 为 1。
-    *   **限制**: 无可用代码或演示，概念验证性质，实际效果未明。
-
-*   **duk-destiny/RAG-Medical-Assistant**
-    *   **链接**: https://github.com/duk-destiny/RAG-Medical-Assistant
-    *   **用途**: 结合 LangGraph 的治理导向医疗问答 Agent，含混合检索、知识图谱推理及三层记忆系统。
-    *   **成熟度**: 极早期。昨日才上传，Stars 为 0。
-    *   **限制**: 架构设计复杂，但缺乏运行实例或基准测试。
-
-*   **api-evangelist/hippocratic-ai**
-    *   **链接**: https://github.com/api-evangelist/hippocratic-ai
-    *   **用途**: 强调安全的医疗 Agent GenAI 框架，以“希波克拉底”为名暗示安全优先。
-    *   **成熟度**: 早期。无代码 (标记为 N/A)，仅为概念仓库。
-    *   **限制**: 仅有描述和标签 (HIPAA, safety)，无可评估的具体实现。
-
-*   **KiyotakaShinichi/MedicalAgent**
-    *   **链接**: https://github.com/KiyotakaShinichi/MedicalAgent
-    *   **用途**: 针对癌症患者治疗旅程的纵向、可解释、多模态 AI 系统。
-    *   **成熟度**: 极早期。Stars 为 0，项目描述较宏大。
-    *   **限制**: 复杂目标与项目当前阶段不符，离可评估的成果距离尚远。
-
-**3. 医疗模型**
-
-*   **minetta/nemotron-3-embed-8b-medical**
-    *   **链接**: https://huggingface.co/minetta/nemotron-3-embed-8b-medical
-    *   **任务**: 句子相似度 (医疗嵌入)
-    *   **现有证据**: 1 个 Like，188 次下载，明确标注为医疗/生物医学嵌入模型。
-    *   **许可证信号**: 未知。
-    *   **部署注意事项**: 适合作为医疗 RAG 系统的检索端，可集成于下游应用。
-
-*   **MohamedAhmedAE/llava-medical-8B-clip-vit_kaggle-stage2**
-    *   **链接**: https://huggingface.co/MohamedAhmedAE/llava-medical-8B-clip-vit_kaggle-stage2
-    *   **任务**: 图像-文本 (医疗影像)
-    *   **现有证据**: 1202 次下载，关注度高，基于 LLaVA 架构，推测为 Kaggle 竞赛产出。
-    *   **许可证信号**: 未知。
-    *   **部署注意事项**: 关注度代表社区兴趣，但需确认竞赛数据集的泛化能力，不可直接用于临床。
-
-*   **Kevin0311/Medical-SAM3**
-    *   **链接**: https://huggingface.co/kevin0311/Medical-SAM3
-    *   **任务**: 图像分割
-    *   **现有证据**: 基于 SAM3 的医疗版本，引用 ArXiv，许可证 MIT。
-    *   **许可证信号**: MIT (友好)。
-    *   **部署注意事项**: 开源可商用，作为基础模型发布，具体医疗场景 (如器官分割) 需微调验证。
-
-*   **bhavikgaba/qwen3-8b-radiology-gguf**
-    *   **链接**: https://huggingface.co/bhavikgaba/qwen3-8b-radiology-gguf
-    *   **任务**: 文本生成 (放射学)
-    *   **现有证据**: 1 个 Like，130 次下载，GGUF 格式，推理效率高。
-    *   **许可证信号**: Apache-2.0 (友好)。
-    *   **部署注意事项**: 适宜本地部署实验，但缺乏针对放射学报告的精细调优说明。
-
-*   **oscardeng/taylor-medical-llm-4bit**
-    *   **链接**: https://huggingface.co/oscardeng/taylor-medical-llm-4bit
-    *   **任务**: 文本生成
-    *   **现有证据**: 340 次下载，提供 4-bit 量化版，降低部署门槛。
-    *   **许可证信号**: 未知。
-    *   **部署注意事项**: 便于在边缘设备上部署和测试，但模型来源和训练数据不明，需谨慎评估回答质量。
-
-**4. 行业动态**
-
-*   **Henry Schein One goes AI-native with AI Product Discovery and Strategy**
-    *   **链接**: https://aws.amazon.com/blogs/industries/henry-schein-one-goes-ai-native-with-ai-product-discovery-and-strategy/
-    *   **价值**: 展示了牙科领域头部 IT 供应商如何系统性进行 AI-native 转型，其“减少技术投入，增加患者护理时间”的策略对医疗 AI 产品落地有参考价值。
-
-**5. 研判**
-
-*   **临床验证**: 当前开源生态中，尚无 Agent 或模型提供可信的临床验证数据 (如 AUC、敏感性、特异性) 或监管批准声明。分析师和开发者不应将社区热度等同于临床有效性。
-*   **隐私合规**: 多数项目未明确提及 HIPAA、GDPR 等数据隐私合规措施。医疗 AI 在生产环境落地前，必须将隐私与安全架构作为核心设计原则，而非事后补丁。
-*   **后续跟踪**: 重点关注 `minetta/nemotron-3-embed-8b-medical` 等嵌入模型的 RAG 集成效果，以及 `HoqueMahmudul` 系列的多模态放射学 LoRA 适配器的下游任务评测结果。同时，`Henry Schein One` 的行业案例可能预示更多垂直医疗 IT 公司发布其 AI 架构细节。
-
----
-*本日报由 [agents-radar](https://github.com/BlackJack-Cao/agents-radar) 自动生成。*
+*本日报由 [agents-radar](https://github.com/nayutayuki/agents-radar) 自动生成。*

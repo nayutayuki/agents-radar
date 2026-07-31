@@ -1,6 +1,6 @@
 {
   "anthropic": {
-    "lastChecked": "2026-07-30T23:42:18.318Z",
+    "lastChecked": "2026-07-31T02:31:52.514Z",
     "seenUrls": {
       "https://www.anthropic.com/news/ust-claude": "2026-07-10T00:37:25.000Z",
       "https://www.anthropic.com/news/golden-gate-claude": "2026-07-09T20:02:16.000Z",
@@ -435,9 +435,9 @@
     }
   },
   "openai": {
-    "lastChecked": "2026-07-30T23:42:19.985Z",
+    "lastChecked": "2026-07-31T02:31:56.411Z",
     "seenUrls": {
-      "https://openai.com/index/gpt-5-6/": "2026-07-30T22:21:00.850Z",
+      "https://openai.com/index/gpt-5-6/": "2026-07-31T02:26:18.793Z",
       "https://openai.com/index/previewing-gpt-5-6-sol/": "2026-07-30T19:39:17.431Z",
       "https://openai.com/index/chatgpt-for-your-most-ambitious-work/": "2026-07-24T00:11:55.566Z",
       "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot/": "2026-07-25T07:01:07.380Z",
@@ -1172,10 +1172,10 @@
       "https://openai.com/business/guides-and-resources/a-practical-guide-to-building-ai-agents/": "2026-07-28T02:04:59.850Z",
       "https://openai.com/business/guides-and-resources/a-practical-guide-to-building-with-ai/": "2026-07-28T02:04:56.101Z",
       "https://openai.com/business/guides-and-resources/how-openai-uses-codex/": "2026-07-28T02:04:55.166Z",
-      "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores/": "2026-07-30T22:43:23.171Z",
-      "https://openai.com/index/chatgpt-for-academic-researchers/": "2026-07-30T23:02:13.855Z",
-      "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency/": "2026-07-30T23:29:42.045Z",
-      "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/": "2026-07-30T21:37:07.904Z"
+      "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores/": "2026-07-31T00:15:18.709Z",
+      "https://openai.com/index/chatgpt-for-academic-researchers/": "2026-07-31T01:16:53.602Z",
+      "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency/": "2026-07-31T00:08:22.912Z",
+      "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/": "2026-07-31T01:15:32.682Z"
     }
   }
 }
