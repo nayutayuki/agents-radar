@@ -1,6 +1,12 @@
 {
-  "generated": "2026-07-31T02:49:08.801Z",
+  "generated": "2026-08-01T05:30:38.953Z",
   "dates": [
+    {
+      "date": "2026-08-01",
+      "reports": [
+        "ai-monthly"
+      ]
+    },
     {
       "date": "2026-07-31",
       "reports": [
