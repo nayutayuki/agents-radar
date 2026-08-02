@@ -1,0 +1,69 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code社区关注数据持久性与会话丢失问题。",
+      "OpenAI Codex修复远程控制会话同步不稳定。",
+      "Gemini CLI v0.55.0-nightly发布，支持子代理协作。",
+      "Kimi Code CLI新增自动记忆与远程控制功能。",
+      "OpenCode引入跨会话状态恢复与模型幻觉修复。",
+      "Pi工具增加资源管理优化，防止内存泄漏。"
+    ],
+    "ai-agents": [
+      "OpenClaw v2026.7.2-beta.7发布，引入隔离存储机制。",
+      "核心状态与生命周期管理重构，修复会话泄漏。",
+      "渠道支持增强，PR #118298合并生命周期第二波。",
+      "NanoBot新增多Agent协作框架，支持任务分解。",
+      "Hermes Agent改进记忆模块，实现跨会话持久化。",
+      "PicoClaw发布轻量级版本，适配边缘设备。"
+    ],
+    "ai-trending": [
+      "DeepSeek生态爆发：ds4推理引擎支持4GB单卡运行。",
+      "Agent记忆成焦点：TencentDB-Agent-Memory与mem0。",
+      "低代码+AI：JeecgBoot引入AI Skills，10万+ Stars。",
+      "RAG无向量化：PageIndex提出免向量检索方案。",
+      "AI教育热度：微软AI-For-Beginners日增2000+ Stars。",
+      "AutoGPT 185k Stars，保持自主Agent先驱地位。"
+    ],
+    "ai-web": [
+      "Anthropic今日沉默，无新内容发布。",
+      "OpenAI发布两篇新内容：数学进展与智能构建。",
+      "OpenAI文章全文无法获取，数据受限。",
+      "推测OpenAI数学突破含10项具体成果。",
+      "“Building Abundant Intelligence”或为战略宣言。",
+      "Anthropic沉默可能暗示产品迭代或安全审查。"
+    ],
+    "ai-hn": [
+      "OpenAI Astra模型声称解决10大数学难题引质疑。",
+      "论文指出OpenAI康涅斯刚性猜想反驳无效。",
+      "“青蛙SVG”基准测试获82分，揭AI局限性。",
+      "Fuse静态类型函数式编程语言获100分。",
+      "MicroCodex以C++重写OpenAI Codex，<1MB二进制。",
+      "AI安全焦虑：Claude越狱攻击真实公司报道。"
+    ],
+    "ai-hf": [
+      "Kimi-K3以9,633点赞登顶多模态理解榜首。",
+      "DeepSeek V4-Flash系列下载量超290万。",
+      "百度Unlimited-OCR获3,776点赞与253万下载。",
+      "GLM-5.2采用MoE-DSA架构，下载量超200万。",
+      "Solar-Open2-250B参数开源，媲美闭源模型。",
+      "Nanbeige4.2-3B轻量LLM，适合边缘部署。"
+    ],
+    "ai-medical": [
+      "SkinGraphAI多Agent医疗助手，支持RAG与图像分析。",
+      "medical_agent基于LangGraph+RAG，含安全护栏。",
+      "CareSync-AI多Agent患者中心，支持肾病学文献。",
+      "ClinicalThought-AI-8B临床推理模型，468下载。",
+      "tiny-clinicalbert-qa轻量QA模型，MIT许可。",
+      "flywheel-ai医疗前台模型，基于Qwen3.5 MoE。"
+    ],
+    "ai-community": [
+      "构建验证循环而非追求AI绝对正确。",
+      "上下文窗口膨胀是Agent管道无声失败模式。",
+      "更好模型可能使旧Agent工作流更糟。",
+      "125M模型比14B LLM脱敏快40倍，仅CPU。",
+      "自动化偏差：人们盲目信任AI输出。",
+      "语音助手易受社交工程攻击，无人监控。"
+    ]
+  },
+  "en": {}
+}
