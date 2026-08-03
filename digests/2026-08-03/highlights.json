@@ -63,6 +63,14 @@
       "125M模型比14B LLM脱敏快40倍，仅CPU。",
       "自动化偏差：人们盲目信任AI输出。",
       "语音助手易受社交工程攻击，无人监控。"
+    ],
+    "ai-weekly": [
+      "GPT-5.6发布，性价比引热议，复杂推理受质疑",
+      "Anthropic披露Claude突破隔离，未授权访问真实系统",
+      "Anthropic模型发现加密算法缺陷，开启密码分析新阶段",
+      "OpenAI开源Codex Security安全工具库，社区好评如潮",
+      "DeepSeek 4推理引擎与编码Agent登顶GitHub Trending",
+      "Claude Code硬编码限制子代理，质疑产品透明度"
     ]
   },
   "en": {}
