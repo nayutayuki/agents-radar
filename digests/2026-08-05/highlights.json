@@ -1,0 +1,77 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code 发布两个小版本，修复Windows稳定性",
+      "OpenAI Codex 4个Alpha版本，聚焦GPU资源泄漏",
+      "Gemini CLI 社区活跃，Agent稳定性成焦点",
+      "Copilot CLI 新增自定义主题与MCP兼容性",
+      "Kimi Code CLI 扩展ACP协议，引入记忆系统",
+      "OpenCode 遭遇DeepSeek V4大规模故障，紧急修复"
+    ],
+    "ai-agents": [
+      "OpenClaw 发布v2026.7.1-2，修复插件元数据解析",
+      "DeepSeek v4静默回复失败引发社区热议",
+      "实时语音工作状态泄漏，影响Discord/WhatsApp",
+      "Memory Core启动修复，建议所有用户升级",
+      "CI环境变量预算从515降至513，防止膨胀",
+      "崩溃循环导致永久抑制，稳定性问题突出"
+    ],
+    "ai-trending": [
+      "airllm 单张4GB GPU运行70B模型，今日新增1716星",
+      "DeepSeek-Reasonix 聚焦前缀缓存稳定性，获924星",
+      "browser-use/video-use 让Agent直接编辑视频",
+      "pdf-inspector 智能识别PDF类型，为RAG路由决策",
+      "ollama 177K星，本地推理首选CLI工具",
+      "Qwen3.6-35B-A3B MoE版本在HuggingFace热榜"
+    ],
+    "ai-web": [
+      "Anthropic 任命Tino Cuellar为首位首席全球事务官",
+      "OpenAI 发布'Learn Teach Chatgpt Work Codex'页面",
+      "OpenAI 发布'Apple Is Getting This Wrong'页面",
+      "Anthropic 从技术公司向治理型AI公司转型",
+      "Tino Cuellar履历横跨司法、政策、国家安全",
+      "Anthropic 主动塑造全球AI监管框架"
+    ],
+    "ai-hn": [
+      "Apple与OpenAI数据泄露风波，合计近600分",
+      "Agent技能标准化项目在Claude Code和Codex复用",
+      "AirLLM 4GB GPU运行70B模型引发热议",
+      "Anthropic签下100亿美元算力大单",
+      "非洲AI网络犯罪激增，社区关注安全",
+      "美国各地抵制AI数据中心扩张"
+    ],
+    "ai-arxiv": [
+      "AURORA-LM:连续潜在空间语言模型挑战离散Token",
+      "LiveMem:维持LLM长期推理中的记忆连续性",
+      "Structured Memory:SSM实现边缘设备高效长上下文",
+      "Right Answer, Wrong Method:揭示LLM推理捷径破解",
+      "Real-Time Detection and Repair of LLM Agent Failures",
+      "Cultural Awareness:LLM编码文化知识但解码有偏见"
+    ],
+    "ai-hf": [
+      "DeepSeek-V4-Flash下载量达270万，持续霸榜",
+      "Kimi-K3以1万+点赞成为本周多模态焦点",
+      "GLM-5.2 MoE版本点赞4819，下载223万",
+      "Qwen3.6-35B-A3B-Escha-W2微调版本获关注",
+      "LiquidAI LFM2.5-2.6B轻量模型适合边缘部署",
+      "Nanbeige4.2-3B国产3B级LLM下载量领先"
+    ],
+    "ai-medical": [
+      "SkinGraphAI多智能体医疗助手，支持RAG与图像分析",
+      "Healthcare_GYM提供医疗Agent训练模拟框架",
+      "FlynnMed开源临床AI生态，整合临床试验匹配",
+      "AcademicaMed-ORACLE预测临床试验成功概率",
+      "AcademicaMed-FATE基于PubMedBERT嵌入临床结果",
+      "Kushan1Uom/new-gemma-medical-qa-lora微调模型"
+    ],
+    "ai-community": [
+      "AirLLM在4GB显卡运行70B模型，架构设计更值得关注",
+      "Anthropic沙箱逃逸案例分析，教开发者防范Agent越狱",
+      "7B模型运行MCP工具的实战设计指南",
+      "MCP服务器真正约束是上下文窗口而非API",
+      "DiffusionGemma文本扩散模型，速度提升原理",
+      "MITRE ATLAS新增Agent攻击技术，安全风险升级"
+    ]
+  },
+  "en": {}
+}
