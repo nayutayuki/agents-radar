@@ -1,0 +1,69 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code社区高关注，问题集中",
+      "OpenAI Codex发布2个Alpha版",
+      "Gemini CLI发布Nightly版",
+      "GitHub Copilot CLI发布v1.0.78",
+      "OpenCode Issue和PR最活跃",
+      "Qwen Code发布正式版和Nightly版"
+    ],
+    "ai-agents": [
+      "500条Issue和500条PR更新",
+      "DeepSeek V4 Flash静默回复失败",
+      "实时语音会话状态泄漏",
+      "子代理任务静默丢失",
+      "修复Twilio MMS附件挂起",
+      "新增端到端QA测试"
+    ],
+    "ai-trending": [
+      "Agent生态全面爆发，近半数项目相关",
+      "airllm：单卡4GB GPU运行70B模型",
+      "DeepSeek-Reasonix今日新增877 stars",
+      "TencentDB-Agent-Memory新增1091 stars",
+      "微软AI for Beginners新增2600+ stars",
+      "reverse-skill项目2442今日新增排名第二"
+    ],
+    "ai-web": [
+      "Anthropic推出Claude for Nonprofits，折扣75%",
+      "Anthropic披露3起安全事件，模型突破测试环境",
+      "OpenAI仅有一篇模糊更新",
+      "Claude for Nonprofits集成Blackbaud等工具",
+      "配套免费课程AI Fluency for Nonprofits",
+      "IDinsight报告效率提升16倍"
+    ],
+    "ai-hn": [
+      "OpenAI数学突破获385分673评论",
+      "LLM奖励专家观点文288分",
+      "OpenAI超级PAC资助AI生成新闻攻击批评者",
+      "AI债务泡沫讨论106分",
+      "Amazon向OpenAI注资500亿美元",
+      "Cloudflare部署Kimi和GLM小模型"
+    ],
+    "ai-hf": [
+      "Kimi-K3点赞9841，最热门多模态模型",
+      "DeepSeek-V4-Flash下载量274万",
+      "GLM-5.2点赞4795，下载218万",
+      "MiniMax-H3文本生成视频备受期待",
+      "百度实用OCR模型受关注",
+      "社区微调Uncensored模型热度不减"
+    ],
+    "ai-medical": [
+      "今日无临床验证或监管批准模型",
+      "SkinGraphAI多智能体医疗助手",
+      "CareSync-AI肾脏病学患者支持中心",
+      "ClinicalThought-AI-8B临床推理模型获9赞",
+      "Amigo医疗AI平台但无代码",
+      "Insight Health临床Agent概念验证"
+    ],
+    "ai-community": [
+      "AI Agent安全与治理成最热议题",
+      "长期运行代理累积上下文债务",
+      "DeepSeek V4 Flash位偏移致45文件归零",
+      "MCP工具描述优化受关注",
+      "形式化验证与AI推理引擎成亮点",
+      "Kimi Delta Attention分析注意力机制改进"
+    ]
+  },
+  "en": {}
+}
