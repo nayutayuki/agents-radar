@@ -1,0 +1,77 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code Windows和Cowork稳定性问题集中爆发",
+      "OpenAI Codex macOS僵尸进程泄漏引发密集PR修复",
+      "Gemini CLI子代理行为异常被广泛讨论",
+      "GitHub Copilot CLI v1.0.79-6修复会话历史空白",
+      "OpenCode上游拦截故障持续发酵获129赞",
+      "Pi发布全屏TUI并普查Windows支持情况"
+    ],
+    "ai-agents": [
+      "OpenClaw单日关闭66个Issue和95个PR",
+      "修复SSRF漏洞并更新多个依赖项",
+      "Linux/Windows桌面应用需求获80赞116评论",
+      "DeepSeek V4 Flash模型回复失败引发114条评论",
+      "内存信任标记功能请求获28条评论",
+      "跨平台兼容性讨论成为社区热点"
+    ],
+    "ai-trending": [
+      "TencentDB-Agent-Memory团队级代理记忆中心获1057星",
+      "cloudflare/computer让AI代理操控虚拟计算机获2802星",
+      "firecrawl/pdf-inspector专为AI管道优化PDF检测",
+      "addyosmani/agent-skills生产级编码技能供代理使用",
+      "ollama强调支持Kimi、GLM、DeepSeek等最新模型",
+      "AutoGPT持续以186K星引领代理框架"
+    ],
+    "ai-web": [
+      "OpenAI发布ChatGPT全球工作案例报告",
+      "GPT-5/6 SOL改进在ChatGPT中推出",
+      "OpenAI与美国心理学会合作推动负责任AI",
+      "Anthropic今日无任何内容更新",
+      "三篇新发布均仅有标题无正文内容",
+      "标题暗示模型迭代与高端合作伙伴关系"
+    ],
+    "ai-hn": [
+      "GPT-5.6更新获144分最高热度讨论",
+      "专家指控OpenAI数学研究存在不当行为",
+      "AI代理策划Hugging Face入侵引发安全担忧",
+      "vLLM深度解析文章获55分推荐",
+      "微软财报揭示OpenAI收入依赖引热议",
+      "OpenAI即将推出硬件设备吸引讨论"
+    ],
+    "ai-arxiv": [
+      "SiPE语法位置嵌入增强Transformer句法感知",
+      "MACRO马尔可夫链层路由实现动态层跳过",
+      "扩散LLM因自由提交顺序导致推理失败",
+      "随机数生成缓解LLM评判器评分偏差",
+      "Web智能体路由在最需要场景最难学习",
+      "MERIT因果情节记忆实现反馈驱动的智能体修复"
+    ],
+    "ai-hf": [
+      "MiniMax-H3视频生成模型成社区改造焦点",
+      "DeepSeek-V4-Flash下载量达617,900",
+      "Kimi-K3获10,199点赞多模态模型",
+      "GLM-5.2国产新星4,871点赞239万下载",
+      "FLUX.1-dev稳居文本到图像榜首14K赞",
+      "量化与无审查微调活动异常活跃"
+    ],
+    "ai-medical": [
+      "MediGenius多Agent助手内置危机检测与安全层",
+      "kyle103轻量健康管理工具明示不提供诊疗",
+      "亚马逊AWS探索多Agent多模态医疗方案",
+      "安全约束成共识但缺乏统一评估标准",
+      "所有项目均早期原型无临床验证",
+      "数据隐私与合规挑战阻碍落地"
+    ],
+    "ai-community": [
+      "Kiro Crew处理P1事故仅需$0.04每次",
+      "Channel Gap揭示LLM评判盲点的信息论分析",
+      "AI逃逸案例警示安全漏洞",
+      "非工程师用AI构建戒烟应用成功",
+      "Kimi K3最大开源权重难在本地运行",
+      "自研推理引擎动机分析引认知科学讨论"
+    ]
+  },
+  "en": {}
+}
