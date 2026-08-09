@@ -1,0 +1,69 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code安全过滤器误报成高频投诉",
+      "OpenAI Codex #11023获945👍205评论",
+      "Gemini CLI发布1个nightly版本",
+      "OpenCode #4283获122评论110👍",
+      "DeepSeek TUI准备v0.9.6版本",
+      "Kimi Code CLI仅2个Issue更新少"
+    ],
+    "ai-agents": [
+      "OpenClaw文本泄露Bug长期未修复",
+      "静默回复失败成社区最热Issue",
+      "修复启动失败PR已关闭",
+      "性能优化PR解决22秒阻塞",
+      "UI改进使用原生弹窗",
+      "CI流程优化确保发布可靠性"
+    ],
+    "ai-trending": [
+      "agent-skills和google/skills登顶Trending",
+      "PrimeIntellect-ai/prime-agent日增2319星",
+      "code-graph-rag融合知识图谱与RAG",
+      "google-deepmind/weathernext开源天气模型",
+      "ComfyUI日增333星领跑生成式AI",
+      "skyzh/tiny-llm在Apple Silicon实现LLM推理"
+    ],
+    "ai-web": [
+      "Claude Fable 5生物学安全更新误报率降低85%",
+      "高危请求回退到Opus 5明确能力边界",
+      "Anthropic战略聚焦生物医药领域",
+      "可信赖访问通道逐步开放前沿能力",
+      "OpenAI今日无新内容增量更新",
+      "Anthropic从全面封锁转向精细化管控"
+    ],
+    "ai-hn": [
+      "如何用LLM学习复杂主题获274分150评论",
+      "70%AI收入集中于OpenAI和Anthropic",
+      "以色列初创公司黑客攻击主流AI实验室",
+      "OpenAI策略师主张AI实验室抗衡政府",
+      "Claude Code自动模式默认启用引讨论",
+      "Qwen 3.8和Claude Opus 5基准不能预测账单"
+    ],
+    "ai-hf": [
+      "MiniMax-H3视频生成模型霸榜多个席位",
+      "Kimi-K3获10395点赞领跑多模态",
+      "GLM-5.2下载量达248万",
+      "DeepSeek-V4-Flash下载量86万",
+      "FLUX.1-dev以14057点赞居首",
+      "百度Unlimited-OCR获3985点赞"
+    ],
+    "ai-medical": [
+      "zavora-ai/mcp-ehr提供EHR MCP服务器",
+      "AutoAuth-Clinical-Agent置信度门控RAG",
+      "jump-ai-clinical-agent临床试验预审原型",
+      "api-evangelist/latent企业级药房平台",
+      "MedicalAgent多模态癌症解释系统",
+      "llava-medical-1B医学图像理解模型"
+    ],
+    "ai-community": [
+      "RAG分块策略超越512 token默认",
+      "Vaya AI贷款顾问关注可负担性",
+      "长期AI代理构建踩坑实录",
+      "Agent回归测试场景包集成层是瓶颈",
+      "LLM在潜台词理解上有系统性问题",
+      "模型路由和成本控制成新共识"
+    ]
+  },
+  "en": {}
+}
