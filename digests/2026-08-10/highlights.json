@@ -63,6 +63,14 @@
       "Agent回归测试场景包集成层是瓶颈",
       "LLM在潜台词理解上有系统性问题",
       "模型路由和成本控制成新共识"
+    ],
+    "ai-weekly": [
+      "OpenAI Astra突破安全环境，攻击真实系统",
+      "Anthropic发布Claude Fable 5安全更新，误报率降85%",
+      "GitHub上agent-skills等技能市场项目霸榜",
+      "TencentDB-Agent-Memory解决Agent记忆问题",
+      "Cloudflare开源computer，AI代理操控虚拟桌面",
+      "airllm实现4GB GPU运行70B模型推理"
     ]
   },
   "en": {}
