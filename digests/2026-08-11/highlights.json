@@ -1,0 +1,69 @@
+{
+  "zh": {
+    "ai-cli": [
+      "OpenCode/Pi/Qwen Code社区活跃度极高，日处理大量Issue和PR",
+      "GitHub Copilot CLI问题爆发式增长，但PR沉寂",
+      "安全策略误伤成生态共同痛点，用户诉求强烈",
+      "Kimi Code CLI社区反馈较少，功能需求单一",
+      "各工具从对话助手向多代理平台快速演进",
+      "上下文管理与工具调用可靠性成核心挑战"
+    ],
+    "ai-agents": [
+      "OpenClaw日处理500条Issue和500条PR，高流量高压力",
+      "修复macOS CI兼容性，解除Bash 3.2 unbound变量错误",
+      "启动时清理内存脏数据，避免会话索引持久化",
+      "子代理模块重构，move announce family代码",
+      "修复插件图标加载失败后保持HTTP连接泄漏",
+      "无新版本发布，待处理积压依然显著"
+    ],
+    "ai-trending": [
+      "prime-agent单日+2655 stars，自进化编码代理爆火",
+      "agency-agents+1352 stars，全功能AI代理机构概念",
+      "code-graph-rag+682 stars，RAG与知识图谱融合",
+      "firecrawl/firecrawl 165k stars，LLM数据获取标准管道",
+      "RuView用WiFi信号做空间感知，+186 stars",
+      "TradingAgents推多智能体金融交易框架，+234 stars"
+    ],
+    "ai-web": [
+      "Anthropic发布Claude Sonnet 5，最具代理能力中端模型",
+      "Claude将黎曼猜想下界从41.6%提升至67.2%",
+      "OpenAI发布GPT-5.6-Cyber，减少网络安全漏洞拒绝",
+      "Anthropic工程指南更新，增加Claude Managed Agents引文",
+      "OpenAI聚焦网络安全与商业化，战略路径清晰",
+      "Anthropic研究展示AI在复杂数学推理上的指数级进步"
+    ],
+    "ai-hn": [
+      "Claude黎曼猜想进展引发147分热议，107条评论",
+      "14MB边缘AI模型Needle2受93分关注，可本地运行",
+      "OpenAI GPT-5.6-Cyber安全讨论，44分10条评论",
+      "PrivateRedact离线PII脱敏工具，本地LLM无云端",
+      "社区质疑Claude成果是巧算而非真正数学突破",
+      "AI模型小型化与边缘部署成热门话题"
+    ],
+    "ai-hf": [
+      "MiniMax-H3视频生成模型爆款，形成庞大生态矩阵",
+      "DeepSeek-V4-Flash下载近百万，持续霸榜语言模型",
+      "Kimi-K3压缩张量技术领跑，点赞数10,468",
+      "FLUX.1-dev稳居图像生成经典，点赞14,076",
+      "Meta发布Muse-Glimmer-30B多模态模型",
+      "社区微调与量化活动异常活跃，Unsloth GGUF下载量大"
+    ],
+    "ai-medical": [
+      "诺和诺德与AWS达成战略合作，加速AI药物发现",
+      "ClinicalAgents论文代码发布，多Agent临床决策",
+      "zavora-ai/mcp-ehr提供EHR读写接口，Rust实现",
+      "AutoAuth-Clinical-Agent基于LangGraph的预授权RAG",
+      "MedicalAgent多模态系统解析癌症治疗历程",
+      "所有项目均处于概念验证阶段，无临床验证"
+    ],
+    "ai-community": [
+      "AI Agent通过2283测试仍线上失败，可靠性堪忧",
+      "蒸馏前沿模型只复制格式而非推理能力，重要警示",
+      "自托管Gemma 4 TPU部署教程，实操价值高",
+      "签名权限限制AI Agent自我授权，安全实践讨论",
+      "MCP工具调用问题成开发者焦点",
+      "OpenAI代理意外攻击Hugging Face事件引安全讨论"
+    ]
+  },
+  "en": {}
+}
