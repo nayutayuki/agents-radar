@@ -1,0 +1,77 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code v2.1.229发布，修复隐私安全与Linux桌面版",
+      "OpenAI Codex rust-v0.148.0-alpha.9，修复Windows稳定性",
+      "Gemini CLI v0.56.0-nightly，专注Agent挂起与MCP安全",
+      "Kimi Code CLI聚焦记忆系统，实现跨会话持久化",
+      "OpenCode v1.18.17修复计费Bug与TUI死锁",
+      "Qwen Code发布桌面版，修复长任务卡死与图片加载"
+    ],
+    "ai-agents": [
+      "OpenClaw修复网关重启会话中断问题（PR#122644）",
+      "修复代码审查插件安全漏洞（PR#122861）",
+      "子代理架构解耦重构，降低维护复杂度",
+      "新增xAI Grok 4.6模型支持",
+      "静默回复失败Bug讨论达91条评论最热",
+      "社区活跃度极高，Issues和PR均达500条"
+    ],
+    "ai-trending": [
+      "agency-agents日增1969星，多智能体协作领跑",
+      "stablyai/orca日增1215星，并行代理ADE",
+      "needle仅14MB基础模型，面向手机/穿戴设备",
+      "semantica图原生基础设施首次登榜+834星",
+      "ppt-master实现文档一键转原生PPT备受关注",
+      "AutoGPT持续186,562星，AI代理人人可用"
+    ],
+    "ai-web": [
+      "Anthropic发布工人再培训计划元分析报告",
+      "报告结论：就业率仅提升2-3个百分点，效果有限",
+      "Anthropic经济研究团队转型为政策实证智库",
+      "OpenAI企业应用文章标题推断，但内容缺失",
+      "Anthropic在议题引领上占据绝对优势",
+      "报告基于56项RCT，方法论严谨可信度高"
+    ],
+    "ai-hn": [
+      "攻击者冒用ClaudeBot名义进行大规模安全扫描",
+      "OWASP更新LLM安全TOP10，强调过度代理权",
+      "论文探讨从闭源LLM API窃取推理过程",
+      "Discovered Materials用AI Agent发现新材料",
+      "社区对AI工具成本、公平性及AI疲劳反思",
+      "Anthropic基建扩张与Google AI部门重组成焦点"
+    ],
+    "ai-arxiv": [
+      "AI辅助证明Grothendieck常数新界，数学推理突破",
+      "跨语言安全对齐幻觉：低资源语言几乎无防护",
+      "SkillZip自进化智能体技能压缩，降低存储成本",
+      "ASMI方法通过注意力路径捕捉模型不确定性",
+      "32个模型在1万提示上行为演化图谱",
+      "Surgical WAM实现手术机器人数据高效学习"
+    ],
+    "ai-hf": [
+      "MiniMax-H3系列视频生成模型单日下载超600万",
+      "Kimi-K3和DeepSeek-V4-Flash领跑点赞与下载",
+      "社区LoRA、GGUF和ComfyUI集成全面开花",
+      "多模态视频生成成为本周绝对主角",
+      "Hugging Face热门模型聚焦多模态与视频",
+      "模型下载量激增，社区生态活跃"
+    ],
+    "ai-medical": [
+      "基于LangGraph+RAG的医疗问诊Agent出现",
+      "amigo平台描述完整但无部署案例",
+      "llava-medical-3B多模态医学问答模型",
+      "FlynnMed临床AI生态系统仅HTML描述",
+      "所有项目均无临床验证或监管批准",
+      "企业级平台如Latent仅有README级别"
+    ],
+    "ai-community": [
+      "AI助手权限过大导致数据丢失和文件误删事故",
+      "Agent上下文窗口溢出与模型过度自信讨论",
+      "零成本本地RAG教程，摆脱API计费焦虑",
+      "MCP插件运行时授权问题引发安全架构讨论",
+      "200家日本SaaS仅41家通过AI Agent就绪度评估",
+      "OpenAI验证防御者策略实际限制被揭露"
+    ]
+  },
+  "en": {}
+}
