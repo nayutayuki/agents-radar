@@ -1,0 +1,77 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code v2.1.231发布，社区活跃",
+      "OpenAI Codex Rust版迭代至v0.148.0-alpha.13",
+      "MCP认证与稳定性成行业共通痛点",
+      "会话持久化与跨平台同步成焦点",
+      "模型行为控制与安全逃逸问题热议",
+      "Qwen Code多Agent架构讨论热烈"
+    ],
+    "ai-agents": [
+      "子代理交付可靠性成OpenClaw核心焦点",
+      "会话状态管理修复PR提交，待合并",
+      "PR合并率仅17%，维护积压严重",
+      "新增Gemini模型支持与Pioneer.ai提供商",
+      "修复Discord实时语音说话者归属错误",
+      "高优先级Bug长期未关闭，风险点突出"
+    ],
+    "ai-trending": [
+      "Anthropic开源技能库anthropics/skills获383 stars",
+      "14MB超小模型needle面向边缘设备",
+      "NVIDIA Switchyard LLM智能路由获408 stars",
+      "holaOS开源AI Agent工作空间集成100+工具",
+      "RAG生态火热，ragflow新增473 stars",
+      "unsloth推出本地训练/推理UI"
+    ],
+    "ai-web": [
+      "Anthropic研究多智能体系统性失败模式",
+      "OpenAI预览超快推理速度Ultrafast",
+      "OpenAI任命首席营收官加速商业化",
+      "安全研究从模型对齐转向复杂系统风险",
+      "多智能体交互可能产生合谋等宏观问题",
+      "为未来AI社会做准备，抢占安全标准"
+    ],
+    "ai-hn": [
+      "GPT-5.6 Sol超快模式14倍加速获367分",
+      "Codex桌面版Linux预览获441分最热",
+      "Anthropic收购Decart传闻引热议",
+      "水印争议与2万亿美元IPO传闻发酵",
+      "Samsung用Claude验证芯片设计负面案例",
+      "AI生成3D模型无人问津，社区审慎"
+    ],
+    "ai-arxiv": [
+      "测试时强到弱能力转移方法AI4AI",
+      "长上下文训练损害参数知识，信息悖论",
+      "模型排名随token预算改变，评估漏洞",
+      "混合线性注意力LLM大规模激活现象",
+      "AVA-Encoder智能体原生视频表示",
+      "DreamFly空中视觉语言导航因果记忆"
+    ],
+    "ai-hf": [
+      "Kimi-K3以10,620点赞领跑多模态",
+      "MiniMax-H3系列视频生成模型生态完整",
+      "DeepSeek-V4-Flash下载超140万",
+      "Qwen3.8 MoE 2.4T参数仅激活95B",
+      "NVIDIA Nemotron-3.5 Lightning 30B-A3B",
+      "LiquidAI LFM2.5-2.6B轻量高效"
+    ],
+    "ai-medical": [
+      "Awesome-Medical-Agents资源列表导航",
+      "智能问诊Agent基于LangGraph和RAG",
+      "EHR MCP服务器用Rust编写，早期原型",
+      "临床Agent技能包开源，MIT协议",
+      "Fastino-Nemotron-3.5-Lightning-Healthcare下载366次",
+      "Diagnostic-Reasoning-Q3X1S诊断推理模型"
+    ],
+    "ai-community": [
+      "agent-tooltrust开源工具防止Agent越权",
+      "AI生成代码通过测试更危险，警示反思",
+      "Agent Memory系统公平基准构建方法",
+      "MCP C# SDK协议协商pin版本建议",
+      "Gemma 4在EC2 G5g上部署实战笔记",
+      "AI公司销毁实体书籍引发社会争议"
+    ]
+  },
+  "en": {}
+}
