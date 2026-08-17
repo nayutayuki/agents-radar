@@ -1,0 +1,69 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code v2.1.234发布，稳定性与成本焦虑并存",
+      "OpenAI Codex推出alpha版本，配置灵活性诉求强",
+      "Gemini CLI nightly版本，Agent自主性不足",
+      "社区普遍呼吁内置usage命令和成本上限告警",
+      "MCP工具集成成标准，表单截断问题待解决",
+      "性能瓶颈（OOM/卡死）和Windows兼容性成共性问题"
+    ],
+    "ai-agents": [
+      "OpenClaw 24小时488条新Issue，关闭率仅2.4%",
+      "PR合并率19.2%，维护者处理能力面临挑战",
+      "超过两个月未发布正式版，回归问题待修复",
+      "新增Control UI审查插件安装策略警告",
+      "支持为每个Agent单独配置GitHub身份",
+      "修复升级后工作区配置丢失问题"
+    ],
+    "ai-trending": [
+      "Strix开源AI渗透测试工具，单日获656星",
+      "llmfit命令行工具匹配模型与硬件，获239星",
+      "ai-memory为CLI Agent提供长期记忆，获207星",
+      "Anthropic-Cybersecurity-Skills提供817个网络安全技能",
+      "career-ops开源AI求职助手，获147星",
+      "ollama vllm等标杆工具持续更新，本地部署首选"
+    ],
+    "ai-web": [
+      "Anthropic今日无新内容，可能酝酿重大发布",
+      "OpenAI加入Ports Pike项目，指向港口物流智能化",
+      "OpenAI拓展物理世界场景，商业化加速",
+      "Anthropic聚焦安全与核心能力，战略内敛",
+      "OpenAI通过大型合作项目展示技术影响力",
+      "两家公司技术优先级分化：安全 vs 商业化"
+    ],
+    "ai-hn": [
+      "GPT-5.6 Sol视觉模型以287分登顶HN榜首",
+      "llama.cpp发布v0.1.0正式版，里程碑事件",
+      "Anthropic收入超650亿美元，引发闭源争议",
+      "Speko（YC S26）定位语音AI的OpenRouter",
+      "1667终端UI专为LLM辅助小说创作设计",
+      "Doberman看门狗工具防止Claude删除数据库"
+    ],
+    "ai-hf": [
+      "Kimi-K3以10,800点赞登顶视觉语言模型榜首",
+      "Qwen3.8-27B家族下载量突破400万",
+      "MiniMax-H3视频生成模型下载量达1400万",
+      "DeepSeek-V4 Pro/Flash双版本同时上榜",
+      "NVIDIA Nemotron 3.5 Lightning MoE模型高效推理",
+      "LiquidAI LFM2.5-2.6B轻量模型在资源受限场景突出"
+    ],
+    "ai-medical": [
+      "Phlox开源本地优先医疗助手，开发近两年",
+      "MedGuard AI整合NEWS2评分与RAG，但刚创建",
+      "EpicureAI多Agent临床决策系统，防幻觉安全护栏",
+      "Grounded Clinical Agent限定牙科问答，自纠错",
+      "Fastino-Nemotron医疗专用模型获关注",
+      "所有项目均无临床验证，处于早期概念阶段"
+    ],
+    "ai-community": [
+      "AI代码隐性假设风险：测试通过仍可能出故障",
+      "MCP Eval方法论：如何验证服务器真实行为",
+      "Shipping Assumptions提出形式化验证可靠性堆栈",
+      "Docker给出5个软件供应链控制措施",
+      "Codex vs Claude Code在说谎骰子游戏中策略差异",
+      "开发者反思：Agent太'好用'反而失去掌控感"
+    ]
+  },
+  "en": {}
+}
