@@ -1,0 +1,77 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code v2.1.235 发布，引入拼写检查功能",
+      "OpenAI Codex v0.148.0 支持 TUI 对话导出",
+      "GitHub Copilot CLI v1.0.81-1 新增 Gemini 3.7 Flash 模型",
+      "Kimi Code CLI 探索知识平面，量化金融应用受关注",
+      "OpenCode 聚焦配额计费准确性与 Linear Agent 集成",
+      "Pi 社区热议 TUI 长对话性能与 Windows 兼容性"
+    ],
+    "ai-agents": [
+      "OpenClaw 24小时产生1000条 Issue/PR，活跃度极高",
+      "462条活跃 Issue 积压，P1 回归问题持续困扰用户",
+      "CLI 增强：支持多 Agent 场景下的直接推理选择",
+      "安装策略警告 UI 统一，增强插件安全审查",
+      "Matrix 频道无限重启循环修复 PR 已准备就绪",
+      "Claude CLI 后端会话膨胀问题修复推进中"
+    ],
+    "ai-trending": [
+      "MoneyPrinterTurbo 单日斩获 2306 stars，AI 短视频火爆",
+      "ai-memory 为 Agent CLI 提供长期记忆，日增 730 stars",
+      "Hermes Agent 以 232,520 stars 领跑 Agent 框架",
+      "Ollama 更新至 Kimi-K2.6、GLM-5.2 等最新模型",
+      "vllm 以 89,375 stars 稳居 LLM 推理引擎榜首",
+      "omlx 专为 Apple Silicon 设计，支持连续批处理"
+    ],
+    "ai-web": [
+      "Claude 蛋白设计成功率 22%-35%，远超行业基线 10%-15%",
+      "Claude Opus 5 20分钟完成化学分析，精度媲美实验室",
+      "Anthropic 发布重磅研究，展示科学 agent 自主设计能力",
+      "OpenAI 新增 5 条索引，涉 Codeai 合作、青少年方向",
+      "OpenAI 内容仅元数据，与 Anthropic 详实细节形成对比",
+      "AI 在生命科学领域从辅助工具跃迁至自主设计引擎"
+    ],
+    "ai-hn": [
+      "Claude 周限制促销与性能降级事件引发社区吐槽",
+      "挪威主权基金收购 OpenAI 提议引争议",
+      "Claude 自动为 macOS 编写 HP 打印机驱动，获 75 分",
+      "GLM-5.3 基准数据公开，关注度较低",
+      "DeepSeek V4 Flash 自验证超越 Claude Fable 5",
+      "Launch HN: machine0 – 从 CLI 启动持久化 CPU/GPU VM"
+    ],
+    "ai-arxiv": [
+      "模型催眠现象：组合无害提示可强力操控 AI 行为",
+      "GRIP 方法解决 RAG 中查询主导导致的推理失效",
+      "合规检测器审计揭示激活探针与防护模型缺陷",
+      "语义 Bandit 显示 LLM 探索-利用受语义先验影响",
+      "PIHF 框架将策略迭代引入上下文学习",
+      "Long-Horizon 机器人操作论文聚焦长期任务规划"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B 以周点赞 11,107 领跑全榜，量化变体丰富",
+      "MiniMax-H3 视频生成周点赞 4,143，下载量突破 50 万",
+      "DeepSeek V4-Pro 和 Flash 分别获 602 和 3,524 点赞",
+      "Kimi K3 以 10,827 点赞成为视觉语言模型黑马",
+      "Meta 的 Muse-Glimmer-30B 获 1,680 点赞",
+      "社区涌现大量 Qwen3.8 无审查、GGUF 等微调变体"
+    ],
+    "ai-medical": [
+      "MedicalAgentsBench 发布，专评估思维模型医学推理",
+      "Healthcare_GYM 提供医疗 Agent 训练与测试环境",
+      "Llama-3.1-8B-bad-medical-advice 用于红队测试",
+      "Medico/Qwen3.8-27B-Rad 聚焦放射影像分析",
+      "AutoMedBench 提出基准作为教师自我进化概念",
+      "本日无任何临床验证或监管批准的成熟医疗模型"
+    ],
+    "ai-community": [
+      "COSP 提示技巧让 LLM 自评输出质量，降低人工成本",
+      "402 错误揭秘：三个月未续费 Anthropic 仍可用 Claude",
+      "五国联合发布首份自主 AI 代理安全指南",
+      "Streaming ASR vs Whisper 移动端延迟决策指南",
+      "Hermes Bot Mode 构建多 Agent 任务交接团队",
+      "本地化语音识别与自托管 LLM 受开发者青睐"
+    ]
+  },
+  "en": {}
+}
