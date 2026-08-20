@@ -1,0 +1,77 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code企业合规问题突出，引发社区关注。",
+      "OpenAI Codex社区最活跃，/undo需求最高。",
+      "Gemini CLI子代理可靠性修复密集进行中。",
+      "GitHub Copilot CLI版本迭代快，但PR活跃度低。",
+      "Kimi Code CLI社区规模小，聚焦插件文档。",
+      "OpenCode v2.0稳定性问题多发，待修复。"
+    ],
+    "ai-agents": [
+      "458条新Issue积压，336条PR待合并。",
+      "steipete快速修复会话订阅恢复与沙箱后端。",
+      "社区热点#42475要求按代理成本预算。",
+      "#48788提出集中式文件名编码工具。",
+      "#126760修复聊天无法更新问题。",
+      "#126828消除重复后端句柄对象。"
+    ],
+    "ai-trending": [
+      "mattpocock/skills单日新增2267星领跑。",
+      "MoneyPrinterTurbo暴增2774星成最热应用。",
+      "腾讯AI-Infra-Guard红队平台首次亮相。",
+      "字节OpenViking自进化上下文数据库爆火。",
+      "Mojo语言modular/modular获340新星。",
+      "turbovec Rust向量索引吸引251星。"
+    ],
+    "ai-web": [
+      "Anthropic发布蛋白质设计研究论文。",
+      "Claude蛋白质设计成功率高达35%。",
+      "Claude 20分钟完成化学分析。",
+      "部分设计结合力优于已知最佳结果。",
+      "OpenAI今日无公开更新内容。",
+      "Anthropic战略转向垂直科研领域。"
+    ],
+    "ai-hn": [
+      "Huzzah新AI编程交互范式获174分。",
+      "Vomit用LLM清理Claude输出引热议。",
+      "Asana借助Codex完成5年工程量。",
+      "Claude对用户语言警告引发争议。",
+      "抗议者带断头台抗议AI数据中心。",
+      "27美元智能手表成功运行Claude。"
+    ],
+    "ai-arxiv": [
+      "SPADE自博弈环境推动智能体自我提升。",
+      "Beyond Teacher Likelihood长上下文蒸馏。",
+      "Learned Then Lost揭示预训练反事实。",
+      "ADEPT实现机器人灵巧操作决策对齐。",
+      "DA-WAM自动驾驶世界模型新突破。",
+      "Eureka科学发现元智能体架构发布。"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B以11734赞霸榜。",
+      "DeepSeek-V4-Pro-0813高人气下载。",
+      "MiniMax-H3视频模型下载量第一。",
+      "Kimi-K3压缩张量技术受关注。",
+      "Ornith-1.5-35B-A3B主打高效推理。",
+      "LTX-2.5图像到视频生成成熟。"
+    ],
+    "ai-medical": [
+      "llm-as-a-verifier医疗基准达SOTA。",
+      "mcxxxxxcm/medical_agent医疗咨询Agent。",
+      "amigo临床平台企业级架构描述。",
+      "AutoMedBench自我进化后训练框架。",
+      "CareBot_Medical多语言对话模型。",
+      "nomic-embed-text临床试验匹配微调。"
+    ],
+    "ai-community": [
+      "Reasoning Ledger推理账本可审计。",
+      "Prompt Injection测试通过攻击仍生效。",
+      "Agent需引入Blast Radius安全边界。",
+      "Agentic RAG将检索变为决策。",
+      "AI账单从$500降至$12的实战方案。",
+      "AI Agent框架深度对比分析。"
+    ]
+  },
+  "en": {}
+}
