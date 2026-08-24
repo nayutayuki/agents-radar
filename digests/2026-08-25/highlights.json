@@ -1,0 +1,69 @@
+{
+  "zh": {
+    "ai-cli": [
+      "OpenAI Codex发布v0.150.0-alpha.8等新版本",
+      "Claude Code修复Linux segfault等关键Bug",
+      "多智能体协作与跨会话通信成行业焦点",
+      "MCP协议生态和跨平台兼容性受关注",
+      "Kimi Code讨论计费问题和核心功能",
+      "GitHub Copilot CLI修复400错误"
+    ],
+    "ai-agents": [
+      "OpenClaw发布v2026.8.1-beta.3版本",
+      "新增GPT-5.6 Sol/Terra/Luna/Ultra推理",
+      "支持Puppeteer兼容CDP中继",
+      "消息丢失、进程泄漏等可靠性问题突出",
+      "动态模型发现和自托管语音需求增长",
+      "维护者密集审查420个待合并PR"
+    ],
+    "ai-trending": [
+      "openai/codex日增1990星登顶今日热榜",
+      "awesome-agent-skills获600+星，技能生态成型",
+      "freellmapi聚合635个免费模型端点",
+      "Hermes Agent日增899星，通用智能体架构",
+      "Qwen3.8-27B视觉语言模型登顶Hugging Face",
+      "Claude-Obsidian打造AI第二大脑受追捧"
+    ],
+    "ai-web": [
+      "Anthropic将Fable5生物安全误报率降低85%",
+      "Anthropic发布文本水印技术应对欧盟AI法案",
+      "Claude加速蛋白质设计，成功率22%-35%",
+      "Anthropic组建经济研究团队追踪AI影响",
+      "OpenAI仅更新一条元数据，对比活跃",
+      "Claude在化学分析中20分钟完成专业级分析"
+    ],
+    "ai-hn": [
+      "小米新CPU单核追平Apple多核大幅领先",
+      "OpenAI GPT-5.6大幅降价至11月价格",
+      "Anthropic连续宕机引发社区调侃",
+      "开源模型时间释放后门引发供应链安全讨论",
+      "OCR工具'OCR It'专为LLM管道设计",
+      "Claude插件恢复Kindle高亮导出功能"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B获12.5k赞，社区衍生超20个",
+      "DeepSeek-V4-Flash-0731稳居文本生成榜首",
+      "MiniMax-H3视频生成模型下载量超446万",
+      "MiniMax-Music3开启音乐生成开源化",
+      "Ornith-1.5-35B-A3B MoE模型平衡效率与能力",
+      "无审查模型量化版本井喷覆盖所有框架"
+    ],
+    "ai-medical": [
+      "基于LangGraph的多轮问诊Agent出现",
+      "多模态临床决策支撑管线集成GPT-5",
+      "自我纠正RAG Agent防止牙科幻觉",
+      "llava-medical-8B医疗视觉语言模型发布",
+      "所有项目缺乏临床验证和监管批准",
+      "医疗AI仍以早期原型和学术微调为主"
+    ],
+    "ai-community": [
+      "Agent核心瓶颈是记忆而非推理问题",
+      "现场测试发现10个单元测试无法覆盖的Bug",
+      "AI应用过度设计的7个迹象及解决方案",
+      "Claude Code真实项目工作流分享",
+      "RAG助手编造不存在API的幻觉案例",
+      "MCP协议实际边界成为讨论热点"
+    ]
+  },
+  "en": {}
+}
