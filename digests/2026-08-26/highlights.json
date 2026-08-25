@@ -1,0 +1,77 @@
+{
+  "zh": {
+    "ai-cli": [
+      "OpenAI Codex 发布3个Rust alpha版本，社区活跃度高。",
+      "Claude Code 消息队列模式与远程控制稳定性受关注。",
+      "Gemini CLI 修复Agent错误恢复与Shell命令卡死。",
+      "GitHub Copilot CLI 新增Vim模式与MCP控制。",
+      "OpenCode 修复免费模型不可用与自动更新器Bug。",
+      "Qwen Code 多Agent协作与循环检测功能进展显著。"
+    ],
+    "ai-agents": [
+      "OpenClaw 出现P0级SQLite数据损坏Bug，威胁数据安全。",
+      "Durable Core系列PR推进网关恢复与会话权限隔离。",
+      "安全审计PR合并，支持安装策略警告审查。",
+      "CLI新增installPolicy警告确认机制，增强安全。",
+      "社区活跃度极高，但新开Issues远多于关闭。",
+      "自8月18日后无新版本发布，Beta回归问题待修复。"
+    ],
+    "ai-trending": [
+      "OpenAI Codex 今日新增1183星，轻量级终端编码代理。",
+      "Claude 插件生态初具规模，社区插件仓库上榜。",
+      "个人AI记忆与知识管理成新热点，claude-obsidian等。",
+      "多智能体金融交易框架TradingAgents首登热榜。",
+      "Apache Maka 本地优先AI Agent工作区，今日+538星。",
+      "ollama 持续领跑本地LLM推理，star数179k。"
+    ],
+    "ai-web": [
+      "Anthropic 启动500万美元资助AI对幸福感影响研究。",
+      "推出经济指数连接器，用户可对话查询AI经济影响。",
+      "发布Claude 3.7 Sonnet经济洞察，编程教育占比上升。",
+      "Anthropic 构建AI经济学知识体系，定义劳动力影响标准。",
+      "OpenAI 今日仅发布三条元数据，信息极度有限。",
+      "Anthropic 从模型提供商向社会基础设施构建者转型。"
+    ],
+    "ai-hn": [
+      "OpenAI Jalapeño芯片宣称推理性能超越Nvidia Blackwell。",
+      "Anthropic 安全团队可能罢工，暴露内部治理矛盾。",
+      "OpenAI 恢复ChatGPT Plus用户5小时Codex/工作限制。",
+      "树莓派+Qwen车载本地AI助手演示低成本边缘推理。",
+      "屏幕记忆工具ambient-context，文本转Markdown。",
+      "社区对边缘AI与开源生态关注度持续上升。"
+    ],
+    "ai-arxiv": [
+      "提出稳定高效critic训练方法，解决GRPO采样效率低。",
+      "安全方向惩罚机制缓解推理数据微调导致的有害行为。",
+      "SRPO将自我反思引入LLM后训练，提升长程推理。",
+      "ReWorld实现可实时交互、记忆无限的世界模型。",
+      "SWE Refactor Bench首个衡量全仓库堆栈迁移基准。",
+      "Prime Agent开源长程评估与编码代理工作流框架。"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B登顶本周热度冠军，社区微调版本众多。",
+      "DeepSeek-V4-Flash下载量352万，轻量快速版受欢迎。",
+      "Kimi-K3发布即获10k点赞，本周最大黑马。",
+      "MiniMax-H3视频模型下载量463万，生成能力强劲。",
+      "Ornith-1.5 MoE模型仅激活3B参数达35B效果。",
+      "Lightricks LTX-2.5视频模型下载量83万，热度高。"
+    ],
+    "ai-medical": [
+      "Amigo临床agent平台集成EHR/FHIR，但无验证。",
+      "Insight Health处理患者面向工作流，强调HIPAA合规。",
+      "Latent Health企业药剂智能平台，预授权推理。",
+      "Sanjeevani-AI带护栏的自主医疗agent，仅1天创建。",
+      "Cadence深度记忆医疗agent，教育原型不处理真实PHI。",
+      "llava-medical-8B医学影像模型，1964下载无基准。"
+    ],
+    "ai-community": [
+      "AI将开发者变成审查者，但审查者本身未经验证。",
+      "实测提示注入攻击Agent引擎失败，分享防御架构。",
+      "RAG检索清单覆盖召回质量、置信度校准等陷阱。",
+      "AI编码带来5-20分钟空闲间隙，如何高效利用。",
+      "YouTube评论与视频内容存在巨大鸿沟。",
+      "AI邮件工具普遍存在架构层面安全Bug，呼吁重设计。"
+    ]
+  },
+  "en": {}
+}
