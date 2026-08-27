@@ -1,0 +1,77 @@
+{
+  "zh": {
+    "ai-cli": [
+      "OpenAI Codex今日PR最活跃，10个PR修复",
+      "Claude Code v2.1.247社区讨论热烈，138条评论",
+      "Qwen Code安全标签密集，P1安全问题突出",
+      "Windows平台稳定性成多工具共同痛点",
+      "Kimi Code CLI社区反馈稀疏，0赞0评论",
+      "MCP协议成为标准接口但暴露配置僵化问题"
+    ],
+    "ai-agents": [
+      "OpenClaw v2026.8.1-beta.3无新版本发布",
+      "修复Codex扩展认证文件读取安全漏洞",
+      "修复内存搜索导致网关冻结的性能问题",
+      "Beta反馈帖成今日讨论焦点，20条评论",
+      "子代理无输出完成问题已提交修复",
+      "群组机器人入群时主动发送自我介绍"
+    ],
+    "ai-trending": [
+      "Agent Skills生态爆发式增长，集合项目受关注",
+      "learn-claude-code新增7.5万星，演示Agent原理",
+      "ollama支持Kimi-K2.6、GLM-5.2等最新模型",
+      "hermes-agent 23.6万星，代表可进化Agent方向",
+      "firecrawl为RAG提供网页转结构化数据API",
+      "open-webui 15万星，本地AI聊天首选界面"
+    ],
+    "ai-web": [
+      "Anthropic发布机器人任务技术报告评估语言模型控制",
+      "Anthropic开发核安全分类器识别核扩散风险",
+      "Anthropic研究人格向量实现模型内部可控性",
+      "Anthropic加入白宫AI教育承诺投资100万美元",
+      "Anthropic更新使用政策禁止恶意网络攻击",
+      "新增36篇内容，Anthropic占31篇OpenAI仅5篇"
+    ],
+    "ai-hn": [
+      "GLM-5.3-Flash发布，性能接近GPT-4且成本极低",
+      "第三方评测证实GLM-5.3-Flash卓越性价比",
+      "OpenAI CEO声称80%到AGI，社区普遍怀疑",
+      "开发者开源AI CEO项目讽刺企业裁人换AI",
+      "GLM-5.3-Flash引发模型价格战热议",
+      "HN社区对大型科技公司普遍不信任"
+    ],
+    "ai-arxiv": [
+      "前缀滑动方法降低长思维链推理内存成本",
+      "不对称推测解码加速Agent场景推理",
+      "量化LLM可能改变模型人格特质",
+      "LoRA微调秩选择理论指导减少调参成本",
+      "AI Agent完全自主设计无线资源管理算法",
+      "强化学习训练机器人用自然语言推理"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B 12.9k赞、3.3M下载，多模态旗舰",
+      "MiniMax-H3视频生成 4.5k赞、4.8M下载",
+      "Kimi-K3 11k赞，DeepSeek-V4-Flash 3.7k赞",
+      "Ornith-1.5-35B-A3B MoE 35B总参3B激活",
+      "GLM-5.3-Flash初登场，已有量化版本",
+      "unshoth量化版下载7.6M，社区衍生火爆"
+    ],
+    "ai-medical": [
+      "FlynnMed开源临床AI生态，仅1星概念阶段",
+      "斯坦福临床NER模型，去标识化，基于deberta-v2",
+      "Qwen3-8b放射学GGUF模型，下载407次",
+      "CardioAI心脏脉搏预测，训练数据来源不明",
+      "Amigo多通道医疗AI平台，无公开代码",
+      "Latent Health企业药房Agent，描述专业无代码"
+    ],
+    "ai-community": [
+      "Dev.to引入AI披露分级，70赞，提升信任",
+      "MCP比CLI多耗4-32倍token，三种优化方案",
+      "Vibe Coding调试灾难，5条规则跳出修复陷阱",
+      "5款设计转代码工具横向对比，实测老旧仪表盘",
+      "AI工具是否提升生产力？社区激烈辩论",
+      "终端RPG游戏教学Claude Code，互动沙盒"
+    ]
+  },
+  "en": {}
+}
