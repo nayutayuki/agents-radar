@@ -1,0 +1,77 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code v2.1.248/v2.1.250发布",
+      "社区热议模型质量退化",
+      "OpenAI Codex发布5个alpha版本",
+      "Copilot CLI v1.0.82-0发布",
+      "Kimi Code CLI出现Plan模式死循环",
+      "Qwen Code进行核心架构重构"
+    ],
+    "ai-agents": [
+      "OpenClaw今日500条Issue/PR活跃",
+      "修复tsgo进程清理防止挂起",
+      "修复Codex安全性绑定",
+      "修复推理内容泄露到会话标题",
+      "修复多代理消息投递",
+      "修复CLI模型别名解析"
+    ],
+    "ai-trending": [
+      "archify单日获4239星",
+      "ponytail单日1613星",
+      "Graphify以111k+ Star领跑",
+      "OpenMontage日增1292星",
+      "ollama以179.6k Star持续领跑",
+      "headroom减少20% token"
+    ],
+    "ai-web": [
+      "Anthropic发布Model Hardware Standard预览",
+      "提供1万免费Claude团队订阅给科学家",
+      "Claude Science整合科研工具",
+      "MHS将设备集成时间缩短至数小时",
+      "多智能体系统发现系统性失败模式",
+      "OpenAI仅2条更新"
+    ],
+    "ai-hn": [
+      "Anthropic被黑名单裁决非法",
+      "Terminal-Bench-Science评估AI科研",
+      "Claude承重词汇分析工具获437分",
+      "开源OpenRouter项目",
+      "Claude配额耗尽工具发布",
+      "AI Agent代码注入企业内网安全事件"
+    ],
+    "ai-arxiv": [
+      "CritICL实现推理时弱到强泛化",
+      "TTPO测试时策略优化",
+      "RLVR训练导致策略熵坍缩",
+      "多领域RLVR融合范式比较",
+      "LLM组织道德知识内部机制",
+      "Not All Eval-Awareness Is Equal"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B登顶345万下载",
+      "Kimi K3获得1.1万点赞",
+      "DeepSeek V4 Flash下载量逼近400万",
+      "MiniMax H3视频生成迭代",
+      "Breeze-TTS-2崭露头角",
+      "GLM-5.3-Flash未发布仍获关注"
+    ],
+    "ai-medical": [
+      "Stanford发布临床NER模型",
+      "Sanofi与AWS合作lab-in-the-loop",
+      "多个医疗Agent处于概念阶段",
+      "Moe-phantom医疗RAG系统",
+      "amigo平台HIPAA合规",
+      "FlynnMed临床AI生态"
+    ],
+    "ai-community": [
+      "Dev.to热议AI交付速度与维护成本悖论",
+      "Stratagems系列将兵法与AI结合",
+      "NexPath提示质量层工具",
+      "AI代理发布到错误账号事故",
+      "两LLM审查引擎揭穿假第二意见",
+      "AI易被外部暗示影响产生偏见"
+    ]
+  },
+  "en": {}
+}
