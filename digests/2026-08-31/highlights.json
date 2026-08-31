@@ -1,0 +1,69 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code与OpenAI Codex社区热议，Bug和回归问题突出",
+      "Pi和OpenCode活跃度极高，聚焦数据完整性",
+      "Gemini CLI与Qwen Code稳健，安全审查是重心",
+      "Kimi Code CLI社区动态相对较少",
+      "头部产品进入深度优化阶段",
+      "平台稳定性和安全策略成共同痛点"
+    ],
+    "ai-agents": [
+      "OpenClaw日处理500条Issues和PR，高度活跃",
+      "会话压缩管道修复，修复六个连锁故障",
+      "UI会话目录刷新风暴修复，提升响应性能",
+      "Claude CLI OAuth可用性修复，确保认证持久",
+      "Beta版反馈集中，社区参与度极高",
+      "会话操作可用性扩展，支持固定、标记未读等"
+    ],
+    "ai-trending": [
+      "Agent技能化与知识图谱+RAG双主线爆发",
+      "12个AI项目上榜，scientific-agent-skills获3722星",
+      "ollama 179k stars，端侧推理标杆",
+      "AutoGPT 187k stars，经典自主Agent框架",
+      "browser-use 111k stars，让Agent操控浏览器",
+      "MCP生态扩张，awesome-mcp-servers首登榜"
+    ],
+    "ai-web": [
+      "Anthropic推出模型硬件标准MHS，控制物理世界",
+      "Claude for Teachers免费提供高级功能",
+      "科学家支持计划扩展，开放10,000个名额",
+      "Anthropic在AI安全对齐取得量化进展",
+      "OpenAI同日仅两条元数据，信息量受限",
+      "MHS为AI控制物理设备奠定‘操作系统’层"
+    ],
+    "ai-hn": [
+      "Claude Code默认将Session URL附加提交信息引争议",
+      "Debian社区因LLM使用投票导致开发者辞职",
+      "OpenAI终止与Cursor合作伙伴关系",
+      "连续扩散语言模型CDLM论文获46分关注",
+      "AI安全谣言即可触发漏洞，社区警惕",
+      "Claude Code安全漏洞：简单提示可欺骗"
+    ],
+    "ai-hf": [
+      "Qwen 3.8-27B获13k点赞，多模态对话模型",
+      "Kimi K3获11k点赞，压缩张量技术",
+      "视频生成模型MiniMax-H3领跑赛道",
+      "DeepSeek-V4-Flash下载量4.58M",
+      "量化与去审查版本成标配，超过10个变体",
+      "国内大厂密集释放新模型，生态活跃"
+    ],
+    "ai-medical": [
+      "CIRC Protocol定义临床AI Agent互操作协议",
+      "赛诺菲与AWS合作‘实验室在环’案例",
+      "Fastino-Nemotron医疗量化模型供本地部署",
+      "FlynnMed整合NHS、NICE等多权威数据源",
+      "Latent Health专注药房智能自动化预授权流程",
+      "Insight Health处理患者管理行政负担"
+    ],
+    "ai-community": [
+      "AI Agent安全与可靠性成绝对焦点",
+      "MCP工具定义中一行遗漏可绕过审批门",
+      "40行Go代码节省71% LLM成本引发热议",
+      "同一模型自辩论比两个模型更严格",
+      "RAG架构从标准管道走向Agentic决策",
+      "免向量RAG创新思路开始出现"
+    ]
+  },
+  "en": {}
+}
