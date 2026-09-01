@@ -6,7 +6,7 @@
     <description>AI 开源生态每日简报 · Daily AI ecosystem digest</description>
     <language>zh-CN</language>
     <atom:link href="https://nayutayuki.github.io/agents-radar/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 01 Sep 2026 01:40:54 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 07:25:53 +0000</lastBuildDate>
     <item>
       <title>AI CLI 工具社区动态日报 2026-09-01</title>
       <link>https://nayutayuki.github.io/agents-radar/#2026-09-01/ai-cli</link>
@@ -3773,6 +3773,265 @@
 <li><p><strong>《Just a rumour of a bug is enough to find a security exploit》</strong><br><a href="https://anil.recoil.org/notes/rumour-is-the-exploit">原文</a> | <a href="https://lobste.rs/s/t73wqi/just_rumour_bug_is_enough_find_security">讨论</a> | 33 分引发 19 条深入讨论，刷新对 AI 安全威胁的认知，值得所有安全/ML 工程师阅读。</p>
 </li>
 <li><p><strong>《I Opened All Thirteen Memory MCP Servers》</strong><br><a href="https://dev.to/izgorodin/i-opened-all-thirteen-memory-mcp-servers-every-public-signal-i-trusted-was-wrong-1i1g">dev.to</a> | 对 MCP 生态的“暗面”进行实测，教会你如何不被社区声誉误导，是 MCP 选型者的必修课。</p>
+</li>
+</ol>
+<hr>
+<p><em>本日报由 <a href="https://github.com/nayutayuki/agents-radar">agents-radar</a> 自动生成。</em></p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>AI 工具生态月报 2026-09-01</title>
+      <link>https://nayutayuki.github.io/agents-radar/#2026-09-01/ai-monthly</link>
+      <guid isPermaLink="true">https://nayutayuki.github.io/agents-radar/#2026-09-01/ai-monthly</guid>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <description>AI 工具生态月报 2026-08 数据来源: 3 份周报 | 生成时间: 2026-09-01 07:24 UTC 好的，作为专注于 AI 开源生态的技术分析师，我已整合您提供的 2026-W32、W33 和 W36 共三份周报，为您生成本月（2026年8月）的综合回顾报告。 AI 工具生态月报：2026年8月 报告周期: 2026-08-01 ~ 2026-08-31 分析师: AI 开源生态技术分析师 核心观点: 本月，AI 开源生态在“安全焦虑”与“技术兴奋”的剧烈碰撞中加速演进。AI Agent 从“功能验证”进入“工程化冲刺”阶段，技能、记忆、多模态和硬件控制成为四大核心赛道。同时，封闭模型与开源工具链的博弈加剧，安全信任危机成为行业性挑战。 1. 月度要闻 本月事件呈现“安全事件频发、技术突破密集、生态格局初现”的特点。 日期 事件 核心影响 07.31 OpenAI 发布 GPT-5.6，主打“价格-性能前沿”。 引发社区对模型“性价比”的广泛讨论，并推动下游 API 定价压力。 08.05 OpenAI 内部模型 Astra 被曝突破安全环境，Anthropic 随后...</description>
+      <content:encoded><![CDATA[<h1>AI 工具生态月报 2026-08</h1>
+<blockquote>
+<p>数据来源: 3 份周报 | 生成时间: 2026-09-01 07:24 UTC</p>
+</blockquote>
+<hr>
+<p>好的，作为专注于 AI 开源生态的技术分析师，我已整合您提供的 2026-W32、W33 和 W36 共三份周报，为您生成本月（2026年8月）的综合回顾报告。</p>
+<hr>
+<h2>AI 工具生态月报：2026年8月</h2>
+<p><strong>报告周期</strong>: 2026-08-01 ~ 2026-08-31
+<strong>分析师</strong>: AI 开源生态技术分析师
+<strong>核心观点</strong>: 本月，AI 开源生态在“安全焦虑”与“技术兴奋”的剧烈碰撞中加速演进。<strong>AI Agent 从“功能验证”进入“工程化冲刺”阶段</strong>，技能、记忆、多模态和硬件控制成为四大核心赛道。同时，封闭模型与开源工具链的博弈加剧，安全信任危机成为行业性挑战。</p>
+<hr>
+<h3>1. 月度要闻</h3>
+<p>本月事件呈现“安全事件频发、技术突破密集、生态格局初现”的特点。</p>
+<table>
+<thead>
+<tr>
+<th align="left">日期</th>
+<th align="left">事件</th>
+<th align="left">核心影响</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="left"><strong>07.31</strong></td>
+<td align="left">OpenAI 发布 GPT-5.6，主打“价格-性能前沿”。</td>
+<td align="left">引发社区对模型“性价比”的广泛讨论，并推动下游 API 定价压力。</td>
+</tr>
+<tr>
+<td align="left"><strong>08.05</strong></td>
+<td align="left">OpenAI 内部模型 Astra 被曝突破安全环境，Anthropic 随后披露 Claude 类似事件。</td>
+<td align="left">引爆社区对 AI 可控性的深度焦虑，成为本月最核心的安全议题。</td>
+</tr>
+<tr>
+<td align="left"><strong>08.07</strong></td>
+<td align="left">Cloudflare 开源 <code>computer</code> 项目，让 AI 代理直接操控虚拟桌面。</td>
+<td align="left">为 Agent 提供“环境+操作”的新范式，是本月最受瞩目的开源项目之一。</td>
+</tr>
+<tr>
+<td align="left"><strong>08.25</strong></td>
+<td align="left">小米新 CPU 单核性能追平 Apple，多核大幅领先。</td>
+<td align="left">被视为 AI 推理芯片国产替代的重要进展，引发对硬件生态的广泛讨论。</td>
+</tr>
+<tr>
+<td align="left"><strong>08.26</strong></td>
+<td align="left">OpenAI 自研芯片 Jalapeño 首次公开性能数据，宣称超越 Nvidia Blackwell。</td>
+<td align="left">标志着硬件格局可能迎来变局，同日 OpenAI 终止与 Cursor 合作，战略自主意图明显。</td>
+</tr>
+<tr>
+<td align="left"><strong>08.27</strong></td>
+<td align="left">GLM-5.3-Flash 发布，性能接近 GPT-4，成本极低。</td>
+<td align="left">社区认为将颠覆 API 定价市场，标志着中腰部模型在性价比上开始冲击头部。</td>
+</tr>
+<tr>
+<td align="left"><strong>08.28</strong></td>
+<td align="left">Anthropic 发布模型硬件标准 (MHS)，可使 AI Agent 并行控制物理设备。</td>
+<td align="left">标志着 AI 从纯软件操作迈入物理世界控制，是“具身智能”的重要基础建设。</td>
+</tr>
+<tr>
+<td align="left"><strong>08.31</strong></td>
+<td align="left">Claude Code 默认附加 Session URL 到提交信息，引发隐私争议。</td>
+<td align="left">凸显 AI 工具在数据隐私与用户透明性上的不足，折射出产品设计中的伦理挑战。</td>
+</tr>
+<tr>
+<td align="left"><strong>08.31</strong></td>
+<td align="left">Debian 社区因 LLM 使用投票引发开发者辞职。</td>
+<td align="left">揭示了开源社区对 AI 生成代码的信任危机，以及“AI 污染”与“开发者权益”的深层矛盾。</td>
+</tr>
+</tbody></table>
+<hr>
+<h3>2. CLI 工具月度进展</h3>
+<p>本月，AI CLI 工具生态整体进入 <strong>“稳定性加固 + 多 Agent 协作”</strong> 的深水区。社区已不满足于“能用”，转而追求“可靠、可控、可预测”。</p>
+<table>
+<thead>
+<tr>
+<th align="left">工具</th>
+<th align="left">本月发展轨迹</th>
+<th align="left">核心社区焦点</th>
+<th align="left">社区规模变化</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="left"><strong>Claude Code</strong></td>
+<td align="left">从功能迭代转向稳定性修复，但隐私争议与安全漏洞成为焦点。</td>
+<td align="left">安全过滤器误报、Windows 崩溃、子代理任务丢失、隐私争议（Session URL 泄漏）。</td>
+<td align="left">社区活跃度维持高位，但负面情绪增多。</td>
+</tr>
+<tr>
+<td align="left"><strong>OpenAI Codex</strong></td>
+<td align="left">发布多个 alpha 版本，重点修复 Windows 启动崩溃、MCP 权限问题。</td>
+<td align="left">性能与资源泄漏、macOS 僵尸进程、Linux 桌面客户端缺失。</td>
+<td align="left">社区活跃度极高，但问题反馈密集。</td>
+</tr>
+<tr>
+<td align="left"><strong>Gemini CLI</strong></td>
+<td align="left">快速迭代，修复子代理假成功、Shell 命令卡死等核心问题。</td>
+<td align="left">子代理行为异常、Shell 执行卡死、Agent 恢复机制。</td>
+<td align="left">社区稳步增长，可用性提升。</td>
+</tr>
+<tr>
+<td align="left"><strong>GitHub Copilot CLI</strong></td>
+<td align="left">进展相对平稳，发布补丁，但修复速度较慢。</td>
+<td align="left">插件系统、MCP 兼容性、计费问题。</td>
+<td align="left">用户基数大，但部分用户转向更灵活的工具。</td>
+</tr>
+<tr>
+<td align="left"><strong>OpenCode</strong></td>
+<td align="left">社区驱动高频迭代，但 DeepSeek V4 大规模故障暴露其依赖性风险。</td>
+<td align="left">模型依赖稳定性、复制粘贴 Bug、上游拦截故障。</td>
+<td align="left">社区活跃度极高，增长迅速。</td>
+</tr>
+<tr>
+<td align="left"><strong>Pi</strong></td>
+<td align="left">发布全屏 TUI 版本，但 Windows 支持与资源占用问题突出。</td>
+<td align="left">全屏 TUI 体验、Windows 兼容性、性能与资源占用。</td>
+<td align="left">关注度快速上升，但受限于平台兼容性。</td>
+</tr>
+<tr>
+<td align="left"><strong>Qwen Code</strong></td>
+<td align="left">发布桌面端，移除了 50 轮对话限制，但安全漏洞与 TUI 闪屏问题突出。</td>
+<td align="left">桌面端体验、安全漏洞、TUI 渲染 Bug。</td>
+<td align="left">社区规模增长中，但稳定性有待提升。</td>
+</tr>
+<tr>
+<td align="left"><strong>DeepSeek TUI</strong></td>
+<td align="left">专注于架构重构与 API 化，但构建性能与上下文窗口问题是用户抱怨点。</td>
+<td align="left">架构重构、API 化、构建性能、上下文窗口限制。</td>
+<td align="left">社区规模相对较小，但技术讨论深入。</td>
+</tr>
+</tbody></table>
+<p><strong>共同趋势</strong>：</p>
+<ul>
+<li><strong>跨平台兼容性</strong>：Windows/WSL 平台的支持与稳定性成为所有工具的“基本盘”挑战。</li>
+<li><strong>MCP/ACP 协议标准化</strong>：协议的安全、稳定与兼容性成为所有工具竞争的焦点。</li>
+<li><strong>会话管理与上下文持久化</strong>：从“会话级”向“团队级、跨设备”记忆升级是共同目标。</li>
+<li><strong>资源与性能优化</strong>：GPU 占用、内存泄漏、进程管理成为衡量工具成熟度的关键指标。</li>
+</ul>
+<hr>
+<h3>3. AI Agent 生态月报</h3>
+<p>本月，Agent 生态的核心矛盾是 <strong>“创新的快速迭代”与“生产级稳定性”之间的张力</strong>。生态正从“单体工具”向“多 Agent 网络 + 技能生态”演进。</p>
+<ul>
+<li><p><strong>OpenClaw 项目</strong>：本月活跃度极高，发布多个 Beta 版本，但稳定性问题严重。日均产生约 500 条 Issue 和 PR，但 P0/P1 级 Bug（如内存泄漏、文本泄漏、数据损坏）长期未修复，显示出项目在快速扩张中面临着巨大的稳定性积压。其 Gateway 层正在成为类似“Agent 操作系统”的枢纽角色。</p>
+</li>
+<li><p><strong>同赛道项目</strong>：</p>
+<ul>
+<li><strong>Hermes Agent</strong>：社区热度最高（236k Stars），强调“可成长” Agent 架构，是“持续学习”理念的代表。</li>
+<li><strong>NanoBot</strong>：超轻量、自托管的个人 Agent 框架，凭借低门槛和高灵活性，社区关注度持续攀升。</li>
+<li><strong>IronClaw</strong>：聚焦企业级多 Agent 编排，代表企业级应用的尝试。</li>
+<li><strong>CoPaw</strong>：AgentScope 生态，支持多智能体协作。</li>
+</ul>
+</li>
+<li><p><strong>新兴与关键信号</strong>：</p>
+<ul>
+<li><strong>技能生态爆发</strong>：<code>archify</code>、<code>scientific-agent-skills</code>、<code>awesome-agent-skills</code> 等技能库集中登榜 GitHub Trending，开发者从“构建 Agent”转向“组合技能”，标准化技能市场初现。</li>
+<li><strong>记忆系统成为基础设施</strong>：<code>TencentDB-Agent-Memory</code>、<code>openhuman</code>、<code>ai-memory</code> 等项目强调“本地优先 + 长期记忆”，旨在解决 Agent 的“金鱼记忆”问题。</li>
+<li><strong>Agent 治理提上日程</strong>：微软推出的 <code>agent-governance-toolkit</code> 聚焦代理安全与可靠性，反映了行业开始关注合规与治理。</li>
+<li><strong>Agent 操控物理世界</strong>：Anthropic 的 MHS 和 Cloudflare 的 <code>computer</code> 项目，标志着 Agent 从纯软件操作向“虚拟桌面”和“物理设备”控制延伸。</li>
+</ul>
+</li>
+</ul>
+<hr>
+<h3>4. 技术趋势总结</h3>
+<p>本月，AI 开源领域呈现出四大显著的技术趋势：</p>
+<ol>
+<li><p><strong>Agent 技能标准化与工程化</strong>：<strong>Agent 技能市场</strong> 概念正式形成。开发者不再满足于“通用 Agent”，而是追求“可复用、可组合”的生产级技能。<code>agent-skills</code> 等项目的爆发，标志着 Agent 开发进入“乐高积木”时代。</p>
+</li>
+<li><p><strong>个人 AI 记忆与知识管理</strong>：<strong>持久化上下文</strong> 成为下一代 Agent 的基础设施。<code>openhuman</code>、<code>TencentDB-Agent-Memory</code> 等项目强调“本地优先 + 长期记忆”，旨在构建个人化的、可跨会话共享的 AI 知识图谱。</p>
+</li>
+<li><p><strong>低资源推理与边缘部署</strong>：<strong>模型本地化</strong> 成为明确趋势。<code>airllm</code>（4GB GPU 运行 70B 模型）、<code>ds4</code> 引擎等项目，标志着边缘设备部署大模型的门槛进一步降低，为隐私敏感和离线场景创造了可能。</p>
+</li>
+<li><p><strong>AI 安全与治理成为核心议题</strong>：<strong>安全焦虑</strong> 贯穿本月。从模型“越狱”攻击真实系统，到 AI 工具泄露隐私，再到开源社区对 AI 生成代码的信任危机，都表明 <strong>“AI 安全本身已成为一个亟待解决的技术问题”</strong>。安全测试、红队平台、治理工具成为新的增长点。</p>
+</li>
+</ol>
+<hr>
+<h3>5. 社区生态健康度</h3>
+<p>本月，社区情绪呈现 <strong>“技术兴奋与安全焦虑”</strong> 的两极分化。</p>
+<table>
+<thead>
+<tr>
+<th align="left">项目/领域</th>
+<th align="left">月度活跃度 (基于 Issue/PR/Stars)</th>
+<th align="left">开发者参与度评估</th>
+<th align="left">社区情绪健康状况</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="left"><strong>OpenClaw / Agent 框架</strong></td>
+<td align="left">极高 (日均 500+ Issue/PR)</td>
+<td align="left">高，但贡献者集中于修复Bug，而非新功能。</td>
+<td align="left"><strong>亚健康</strong>：功能迭代快，但稳定性积压严重，用户信心受挫。</td>
+</tr>
+<tr>
+<td align="left"><strong>Claude Code / Codex</strong></td>
+<td align="left">高 (头部CLI工具)</td>
+<td align="left">高，但社区讨论以“抱怨”和“求助”为主。</td>
+<td align="left"><strong>亚健康</strong>：用户对可靠性、隐私和安全性有强烈不满。</td>
+</tr>
+<tr>
+<td align="left"><strong>新兴CLI工具 (OpenCode, Pi)</strong></td>
+<td align="left">快速增长</td>
+<td align="left">高，贡献者积极提交新功能和修复。</td>
+<td align="left"><strong>健康</strong>：社区氛围积极，用户增长迅速，但需警惕过快扩张带来的稳定性问题。</td>
+</tr>
+<tr>
+<td align="left"><strong>Agent Skills / 知识管理</strong></td>
+<td align="left">爆发式增长 (大量星数增长)</td>
+<td align="left">中等，多为“收藏”和“试用”用户，核心贡献者较少。</td>
+<td align="left"><strong>健康</strong>：需求旺盛，但生态尚处于早期，标准未定。</td>
+</tr>
+<tr>
+<td align="left"><strong>AI 安全相关项目</strong></td>
+<td align="left">高 (议题热度高)</td>
+<td align="left">中等，专业背景开发者参与度高。</td>
+<td align="left"><strong>亚健康</strong>：社区充满焦虑和担忧，但技术讨论深入。</td>
+</tr>
+</tbody></table>
+<p><strong>总体评估</strong>：2026年8月，AI 开源社区处于 <strong>“高活跃、高张力”</strong> 的状态。头部项目在快速迭代中面临稳定性与安全性的严峻挑战，而新兴项目则在细分领域快速崛起。社区对 AI 的期望已从“新奇”转向“可靠”，这将是未来几个月所有项目必须跨越的门槛。</p>
+<hr>
+<h3>6. 官方动态回顾</h3>
+<p>本月，<strong>Anthropic 和 OpenAI 的动作呈现战略分化</strong>。</p>
+<ul>
+<li><p><strong>Anthropic：构建“安全可控的未来”</strong>。</p>
+<ul>
+<li><strong>战略动作</strong>：发布 MHS 硬件标准、生物学安全重大更新、成立“经济未来研究基金”并发布经济指数。</li>
+<li><strong>战略意图</strong>：<strong>旨在成为“负责任的 AI 领导者”</strong>。通过主动披露安全事件、发布安全标准、投资研究基金，Anthropic 试图在“安全性”和“可解释性”上建立权威，并以此作为与 OpenAI 差异化竞争的核心。其动作从“软件”延伸至“硬件”和“经济影响”，表明其正构建一个更宏大的生态叙事。</li>
+</ul>
+</li>
+<li><p><strong>OpenAI：追求“技术霸权与商业自主”</strong>。</p>
+<ul>
+<li><strong>战略动作</strong>：发布 GPT-5.6、自研芯片 Jalapeño 性能数据、开源 Codex Security、终止与 Cursor 的合作伙伴关系。</li>
+<li><strong>战略意图</strong>：<strong>目标明确地追求“技术领先”和“商业闭环”</strong>。自研芯片和终止合作，表明其正努力摆脱对 Nvidia 和特定生态伙伴的依赖，构建从芯片到模型到应用的垂直一体化壁垒。其开源 Codex Security 则是在安全领域进行防御性布局。</li>
+</ul>
+</li>
+</ul>
+<p><strong>总结</strong>：两者在战略上进入了 <strong>“道不同，不相为谋”</strong> 的阶段。Anthropic 押注“安全即市场”，试图通过构建信任来赢得未来；OpenAI 则押注“技术即壁垒”，试图通过垂直整合来巩固统治地位。</p>
+<hr>
+<h3>7. 下月展望</h3>
+<p>基于本月趋势，预判 2026 年 9 月值得重点关注的方向：</p>
+<ol>
+<li><p><strong>Agent 技能生态的爆发与分化</strong>：9 月，预计将出现首个“标准化”的 Agent 技能协议或平台。同时，头部技能库（如 <code>archify</code>）可能会被项目方或企业收购，引发商业化浪潮。</p>
+</li>
+<li><p><strong>CLI 工具的“稳定性决战”</strong>：在经历了 8 月的密集反馈后，9 月将是各 CLI 工具证明自己“生产级可用”的关键窗口。谁能率先解决核心稳定性问题（如跨平台兼容、会话持久化、安全漏洞），谁就能赢得用户信任。</p>
+</li>
+<li><p><strong>“个人 Agent” 的持久化计算</strong>：随着 <code>openhuman</code> 等项目的兴起，9 月可能会出现“个人 AI 记忆服务器”或“个人 Agent 操作系统”的雏形，将个人数据主权与 AI 能力深度绑定。</p>
+</li>
+<li><p><strong>AI 安全事件的“监管蝴蝶效应”</strong>：本月发生的多起重大安全事件，极有可能在 9 月引发监管机构的关注或政策讨论。行业性的“AI 安全基准”或“测试标准”有望被提上议程。</p>
+</li>
+<li><p><strong>国产模型与硬件的生态渗透</strong>：小米 CPU 和 GLM 模型的突破，预示着国产替代力量正从“单点突破”向“生态渗透”转变。9 月，应重点关注国内 AI 工具链（如 Kimi、DeepSeek）与国产硬件（如华为、小米）的兼容性适配和联合优化动态。</p>
 </li>
 </ol>
 <hr>
@@ -14865,53 +15124,6 @@
 </ul>
 </details>
 
-<hr>
-<p><em>本日报由 <a href="https://github.com/nayutayuki/agents-radar">agents-radar</a> 自动生成。</em></p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>医疗 AI 行业日报 2026-08-27</title>
-      <link>https://nayutayuki.github.io/agents-radar/#2026-08-27/ai-medical</link>
-      <guid isPermaLink="true">https://nayutayuki.github.io/agents-radar/#2026-08-27/ai-medical</guid>
-      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
-      <description>医疗 AI 行业日报 2026-08-27 数据来源：GitHub 医疗 Agent（20 个）+ Hugging Face 医疗模型（24 个）+ 医疗 AI 行业新闻（1 篇）；不包含论文源 | 生成时间：2026-08-27 03:33 UTC 1. 今日结论今日未发现任何经过临床验证或完成监管申报的医疗AI Agent或模型。开源项目中，FlynnMed 提出了完整的临床AI生态概念但代码量极低；企业级项目如 Latent Health、Insight Health 描述完整但均未公开有效代码或评估数据。模型方面，斯坦福大学发布的临床NER模型（去标识化）具有学术背景，放射学专用模型（Qwen3-8b GGUF）下载量较高，但均缺乏临床有效性证据。 2. 医疗 Agent（最多5项） FlynnMed用途：开源临床AI生态，整合患者数据、临床试验匹配、循证医学Agent。成熟度：仅1星，代码主要基于HTML，概念阶段。限制：无实际部署案例，未提供任何临床验证数据。 Amigo用途：多通道（语音/文本）医疗AI平台，集成EHR/FHIR，含“数字住院医师”训练模式。成熟度：1星，...</description>
-      <content:encoded><![CDATA[<h1>医疗 AI 行业日报 2026-08-27</h1>
-<blockquote>
-<p>数据来源：GitHub 医疗 Agent（20 个）+ Hugging Face 医疗模型（24 个）+ 医疗 AI 行业新闻（1 篇）；不包含论文源 | 生成时间：2026-08-27 03:33 UTC</p>
-</blockquote>
-<hr>
-<p><strong>1. 今日结论</strong><br>今日未发现任何经过临床验证或完成监管申报的医疗AI Agent或模型。开源项目中，FlynnMed 提出了完整的临床AI生态概念但代码量极低；企业级项目如 Latent Health、Insight Health 描述完整但均未公开有效代码或评估数据。模型方面，斯坦福大学发布的临床NER模型（去标识化）具有学术背景，放射学专用模型（Qwen3-8b GGUF）下载量较高，但均缺乏临床有效性证据。</p>
-<p><strong>2. 医疗 Agent</strong>（最多5项）  </p>
-<ul>
-<li><strong><a href="https://github.com/Franosei/FlynnMed">FlynnMed</a></strong><br>用途：开源临床AI生态，整合患者数据、临床试验匹配、循证医学Agent。<br>成熟度：仅1星，代码主要基于HTML，概念阶段。<br>限制：无实际部署案例，未提供任何临床验证数据。  </li>
-<li><strong><a href="https://github.com/api-evangelist/amigo">Amigo</a></strong><br>用途：多通道（语音/文本）医疗AI平台，集成EHR/FHIR，含“数字住院医师”训练模式。<br>成熟度：1星，无公开代码（Language: N/A）。<br>限制：仅仓库元数据，无法验证其功能完整性。  </li>
-<li><strong><a href="https://github.com/api-evangelist/latent">Latent (Latent Health)</a></strong><br>用途：企业药房智能Agent，处理prior authorization、药物标签推理。<br>成熟度：0星，描述专业但无代码。<br>限制：无法评估其临床推理准确性。  </li>
-<li><strong><a href="https://github.com/api-evangelist/insighthealth">Insight Health</a></strong><br>用途：临床工作流自动化Agent，覆盖电话应答、传真处理、笔记、分诊等。<br>成熟度：0星，无代码。<br>限制：未公开任何用户反馈或性能指标。  </li>
-<li><strong><a href="https://github.com/Athanasios-Sakatziadis/CardioAI-Clinical-Agent">CardioAI-Clinical-Agent</a></strong><br>用途：心脏脉搏预测。<br>成熟度：0星，Python代码简单，描述含糊。<br>限制：未说明训练数据来源，无法判断预测可靠性。</li>
-</ul>
-<p><strong>3. 医疗模型</strong>（最多5项）  </p>
-<ul>
-<li><strong><a href="https://huggingface.co/stanford-med-hdr/tide2-sentry-clinical-ner">stanford-med-hdr/tide2-sentry-clinical-ner</a></strong><br>任务：token-classification（临床去标识化NER）<br>证据：斯坦福团队开发，基于deberta-v2，下载0次。<br>许可证：未知。<br>部署：需transformers库，适合院内文本去标识化。<br>注意：学术背景可靠，但未提供在真实临床数据上的表现。  </li>
-<li><strong><a href="https://huggingface.co/bhavikgaba/qwen3-8b-radiology-gguf">bhavikgaba/qwen3-8b-radiology-gguf</a></strong><br>任务：文本生成（放射学）<br>证据：下载407次，1个likes，Apache-2.0许可。<br>许可证：Apache-2.0。<br>部署：GGUF格式，可本地运行（llama.cpp），适合放射科报告辅助。<br>注意：无临床验证，仅社区关注高。  </li>
-<li><strong><a href="https://huggingface.co/nicolasembleton/Fastino-Nemotron-3.5-Lightning-Healthcare-MLX-5bit">nicolasembleton/Fastino-Nemotron-3.5-Lightning-Healthcare-MLX-5bit</a></strong><br>任务：文本生成（医疗保健）<br>证据：下载231次，基于Fastino商业模型，量化版。<br>许可证：未知（base_model为商业许可）。<br>部署：MLX格式，仅适用于Apple Silicon，需确认许可合规。<br>注意：高下载量不代表临床有效性。  </li>
-<li><strong><a href="https://huggingface.co/Aniekanabasiumoh/FeverMate-Clinical-Copilot-v0.3.1-GGUF">Aniekanabasiumoh/FeverMate-Clinical-Copilot-v0.3.1-GGUF</a></strong><br>任务：临床决策支持（1.5B参数）<br>证据：下载110次，GGUF离线可运行，基于Qwen2.5-1.5B-Instruct。<br>许可证：未知。<br>部署：llama.cpp，适合边缘设备或离线场景。<br>注意：模型规模小，无法替代专业诊断。  </li>
-<li><strong><a href="https://huggingface.co/kayodekosi/medical-clinical-decision-support-7b">kayodekosi/medical-clinical-decision-support-7b</a></strong><br>任务：文本生成（鉴别诊断、分诊）<br>证据：0下载，PEFT微调，作者未提供评估数据。<br>许可证：未知。<br>部署：需transformers，但未经验证，慎用。<br>注意：完全无公开证据支撑。</li>
-</ul>
-<p><strong>4. 行业动态</strong>（最多5篇）  </p>
-<ul>
-<li><strong><a href="https://aws.amazon.com/blogs/industries/enterprise-lab-in-the-loop-on-aws-how-sanofi-is-compressing-drug-discovery-from-years-to-weeks/">Enterprise lab-in-the-loop on AWS: How Sanofi is compressing drug discovery from years to weeks</a></strong><br>价值：展示大型药企Sanofi如何利用AI Agent实现分子设计、合成规划、实验分析全流程自动化，将药物发现周期大幅压缩，为行业提供可复用的Lab-in-the-loop架构参考。</li>
-</ul>
-<p><strong>5. 研判</strong>  </p>
-<ol>
-<li><strong>临床验证缺失</strong>：所有开源Agent和模型均未提供任何临床验证数据（如诊断准确率、AUC、临床对照试验结果）。即便斯坦福临床NER有学术背书，也需在真实HIPAA环境中重新评估。  </li>
-<li><strong>隐私合规风险</strong>：多数项目未明确声明HIPAA/GDPR合规性。FlynnMed提及NHS/NICE但未涉及数据保护；Latent Health和Insight Health虽在描述中提及HIPAA，但代码未公开，无法审计。建议企业采购前需做完整安全评估。  </li>
-<li><strong>后续跟踪重点</strong>： <ul>
-<li><strong>FlynnMed</strong>：作为唯一MIT许可的开源临床AI生态，其社区发展速度值得关注。  </li>
-<li><strong>Sanofi lab-in-the-loop</strong>：实际落地效果将影响药企AI Agent采用方向。  </li>
-<li><strong>放射学模型</strong>（Qwen3-8b GGUF）和FeverMate临床Copilot（GGUF）因可离线部署，可能在资源受限场景率先试点，但需密切监控其输出偏差。</li>
-</ul>
-</li>
-</ol>
 <hr>
 <p><em>本日报由 <a href="https://github.com/nayutayuki/agents-radar">agents-radar</a> 自动生成。</em></p>
 ]]></content:encoded>
