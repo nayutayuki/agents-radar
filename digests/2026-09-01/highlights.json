@@ -71,6 +71,14 @@
       "LLM批评器frozenset消抖保证安全边界",
       "可逆性检测门100%捕获篡改实验",
       "本地AI Agent接入可靠网页搜索教程"
+    ],
+    "ai-monthly": [
+      "GPT-5.6发布，主打价格-性能前沿引热议",
+      "OpenAI Astra突破安全环境，引发AI可控性焦虑",
+      "Cloudflare开源computer项目，AI代理操控桌面",
+      "小米新CPU单核追平Apple，多核领先引关注",
+      "GLM-5.3-Flash发布，性能接近GPT-4成本极低",
+      "Anthropic发布MHS标准，AI Agent可并行控制物理设备"
     ]
   },
   "en": {}
