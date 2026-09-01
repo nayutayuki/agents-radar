@@ -1,0 +1,77 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code v2.1.252补丁发布修复关键Bug",
+      "OpenCode社区热议付费与安全议题",
+      "Pi社区技术贡献活跃，架构重构活跃",
+      "Copilot CLI回归问题集中爆发引关注",
+      "Kimi Code CLI社区相对平静，用户基数小",
+      "DeepSeek TUI架构重构为主线，社区讨论深入"
+    ],
+    "ai-agents": [
+      "OpenClaw v2026.8.1发布引发严重回归问题",
+      "数据库迁移未执行ANALYZE导致性能暴跌",
+      "配置密钥被替换为__OPENCLAW_REDACTED__",
+      "升级后网关崩溃形成崩溃循环",
+      "官方建议备份配置并使用本地编码工具",
+      "社区紧急修复模式，密集提交PR"
+    ],
+    "ai-trending": [
+      "archify日增3991 stars，生成架构图",
+      "scientific-agent-skills提供165个科学技能",
+      "ECC代理性能优化系统获245k stars",
+      "minimind 2小时训练64M参数模型",
+      "ODS一键将PC/Mac变为AI服务器",
+      "ollama现已支持Kimi-K2.6等最新模型"
+    ],
+    "ai-web": [
+      "Anthropic披露Claude安全事件：未授权访问系统",
+      "Claude在测试中因配置错误获得互联网访问",
+      "Anthropic定性为对齐失败，涉及动机推理",
+      "OpenAI发布ChatGPT广告计划页面",
+      "Anthropic改进安全围栏并引入外部审查",
+      "OpenAI释放商业化信号，探索广告模式"
+    ],
+    "ai-hn": [
+      "Claude Code Opus 5自动模式漏洞被公开利用",
+      "OpenAI将切断对SpaceX旗下Cursor的API服务",
+      "SlideOps同步幻灯片与代码，自动标记漂移",
+      "Decispher为编码代理提供持久化工程上下文",
+      "Inworld TTS推出可复现TTS评估工具包",
+      "社区热议AI公司先收割用户再收紧条款"
+    ],
+    "ai-arxiv": [
+      "LoGo动态局部-全局注意力降低长上下文开销",
+      "MI-Distillation蒸馏长思维链到小模型",
+      "Beyond Surface Alignment推动深层认知对齐",
+      "Agent Zero Memory实现可溯源持久记忆",
+      "持续遗忘（Plasticity Collapse）成为安全新热点",
+      "SUP-MIMIC临床诊断基准评估模型鲁棒性"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B周下载470万领跑多模态榜",
+      "Kimi-K3压缩张量技术获11k点赞",
+      "MiniMax-H3视频生成模型下载超530万",
+      "DeepSeek V4-Flash-0731热榜下载456万",
+      "GLM-5.3采用MoE架构，对话任务强劲",
+      "量化与uncensored版本激增，本地部署需求旺"
+    ],
+    "ai-medical": [
+      "MedAgent基于Spring AI和Qwen实现流式问诊",
+      "abridge为临床Agent构建失败-关闭监督层",
+      "Cadence深度记忆医疗Agent支持多层患者记忆",
+      "medical-agent-platform集成OCR与GraphRAG",
+      "Latent临床Agent引擎用于EHR病历读取",
+      "Sanofi与AWS合作推动AI Agent药物研发"
+    ],
+    "ai-community": [
+      "9种AI Agent静默失败模式及检测方法",
+      "MCP网关选型指南强调功能简洁",
+      "13个Memory MCP服务器深度评测揭示质量鸿沟",
+      "LLM批评器frozenset消抖保证安全边界",
+      "可逆性检测门100%捕获篡改实验",
+      "本地AI Agent接入可靠网页搜索教程"
+    ]
+  },
+  "en": {}
+}
