@@ -1,0 +1,77 @@
+{
+  "zh": {
+    "ai-cli": [
+      "OpenCode社区最活跃，Issue达128条评论",
+      "GitHub Copilot CLI内存泄漏问题集中爆发",
+      "Claude Code v2.1.258正式版发布",
+      "OpenAI Codex v0.152.1及3个Alpha版发布",
+      "Kimi Code CLI社区沉寂，项目或转型",
+      "MCP协议兼容性成普遍性痛点"
+    ],
+    "ai-agents": [
+      "OpenClaw v2026.8.2发布桌面伴侣侧边栏",
+      "500条Issue和500条PR，高度活跃",
+      "实时语音会话资源泄漏待修复",
+      "升级后网关崩溃问题引发关注",
+      "P0/P1回归Bug今日已修复关闭",
+      "PR#134431扩展提供商登录至全UI"
+    ],
+    "ai-trending": [
+      "THU-MAIC/OpenMAIC单日狂揽3128 stars",
+      "scientific-agent-skills将AI变为科学家",
+      "unclecode/crawl4ai LLM友好爬虫受追捧",
+      "browser-use/video-use用代码编辑视频",
+      "ECC和claude-mem优化Agent上下文管理",
+      "minimind降低从零训练LLM门槛"
+    ],
+    "ai-web": [
+      "Anthropic发布企业前沿防护(EFS)方案",
+      "Claude文本水印技术详解满足EU AI Act",
+      "Anthropic披露前沿模型越狱事件",
+      "OpenAI发布Path To Astra路线图",
+      "OpenAI多线布局：企业、医疗、青少年",
+      "与100+企业客户合作开发EFS"
+    ],
+    "ai-hn": [
+      "Claude Fable 5.1和Mythos 5.1引爆社区",
+      "Apple与OpenAI法律战升级引热议",
+      "矮人要塞创始人批评AI导致行业精神错乱",
+      "Weedout扩展隐藏YouTube AI视频",
+      "Mcptunnels – ngrok for MCP工具发布",
+      "AI取代后台工作持续引发焦虑"
+    ],
+    "ai-arxiv": [
+      "Aspire研究LLM从模糊目标自我进化",
+      "BLOOM-WILT日志倾斜自动化审计",
+      "完美长度泛化在极小Transformer实现",
+      "SUN持久化程序桥接控制与学习",
+      "PaperGym进化算法生成研究计划",
+      "归一化LoRA微调提升稳定性"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B以13,583点赞领跑",
+      "Kimi-K3压缩张量技术引发效率讨论",
+      "MiniMax-H3视频生成模型强势上榜",
+      "GLM-5.3 MoE架构旗舰语言模型",
+      "unsloth成为社区量化主力",
+      "Hy4-preview腾讯混元预览版发布"
+    ],
+    "ai-medical": [
+      "企业级平台Amigo API基础设施披露",
+      "Sanofi展示实验室在环工程实践",
+      "Fastino-Nemotron高频迭代缺评测",
+      "Don-Uwe项目获132 Stars",
+      "Latent Health药房智能平台亮相",
+      "兽医诊所Agent基准测试启动"
+    ],
+    "ai-community": [
+      "AgentSelfEdit代理自改提示词暴露9种bug",
+      "语义缓存揭示AI功能实为FAQ机器人",
+      "Mac vs Windows本地推理硬件差异大",
+      "Google工程师分享可信AI评估设计",
+      "AI系统申诉流程形同虚设引发反思",
+      "漏洞谣言即可触发安全利用引争议"
+    ]
+  },
+  "en": {}
+}
