@@ -1,0 +1,77 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code v2.1.259发布，聚焦企业级部署",
+      "OpenAI Codex alpha预发布两个版本",
+      "Gemini CLI nightly安全加固与路径遍历修复",
+      "GitHub Copilot CLI MCP连接失败引热议",
+      "Qwen Code Shell Guard缺陷与XML泄漏",
+      "DeepSeek TUI冲刺v0.9.12，架构重构"
+    ],
+    "ai-agents": [
+      "OpenClaw 333条新Issue待处理",
+      "314条PR待合并，维护者压力大",
+      "会话状态管理成核心痛点",
+      "子代理可靠性问题频发",
+      "2026.8.1版本升级兼容性故障",
+      "消息丢失与进程泄漏困扰社区"
+    ],
+    "ai-trending": [
+      "ponytail单日+1354星，让AI更懒",
+      "VoiceStudio开源替代ElevenLabs",
+      "TimesFM时间序列基础模型发布",
+      "atlas智能体版本控制工具",
+      "sie推理服务器简化AI部署",
+      "hermes-agent自我进化框架533星"
+    ],
+    "ai-web": [
+      "Anthropic推出Enterprise Frontier Safeguards",
+      "零数据保留与滥用检测，获100+客户背书",
+      "三大云厂商联合支持EFS",
+      "Claude Fable 5.1安全困境解决方案",
+      "工人再培训计划效果有限但具成本效益",
+      "OpenAI本轮无新增内容，节奏差异显著"
+    ],
+    "ai-hn": [
+      "六curl漏洞引发AI安全能力批评",
+      "Anthropic内容检测工具获149分热度",
+      "Aura Rust agent自动排查生产故障",
+      "AI公司安全能力遭质疑",
+      "纽约教育禁令与校园枪击案诉讼",
+      "Kimi K3超越Gemini 3.8 Flash讨论"
+    ],
+    "ai-arxiv": [
+      "LLM评估机制揭秘：8种攻击扰动",
+      "语言强化学习综述首次统一范式",
+      "量化损伤结构通过因果分析定位",
+      "安全对齐失效源于Fisher低秩特性",
+      "CordisBench测试智能体组件生命周期",
+      "LLM在真实与平行世界发现科学定律"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B以13.6k点赞领跑多模态",
+      "MiniMax-H3视频生成获4810赞",
+      "GLM-5.3 MoE模型高效推理",
+      "LTX-2.5图像到视频下载123万",
+      "DeepSeek-V4-Flash-Vision-Exp视觉版",
+      "all-MiniLM-L6-v2持续亿级下载"
+    ],
+    "ai-medical": [
+      "无临床验证新模型，社区活跃实验",
+      "llava-medical-3B下载398次",
+      "clinical-agent-eval-demo带安全护栏",
+      "pharmacy-agentic-ai-platform参考架构",
+      "医疗Agent框架多但缺乏临床数据",
+      "合成数据限制，不可用于真实患者"
+    ],
+    "ai-community": [
+      "代理安全刹车机制成讨论焦点",
+      "执行树调试替代扁平日志",
+      "AI网关400ms延迟优化案例",
+      "Google推出安全带工程概念",
+      "自建代理发现工具访问漏洞",
+      "ARC-AGI-1低成本成果引关注"
+    ]
+  },
+  "en": {}
+}
