@@ -1,0 +1,77 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code v2.1.260 发布全屏差异面板新功能",
+      "OpenAI Codex 推出 GPT-6-Astra 模型",
+      "GitHub Copilot CLI 功能需求热烈但官方 PR 响应慢",
+      "OpenCode 社区活跃，性能与 Bug 修复并行",
+      "Pi (pi-mono) 聚焦性能与底层架构重构",
+      "Qwen Code v0.23.0 发布，CI 与安全是重点"
+    ],
+    "ai-agents": [
+      "OpenClaw v2026.9.1 发布，支持 Mermaid 图表渲染",
+      "修复 Discord 活动类型和语音通话状态问题",
+      "医生诊断本地化修复：跨语言 Windows 维护能力",
+      "会话状态损坏和数据丢失问题亟待解决",
+      "社区活跃度极高，24小时 500 条 Issue 和 PR",
+      "安装即聊体验优化，升级需运行 openclaw doctor --fix"
+    ],
+    "ai-trending": [
+      "Ponytail 日增 2,128 星，让 AI 代理像懒资深开发者",
+      "mattpocock/skills 日增 1,601 星，注入生产级实战经验",
+      "TimesFM 获 1,618 星，时间序列基础模型时代到来",
+      "VoiceStudio 日增 1,672 星，本地化语音 AI 替代 ElevenLabs",
+      "Hermes Agent 日增 774 星，支持个性化记忆与技能扩展",
+      "ECC 日增 751 星，专为 Claude Code 等环境优化"
+    ],
+    "ai-web": [
+      "OpenAI 疑似发布 GPT-6 Astra 模型并同步安全概览",
+      "Anthropic 发布印度经济指数简报，揭示 AI 使用特征",
+      "印度成全球第二大 AI 使用国，人均使用量仅排第101",
+      "印度用户更倾向委托复杂任务，处于前沿使用状态",
+      "Anthropic 将经济分析下沉至关键区域市场",
+      "OpenAI 内容仅能获取元数据，无法提取正文"
+    ],
+    "ai-hn": [
+      "GPT-6 Astra 正式发布，官方称进入 AGI 时代",
+      "ChatGPT、Claude、Grok 同时宕机引发可靠性讨论",
+      "GPT-6 Astra 在 ARC-AGI-3 上表现突破性",
+      "用 LLM 读取 68000 汇编移植 1993 年 Amiga 游戏获 176 分",
+      "OpenAI 新推理技术引发安全专家担忧",
+      "GPT-6 Astra 系统卡发布但社区关注度低"
+    ],
+    "ai-arxiv": [
+      "LLM 可控制自身注意力，大幅提升长上下文推理效率",
+      "后训练模型在编程竞赛中达到金牌水平",
+      "用户反馈信号独特，LLM 自身无法检测",
+      "门面技术揭示 LLM 社会工程学风险",
+      "语言不可读性概念为 LLM 安全提供新视角",
+      "表格基础模型在物理规律学习上存在局限性"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B 周点赞 13,827 登顶，下载超 525 万",
+      "GLM-5.3-Flash 下载超 50 万，多模态加速版",
+      "视频生成模型 GLM-5.3-Flash、MiniMax-H3 集体上榜",
+      "量化与微调生态活跃，GGUF/FP8 版下载破千万",
+      "sentence-transformers 等经典模型持续获大量下载",
+      "腾讯混元 Hy4-preview 在长文本生成上表现突出"
+    ],
+    "ai-medical": [
+      "医疗 Agent 评估框架 clinical-agent-eval-demo 发布",
+      "Fail-closed 监督层 abridge 用于临床 Agent 安全",
+      "Fastino Nemotron 医疗版下载近 2 万次",
+      "OpenMed 发布病理 NER 和 PII 去标识化模型",
+      "企业级医疗 Agent 架构 pharmacy-agentic-ai-platform",
+      "学术研究复制 medical-agent-scaling 探索任务难度窗口"
+    ],
+    "ai-community": [
+      "自改进代理测试 4 个模型均失败，搜索策略根本缺陷",
+      "20 个 Agentic AI 术语速查降低开发者入门门槛",
+      "调试 AI 应用新工具 Obyflow 提供统一可观测性",
+      "Agent 记忆设计原则：追踪状态而非历史",
+      "模型路由后效果衡量：生产级 LLM 流量评估",
+      "确定性护栏：在 LLM 与工具间插入警察架构"
+    ]
+  },
+  "en": {}
+}
