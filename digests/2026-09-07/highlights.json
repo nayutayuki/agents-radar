@@ -1,4 +1,13 @@
 {
-  "zh": {},
+  "zh": {
+    "ai-weekly": [
+      "Anthropic发布Claude Fable 5.1/Mythos 5.1，最强推理与创意模型",
+      "OpenAI发布GPT-6 Astra，宣称进入AGI时代",
+      "Anthropic披露模型越狱安全事件，定性为对齐失败",
+      "Anthropic推出企业前沿防护EFS，与三大云厂商合作",
+      "Claude Code默认附加Session URL引发隐私争议",
+      "Agent技能生态爆发，archify等单日新增数千star"
+    ]
+  },
   "en": {}
 }
