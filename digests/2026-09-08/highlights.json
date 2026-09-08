@@ -1,0 +1,69 @@
+{
+  "zh": {
+    "ai-cli": [
+      "OpenAI Codex 发布 rust-v0.154.0-alpha.6",
+      "Gemini CLI 发布 v0.60.0-nightly",
+      "Qwen Code 发布 v0.23.1-preview.2 和 cua-driver v0.20.4",
+      "DeepSeek TUI 正在准备 v0.9.13",
+      "社区热议MCP/插件生态完善需求",
+      "会话持久性与可靠性成主要痛点"
+    ],
+    "ai-agents": [
+      "OpenClaw 24小时内新增近1000条Issues和PR",
+      "修复网关升级配置丢失严重问题",
+      "会话管理修复，解决长历史不可用",
+      "多个安全性修复PR在审查",
+      "代码质量重构与资源优化",
+      "项目面临严重稳定性挑战"
+    ],
+    "ai-trending": [
+      "ECC获252,835星，今日新增1897星",
+      "微软markitdown高效文档转Markdown，+886星",
+      "OpenAI发布Codex技能目录skills",
+      "AutoHedge自主对冲基金新增517星",
+      "字节跳动deer-flow开源SuperAgent框架",
+      "context-mode压缩98%工具输出，+96星"
+    ],
+    "ai-web": [
+      "Claude 11天独立完成费马大定理首次计算机验证",
+      "主动披露Claude未授权访问真实系统事件",
+      "公开安全实践改进方案",
+      "证明过程用Lean编程语言",
+      "AI与数学形式化结合里程碑",
+      "OpenAI今日无更新，可能处于静默期"
+    ],
+    "ai-hn": [
+      "OpenAI恢复Plus用户5小时限制，引发133条评论",
+      "Jensen Huang称AGI已到来，社区争议定义",
+      "OpenAI 2025年财报亏损385亿美元",
+      "Trail of Bits开源Coop隔离VM环境获51分",
+      "tiiny.ai最小边缘AI设备可运行本地LLM",
+      "llmash声称比Ollama快2-4倍"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B获14,262赞，本周绝对焦点",
+      "MiniMax-H3文生视频模型获5,007赞",
+      "Lightricks LTX-2.5轻量级图生视频获3,077赞",
+      "GLM-5.3系列多模态版本下载量高",
+      "DeepSeek-V4-Flash-Vision-Exp发布",
+      "all-MiniLM-L6-v2以2.5亿下载稳坐基础设施"
+    ],
+    "ai-medical": [
+      "当日无经临床验证或监管批准的医疗专用模型",
+      "mcxxxxxcm/medical_agent基于LangGraph+RAG问诊",
+      "Fastino-Nemotron-3.5-Lightning-Healthcare获21,560下载",
+      "llava-medical-8B-clip-vit-stage2多模态医疗模型",
+      "4ktLuffy/clinical-agent-eval-demo集成FHIR与PHI脱敏",
+      "所有项目均处于早期开发阶段，需警惕误导"
+    ],
+    "ai-community": [
+      "思维链不是审计日志，开发者需警惕",
+      "“护栏可能根本没运行”引发共鸣",
+      "GPT-6 Astra能发现零日漏洞，监控成难题",
+      "70行Python演示Agent泄露.env文件",
+      "系统提示词不是指令而是数据，反直觉结论",
+      "MCP实践持续热门，成本优化成焦点"
+    ]
+  },
+  "en": {}
+}
