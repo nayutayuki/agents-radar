@@ -1,0 +1,77 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code v2.1.268发布",
+      "OpenAI Codex服务容量危机",
+      "Gemini CLI企业认证故障",
+      "成本计费透明度成行业危机",
+      "插件生态讨论活跃",
+      "核心Agent行为不可预测性"
+    ],
+    "ai-agents": [
+      "OpenClaw发布v2026.6.35 LTS版本",
+      "Provider/Channel边界安全加固",
+      "SQLite锁竞争等P0问题待处理",
+      "24小时内500条PR活跃",
+      "修复终端流意外结束问题",
+      "迁移兼容性引发社区担忧"
+    ],
+    "ai-trending": [
+      "obra/superpowers技能框架日增732星",
+      "ollama支持Kimi K2.6等最新模型",
+      "llmfit CLI一键扫描硬件与模型适配",
+      "colibri纯C零依赖MoE推理引擎",
+      "OmniRoute AI网关对接352个提供商",
+      "Vercel推出开放Agent技能工具skills"
+    ],
+    "ai-web": [
+      "Anthropic发布网络安全事件对齐评估",
+      "核安全分类器与NNSA合作达96%准确率",
+      "仅250个恶意文档即可植入后门",
+      "Claude完成费马大定理首次自动证明",
+      "Anthropic获470亿美元融资扩张生态",
+      "OpenAI推出GPT-Live-1实时推理API"
+    ],
+    "ai-hn": [
+      "OpenAI Navier-Stokes证明含Lean4形式化",
+      "另一千禧年难题进展引社区质疑",
+      "GPT-Live-1开放API实时推理",
+      "开源语音代理仿真测试框架Egma",
+      "Anthropic安全报告遭大量争议",
+      "研究员离职警告“赌上人类未来”"
+    ],
+    "ai-arxiv": [
+      "IdeaAMBIG基准衡量研究实现缺口",
+      "ConvMem卷积记忆扩展长上下文",
+      "层选择性遗忘提升LLM鲁棒性",
+      "纯LLM几何推理框架避免多模态",
+      "法律领域可验证生成框架GANDR",
+      "生成式物理模型零样本泛化突破"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B旗舰多模态周点赞1.4万",
+      "DeepSeek-V4.1-Flash获高关注",
+      "GLM-5.3 MoE模型下载超55万",
+      "MiniCPM5-2B轻量适合边缘部署",
+      "视频生成模型MiniMax-H3周下载超500万",
+      "非审查量化版本社区微调活跃"
+    ],
+    "ai-medical": [
+      "Fastino-Nemotron医疗模型下载2.1万",
+      "clinical-agent-eval-demo集成FHIR over MCP",
+      "基于LangGraph的智能问诊框架",
+      "放射报告专用模型MacRad发布",
+      "医疗Agent多为早期原型无验证",
+      "未见临床验证或监管批准发布"
+    ],
+    "ai-community": [
+      "AI编码比多数开发者好引发激辩",
+      "AI代理自主权限边界引思考",
+      "MCP协议安全缺口被直指",
+      "LLM采样参数解疑文章受欢迎",
+      "AI生成代码致PR体积膨胀无人审",
+      "本地开源模型处理14年SEO数据"
+    ]
+  },
+  "en": {}
+}
