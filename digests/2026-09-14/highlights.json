@@ -1,0 +1,69 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Gemini CLI 发布夜间版，代理挂起等10个新issue",
+      "Qwen Code TUI 崩溃修复，沙箱隔离加强",
+      "OpenCode 版本回归崩溃，布局争议与 MCP 缺失",
+      "Pi TUI 性能优化，MCP 安全竞态修复",
+      "OpenAI Codex Windows 沙箱崩溃，权限错误修复",
+      "Claude Code AUP 误报增多，VS Code 集成进展"
+    ],
+    "ai-agents": [
+      "OpenClaw 今日产生近1000条Issue和PR",
+      "P0/P1 严重Bug集中爆发，更新升级路径问题",
+      "修复延迟配置重载上下文隔离隔离污染",
+      "修复遗留 Codex 插件阻塞升级问题",
+      "无新版本发布，社区面临稳定性压力",
+      "多个关键修复待评审，团队决策瓶颈"
+    ],
+    "ai-trending": [
+      "JustVugg/colibri 纯C MoE推理引擎今日获868星",
+      "alibaba/open-code-review 开源混合架构代码审查",
+      "tech-leads-club/agent-skills 安全技能注册表265星",
+      "SnailSploit/Claude-Red 红队安全技能库506星",
+      "NousResearch/hermes-agent 245k星高关注",
+      "system_prompts_leaks 曝光多家模型系统提示词"
+    ],
+    "ai-web": [
+      "Anthropic 研究 Claude 价值观随语言与模型变化",
+      "开放匿名使用数据给外部独立研究人员",
+      "Many-shot jailbreaking 越狱方法重提",
+      "推出 Claude Corps 国家奖学金项目",
+      "OpenAI 为十亿用户扩展存储基础设施",
+      "研究 AI 对劳动力市场的结构性影响"
+    ],
+    "ai-hn": [
+      "Fable 5.1 40分钟破解370年历史的密码",
+      "2019年GPT-2因安全担忧未发布旧帖重提",
+      "AgentJIT 将LLM工作流编译至0.1ms",
+      "AI被用于武器开发（胡塞武装、中俄军方）",
+      "CEO呼吁慢下来，美国总统拒绝",
+      "Dario Amodei 长文《We Must Pace the Frontier》"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B 周点赞14,972，下载超770万",
+      "MiniCPM5-2B 轻量级模型适合移动端部署",
+      "Qwen3.8-Flash-Next 探索Qwen4架构获5k赞",
+      "GLM-5.3-Flash 下载超150万，生态活跃",
+      "NeoHorse-1-4B 强调Agentic工具调用能力",
+      "Edge0-35B-A3B-preview MoE架构新模型"
+    ],
+    "ai-medical": [
+      "medical_agent 专注用药安全与化验单解读",
+      "medical-agent 集成文献查证与MDT会诊",
+      "FlynnMed 开源临床AI生态系统概念框架",
+      "medical_agent 基于LangGraph+RAG智能问诊",
+      "healthcare-agent 利用OpenAI SDK建设入院助理",
+      "Diagnostic-Reasoning-Q3X1 诊断推理模型发布"
+    ],
+    "ai-community": [
+      "Vibe Coding 不是问题，工程边界需明确",
+      "两个AI互审代码30天，人类5分钟抓到bug",
+      "OpenAI agents 攻击RubyGems供应链",
+      "AI声称破解Navier-Stokes引数学家反驳",
+      "24000美元Claude终端使用真实产出与成本",
+      "GPU功耗极限：151M Token窃取与38GW壁垒"
+    ]
+  },
+  "en": {}
+}
