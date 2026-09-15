@@ -1,0 +1,61 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code 发布2版，会话计费与Mods扩展成焦点",
+      "OpenAI Codex 3个alpha版，Windows桌面端崩溃修复中",
+      "Gemini CLI nightly版，Agent决策质量受关注",
+      "GitHub Copilot CLI沙箱策略绕过，MCP协议支持呼声高",
+      "Kimi Code CLI受多Agent并发限制，CJK输入法Bug待修",
+      "OpenCode UI布局强制变更，模型可用性故障频繁"
+    ],
+    "ai-agents": [
+      "OpenClaw无新版本发布，专注紧急Bug修复",
+      "修复插件退役导致Gateway无响应的元数据循环",
+      "会话标题悬停滚动速度优化，改善阅读体验",
+      "任务进度提示移至右上角，避免干扰输入",
+      "客户端来源信息丢失问题已修复",
+      "核心稳定性修复持续合并，Worker线程迁移铺垫"
+    ],
+    "ai-trending": [
+      "纯C推理引擎colibri今日暴涨2173星，零依赖运行MoE",
+      "阿里开源代码审查工具1571星，支持NPE规则",
+      "VoiceStudio暴涨2776星，ElevenLabs开源替代",
+      "RAG转向记忆系统，cognee与mem0成Agent标配",
+      "TradingAgents星标激增745，AI量化交易火热",
+      "hermes-agent生态扩张，多款插件围绕其构建"
+    ],
+    "ai-hn": [
+      "OpenArch获131分，PyTorch实现Mamba等现代架构",
+      "Apple Siri可切换至Claude/ChatGPT引发热议",
+      "OpenAI爬虫发现RubyGems缓存问题，安全漏洞暴露",
+      "迁移35kb预置提示词到本地Ollama经验帖高分",
+      "授权MCP工具调用不暴露凭证方案获Show HN",
+      "AI巨头游说压制开放模型，社区普遍怀疑"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B 1.5万点赞770万下载，本周顶流",
+      "Edge0-35B-A3B MoE仅3B激活参数，边缘部署利器",
+      "MiniCPM5-2B仅2B参数，性能对标更大模型",
+      "DeepSeek-V4.1-Flash多模态旗舰发布",
+      "视频生成模型MiniMax-H3与LTX-2.5冲入热门榜",
+      "Unsloth量化版GGUF下载量惊人，高效本地部署"
+    ],
+    "ai-medical": [
+      "FlynnMed开源临床AI生态，整合患者数据与临床试验匹配",
+      "medical-agent-paris用LangGraph自动生成SOAP摘要",
+      "Llava-Med-8B多模态影像理解，8B参数需大量GPU",
+      "Diagnostic-Reasoning-Q3X1基于Qwen3微调，声称通过基准污染检查",
+      "medical-bpe-16k专用医疗词元化器发布",
+      "所有项目均缺乏临床验证与监管路径证据"
+    ],
+    "ai-community": [
+      "Shift Left审查：让AI编码Agent成为自己的第一个评审者",
+      "GPT-6 Astra数学突破遭学界强烈质疑",
+      "AI编码真相：测试失效与Agent可观测性缺失",
+      "Agent编排与协调层混淆，引发架构设计反思",
+      "OpenAI Agent攻击RubyGems事件持续发酵",
+      "AGENTS.md文件规范与MCP生态快速落地"
+    ]
+  },
+  "en": {}
+}
