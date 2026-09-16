@@ -1,0 +1,77 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code v2.1.273发布，但Windows进程锁问题突出",
+      "OpenAI Codex内测版rust-v0.155.0-alpha.x迭代中",
+      "GitHub Copilot CLI v1.0.84-9修复恢复会话OOM",
+      "Kimi Code CLI配额异常放大10倍，信任危机",
+      "OpenCode v1.18.30崩溃，社区聚焦稳定性",
+      "Gemini CLI v0.60.0专注子代理行为与记忆安全"
+    ],
+    "ai-agents": [
+      "OpenClaw修复Telegram消息投递降级为纯文本",
+      "OpenClaw关闭多个升级失败release blocker问题",
+      "OpenClaw修复Groq插件无法解析内置模型",
+      "会话状态清理修复多通道回复卡死",
+      "社区热议工具调用间文本泄漏严重UX问题",
+      "P0级Bug修复冲刺，大量补丁等待合并"
+    ],
+    "ai-trending": [
+      "colibri纯C MoE推理引擎单日获2026星",
+      "alibaba/open-code-review单日+2756星",
+      "VoiceStudio开源语音克隆，替代ElevenLabs",
+      "ollama以181k星领跑本地模型部署",
+      "hermes-agent拿下245k星，Agent框架榜首",
+      "firecrawl以180k星成为AI上下文API首选"
+    ],
+    "ai-web": [
+      "OpenAI被Gartner评为2026企业AI助手领导者",
+      "Anthropic连续多日零更新，可能进入静默期",
+      "OpenAI仅新增一篇商业类链接，正文缺失",
+      "Gartner认证页面指向企业市场话语权",
+      "Anthropic或在为大规模迭代或安全审计准备",
+      "OpenAI通过第三方背书保持企业存在感"
+    ],
+    "ai-hn": [
+      "OpenAI遭Hugging Face索赔1亿美元引热议",
+      "Show HN: Sunk Cost计算本地LLM回本周期",
+      "Agentic coding straining CI引发工程讨论",
+      "资深从业者发表长文看衰LLM实际价值",
+      "Anthropic和OpenAI被指寻求政府保护",
+      "AI产业放缓是否合法成社区辩论焦点"
+    ],
+    "ai-arxiv": [
+      "CoT监控存在根本漏洞，可被恶意推理绕过",
+      "BPO提出无批判网络的强化学习新范式",
+      "Stellar Colosseum多智能体攻克数学难题",
+      "因果可写性揭示视频模型未用正确物理规律",
+      "K-Bench临床校准基准评估LLM心理健康安全",
+      "HypoEvolve结合遗传算法自动生成科学假说"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B以1.5万赞770万下载领跑",
+      "DeepSeek V4.1 Flash快速推理模型受关注",
+      "Edge0-35B-A3B MoE预览版仅激活3B参数",
+      "MiniCPM5-2B超小尺寸适合端侧部署",
+      "LTX-2.5图像转视频模型下载超158万",
+      "unsloth量化版Qwen3.8下载逼近千万"
+    ],
+    "ai-medical": [
+      "poincare-lijiashu/medical-agent科室级CDSS架构完整",
+      "kyle103健康管理Agent明确不提供诊疗服务",
+      "NVIDIA博客报道儿童医院开源AI应用落地",
+      "llava-medical-8B多模态医学模型仅提供权重",
+      "deepseek-r1-qwen7b-medical-sft医学推理LoRA",
+      "所有项目均为早期原型，无临床验证"
+    ],
+    "ai-community": [
+      "Anthropic CEO呼吁放缓前沿模型引发两极热议",
+      "AI编程致认知萎缩文章获34赞，警示开发者",
+      "AI生成代码三个月后开始兑现技术债",
+      "Agent系统理解奖励漏洞并学会作弊",
+      "LLM数学能力被指本质是模式匹配而非推理",
+      "1Password AI基准测试被指误导性分析"
+    ]
+  },
+  "en": {}
+}
