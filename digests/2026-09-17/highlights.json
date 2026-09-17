@@ -1,0 +1,77 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code v2.1.274 发布，新增 Skills 集成。",
+      "OpenAI Codex 连发 8 个 alpha 版本，修复多项问题。",
+      "Gemini CLI 子代理虚假成功、永久挂起 bug 遭吐槽。",
+      "Kimi Code 配额耗尽后无限重试，社区反馈强烈。",
+      "Qwen Code 三版本齐发：正式版+nightly+preview。",
+      "社区急盼 MCP 协议标准化，OAuth 回调配置难。"
+    ],
+    "ai-agents": [
+      "OpenClaw 24h 内产生 500 Issue + 500 PR，极度活跃。",
+      "2026.9.3→9.4 更新流程多平台阻塞失败，影响升级。",
+      "僵尸子进程泄漏问题 (#97616) 引30条热评。",
+      "大舰队性能修复：632-agent 规模下健康检查超时。",
+      "插件回调释放与元数据检查优化，减少内存泄漏。",
+      "WebChat 内部会话修复，后台命令不再无回复。"
+    ],
+    "ai-trending": [
+      "alibaba/open-code-review 单日狂揽 3231 stars。",
+      "JustVugg/colibri 纯 C MoE 推理引擎，+1546 stars。",
+      "腾讯 WeKnora 企业知识平台获 +1197 stars。",
+      "alphaXiv/OpenResearch 科研助手，+1017 stars。",
+      "YuE 音乐生成支持零样本翻唱与智能编辑。",
+      "roboflow/supervision 视觉工具再获 +260 stars。"
+    ],
+    "ai-web": [
+      "Anthropic 静默期，或为重大产品发布蓄力。",
+      "OpenAI 单日爆发 57 篇，聚焦恶意使用打击。",
+      "发布 Model Misalignment Reporting Framework。",
+      "55 篇覆盖诈骗、信息操纵、深度伪造等场景。",
+      "安全治理成 OpenAI 本日绝对优先议题。",
+      "仅元数据模式，深度分析受限但标题揭示战略。"
+    ],
+    "ai-hn": [
+      "PS5 Linux 负责人因 LLM 滥用退出开源项目。",
+      "三元 LLM 突破 1.58-bit 理论下界引学术关注。",
+      "Swift-Qwen3.8-27B 速度翻倍精度不减，获26分。",
+      "OpenSpec 轻量 AI 规范框架，48 分好评。",
+      "微软公开指摘 Anthropic，监管担忧升温。",
+      "Claude 统一工作空间，加速 AI 商业化落地。"
+    ],
+    "ai-arxiv": [
+      "多智能体社会需要“安全笼”约束机制。",
+      "Chain-of-Self-Questioning 零成本拒答框架。",
+      "低成本单语模型 MéTRON-FR 仍有竞争力。",
+      "代码智能体 leaderboard 已趋于饱和。",
+      "JustFit 实现笔记本上运行 200K token LLM。",
+      "LLM 隐状态几何表征为 ICL 机制提供新视角。"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B 原生模型 15.4K 点赞断层领先。",
+      "MiniMax-H3 与 LTX-2.5 视频生成双双爆发。",
+      "DeepSeek-V4.1-Flash 亮相，2.8K 点赞抢眼。",
+      "Edge0-35B-A3B-preview MoE 预览版，3K 赞。",
+      "MiniCPM5-2B 小模型下载超 32 万。",
+      "音乐生成 YuE2-3B 及 ComfyUI 适配版上线。"
+    ],
+    "ai-medical": [
+      "VMAG 基准发布，专测医疗 Agent 安全性。",
+      "Qwen3.5-4B-Medical-Reasoning 微调模型迭代。",
+      "mcxxxxxcm/medical_agent 用 LangGraph+RAG 做问诊。",
+      "FlynnMed 构建可审计临床 AI 生态系统。",
+      "InsightHealth 自动化临床工作流 Agent。",
+      "medical-agent-paris 自动生成 SOAP 病历。"
+    ],
+    "ai-community": [
+      "Claude Code vs Cursor 任务级对比实测。",
+      "Gemini 3.8 Live 实时语音应用教程发布。",
+      "AI Agent 绕过审查引发权限焦虑。",
+      "Scrum 在 AI 时代是否已死引发讨论。",
+      "GPT-6 Astra 系统卡揭露真实推理成本。",
+      "Temp Squads 人机混合临时小队组织框架。"
+    ]
+  },
+  "en": {}
+}
