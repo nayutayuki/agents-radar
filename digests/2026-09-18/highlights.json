@@ -1,0 +1,77 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code v2.1.275 聚焦 Mods 扩展性与 Windows 稳定性",
+      "GitHub Copilot CLI v1.0.86 修复 Figma MCP 冲突",
+      "Gemini CLI nightly v0.62.0 改善 Agent 可靠性",
+      "Qwen Code v0.24.0 修复 React UI 崩溃与 ACP 稳定性",
+      "OpenAI Codex rust-v0.155.0 遭遇 UI 假死与 5 小时限制",
+      "DeepSeek TUI 子代理资源管理与安全边界成讨论焦点"
+    ],
+    "ai-agents": [
+      "OpenClaw 社区 24 小时内 500 条 Issue 与 500 条 PR 更新",
+      "Gateway 启动性能退化 #148529 成为修复重点",
+      "MCP 子进程泄漏 #142965 已关闭，避免进程无限增长",
+      "Telegram 渠道受保护密钥提示超时 bug 获修复 #139809",
+      "Windows 升级失败因路径变量未展开已修复 #146719",
+      "新版本 2026.9.4 面临至少 4 类迁移问题 #150452"
+    ],
+    "ai-trending": [
+      "alibaba/open-code-review 日增 3286 星登顶代码审查工具",
+      "JustVugg/colibri 纯 C 实现极轻量 MoE 推理引擎获 873 星",
+      "Tencent/BrowserSkill 让 AI 代理操控真实浏览器获 1302 星",
+      "affaan-m/ECC 为 Claude Code 等代理提供性能优化获 1171 星",
+      "Anthropic 的 Claude Code 日增 538 星持续受瞩目",
+      "alphaXiv/OpenResearch 将编码代理变为研究代理获 939 星"
+    ],
+    "ai-web": [
+      "Anthropic 发布生命科学验证计划 LSVP 放宽安全防护",
+      "Claude 优化 30+ 生物分子模型平均提速 4 倍并开源",
+      "Anthropic 披露四起 Claude 模型未授权访问第三方系统",
+      "Anthropic 完成 4.81 亿份对话记录的安全扫描",
+      "OpenAI 推出金融与营销团队 ChatGPT Work 指南下载页",
+      "OpenAI 上线 Astra for Law 法律专用页面但仅有元数据"
+    ],
+    "ai-hn": [
+      "OpenAI 'Astra for Law' 成为今日最热门 HN 讨论",
+      "微软高管承认 AI 数据抓取是'人类史上最大盗窃'",
+      "Infinite-Parameter LLM 论文引发架构突破热议",
+      "LLM 分类实为提示词特征工程引社区共鸣",
+      "Skillsync 实现 AI 聊天会话跨代理移植获 44 分",
+      "MCPJam 推出首个 MCP 服务器测试评估平台"
+    ],
+    "ai-arxiv": [
+      "Infinite-Parameter LLM 通过实时数据动态生成权重",
+      "Fisher-Rao 视角揭示合成数据训练模型崩溃动力学",
+      "零阶优化新范式实现偏好对齐绕过梯度依赖",
+      "内部表征监控发现奖励欺骗行为的'指纹'",
+      "分词算法解耦研究为 BPE 和 UnigramLM 提供新框架",
+      "合成数据训练崩溃预防理论获 Fisher-Rao 几何分析"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B 以 15533 点赞 745 万下载断层领跑",
+      "Edge0-35B-A3B 仅激活 3B 参数获 3306 点赞",
+      "Lightricks LTX-2.5 image-to-video 入前五",
+      "DeepSeek-V4.1-Flash 多模态版获 3005 点赞",
+      "unsloth/Qwen3.8-27B-GGUF 下载超 820 万",
+      "Ternary-Bonsai-2-27B 2-bit 量化模型开始涌现"
+    ],
+    "ai-medical": [
+      "Fastino Nemotron-3.5 Healthcare 下载量达 8322 次",
+      "Mcxxxxxcm/medical_agent 基于 LangGraph+RAG 智能问诊",
+      "Franosei/FlynnMed 开源临床 AI 生态系统获 MIT 许可",
+      "medical-agent-safety 专注临床代理安全基准与防护",
+      "diabetes-medical-agent-harness 强化学习测试框架",
+      "NVIDIA 报道儿童医院应用开源 AI 于心脏影像"
+    ],
+    "ai-community": [
+      "32 次运行零复用旧代码，LLM 顽固复现旧 bug",
+      "Jev 系统一模型只输出类型化决策不再生成文本",
+      "MCP 协议工具注册缺乏校验致投毒风险暴露",
+      "RAG 知识库投毒攻击面被系统介绍",
+      "AI 编码代理 170 次计划重复 3 类系统性错误",
+      "本地优先 AI 与隐私硬件成社区新趋势"
+    ]
+  },
+  "en": {}
+}
