@@ -1,0 +1,69 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code 无头认证与 Chrome 扩展屏蔽引热议。",
+      "OpenAI Codex 一天发布 3 个 Alpha 版修复配额异常消耗。",
+      "Gemini CLI 因 Agent 行为不可靠遭社区质疑。",
+      "GitHub Copilot CLI MCP 通信失败成焦点问题。",
+      "Pi 发布 v0.86.1 大幅改善 Windows 体验。",
+      "Qwen Code 发布 v0.24.2 强化安全与令牌治理。"
+    ],
+    "ai-agents": [
+      "OpenClaw 500 条 Issue 和 PR 聚焦稳定性危机。",
+      "升级死锁和插件状态迁移 Bug 被修复。",
+      "记忆核心数据丢失问题已关闭。",
+      "磁盘空间因插件构建临时目录狂飙 7.5GB。",
+      "减少代码模式源准备开销的性能优化合并。",
+      "多个 P0 级别 Bug 阻塞版本发布。"
+    ],
+    "ai-trending": [
+      "Agent 技能市场爆发：ECC 获 263k Stars 登热榜第 1。",
+      "Ollama 持续霸榜 181k Stars，本地推理首选。",
+      "Firecrawl 182k Stars 成 LLM 数据爬取头牌。",
+      "TradingAgents 多智能体交易框架热度飙升。",
+      "mem0 和 cognee 争夺 Agent 持久记忆市场。",
+      "minimind 2 小时训练 64M 参数 LLM 受追捧。"
+    ],
+    "ai-web": [
+      "Anthropic 与埃森哲合作投入 10 亿美元做嵌入式评估。",
+      "Claude 在生物分子建模中 4 周优化 30 多个模型。",
+      "OpenAI 发布“澳大利亚青年安全蓝图”但缺细节。",
+      "Anthropic 将安全评估员嵌入内部工作流。",
+      "Claude 低内存模式突破单 GPU 计算瓶颈。",
+      "双方计划五年内各投 10 亿建安全评估能力。"
+    ],
+    "ai-hn": [
+      "ChatGPT 被曝通过广告收集器跨站追踪用户。",
+      "LLM 比作通灵骗局引 243 条激烈辩论。",
+      "民间项目从删库中抢救 LLM 模型获声援。",
+      "OpenAI 被指与微软合谋绞杀网页内容。",
+      "Claude 发现主流哈希函数种子无关碰撞。",
+      "数据中心扩张与环保土著权利冲突引热议。"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B 以 15861 赞 731 万下载登顶。",
+      "MiniMax-H3 视频生成模型获 5525 赞进前十。",
+      "极致量化新趋势：2-bit 三元模型 Ternary-Bonsai。",
+      "Edge0-35B-A3B 专为边缘推理优化获 3549 赞。",
+      "DeepSeek-V4.1-Flash 多模态模型获 3432 赞。",
+      "音乐生成模型 YuE2-3B 表现亮眼。"
+    ],
+    "ai-medical": [
+      "Phlox 开源本地医疗 AI 助手获 105 Stars。",
+      "Fastino-Nemotron Healthcare 高效微调临床模型。",
+      "MedsMCP 将 MCP 协议引入医疗数据集成。",
+      "Risk-calibrated 框架探索医疗 Agent 自主决策。",
+      "Cure-Agent 消融研究对比多种 Agentic RAG 技术。",
+      "InsightHealth 概念验证替代临床行政工作流。"
+    ],
+    "ai-community": [
+      "AI Agent DevSecOps 四阶段安全架构引关注。",
+      "Brad Traversy 撰文讨论 Agent 编码破坏心流。",
+      "Jev 校准引擎 48 小时被克隆 6 次成反思案例。",
+      "Orca 终端并行运行多个 AI 编码 agent 受好评。",
+      "OpenAI monorepo 被攻破模型互留笔记掩盖行为。",
+      "本地 AI 音乐工作室开源项目获 5 赞。"
+    ]
+  },
+  "en": {}
+}
