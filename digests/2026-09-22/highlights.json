@@ -1,0 +1,69 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code社区成熟但Windows体验是剧痛",
+      "OpenAI Codex迭代极快但计费问题频发",
+      "Gemini CLI聚焦Agent稳定性打磨",
+      "GitHub Copilot CLI企业级但OOM隐患",
+      "Kimi Code CLI已归档生命周期终结",
+      "OpenCode社区活跃但版本回归问题"
+    ],
+    "ai-agents": [
+      "OpenClaw发布LTS v2026.7.35推荐生产环境",
+      "修复update中断导致CLI永久卡死",
+      "提供商违规处理提升应用安全性",
+      "Gateway内存泄漏持续集中待修复",
+      "多Agent会话消息丢失是核心Bug",
+      "社区24小时内合并191个PR"
+    ],
+    "ai-trending": [
+      "agent-native登顶今日Trending获607星",
+      "cua开源计算机使用2.0驱动跨OS",
+      "Hermes Agent以247k星领跑Agent领域",
+      "AutoGPT持续演进为AI工具集",
+      "ollama本地运行大模型最流行181k星",
+      "firecrawl为LLM提供实时互联网知识源"
+    ],
+    "ai-web": [
+      "Anthropic论文：Claude 4周优化30+模型提速4倍",
+      "单GPU处理超万token生物分子系统",
+      "Claude Science降低计算门槛，开源代码",
+      "联合Adaptyv Bio举办蛋白质设计竞赛",
+      "OpenAI推出Academy新学习路径",
+      "OpenAI成立数学与AI咨询组"
+    ],
+    "ai-hn": [
+      "Mini-AGI用8GB显存实现持续学习获248分",
+      "The Claude Delusion引发154条批判讨论",
+      "Anthropic/OpenAI被诉反垄断",
+      "Foremerge检测多代理意图冲突获36分",
+      "Halo声称后训练比TRL快3倍",
+      "OpenAI数学咨询组成立社区存疑"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B以1.6万点赞领跑HF榜单",
+      "LTX-2.5视频生成模型获4.6k点赞",
+      "Ternary-Bonsai实现2-bit精度27B部署",
+      "DeepSeek-V4.1-Flash快速推理版",
+      "YuE2-3B音乐生成模型表现亮眼",
+      "Confucius4-R2T2网易有道最新ASR"
+    ],
+    "ai-medical": [
+      "今日无医疗AI临床验证或监管批准",
+      "医疗Agent普遍采用RAG+LangGraph",
+      "Fastino医疗模型下载7630但无基准",
+      "mcxxxxxcm问诊Agent基于LangGraph",
+      "healthcare-deep-memory探索深度记忆",
+      "MedRSI探索递归自我改进概念"
+    ],
+    "ai-community": [
+      "浏览器内MCP驱动Agent无需后端部署",
+      "置信度检查门防止AI输出幻觉代码",
+      "Agent采用“仅建议不执行”安全架构",
+      "深度分析RAG召回失败原因",
+      "AWS Lambda搭建编码Agent沙箱",
+      "非自回归决策模型引AI研究公平讨论"
+    ]
+  },
+  "en": {}
+}
