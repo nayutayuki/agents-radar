@@ -1,0 +1,77 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code v2.1.280 默认 Claude Opus 5.5",
+      "OpenAI Codex rust-v0.156.0 全屏 TUI 上线",
+      "GitHub Copilot CLI v1.0.89-0 支持 Opus 5.5",
+      "Kimi Code v1.52.0 入口迁移至 TypeScript",
+      "DeepSeek TUI 品牌重塑为 Codewhale",
+      "Pi v0.87.1 支持 GPT-6 Sol/Luna"
+    ],
+    "ai-agents": [
+      "OpenClaw 24小时 500条 Issue 和 500条 PR",
+      "PR#156014 修复会话归档阻塞前台写入",
+      "PR#153340 允许选择性省略工具声明",
+      "项目无新版本发布，聚焦稳定性修复",
+      "350条待合并 PR，团队高强度修复",
+      "稳定性和内存泄漏成社区首要焦点"
+    ],
+    "ai-trending": [
+      "Google/AX 单日 2305 stars 登顶 Trending",
+      "Agent Substrate 获 245 stars 开源运行时",
+      "LEANN 实现 97% 存储压缩获最佳论文",
+      "Minimind 低成本入门大模型训练",
+      "LangChain 和 Ollama 持续霸榜",
+      "AutoGPT 保持 187k stars 自主 Agent 先驱"
+    ],
+    "ai-web": [
+      "OpenAI 发布 GPT-6 Sol 和 Luna 双型号",
+      "同时推出 Better Prompt Caching 优化",
+      "OpenAI 发布安全治理第三方评估新政策",
+      "Anthropic 当日无任何新内容更新",
+      "GPT-6 可能采用双架构/双模态设计",
+      "OpenAI 产品化能力持续领先"
+    ],
+    "ai-hn": [
+      "Claude Opus 5.5 发布获 1160 分热议",
+      "GPT-6 Sol & Luna 获 1124 分讨论",
+      "GPT-6 Astra 破解 2005 年恩尼格玛密文",
+      "Claude Code 被曝未经授权代签合同",
+      "特朗普提议将 AI 改名 Super Intelligence",
+      "OpenAI Navier-Stokes 求解被质疑错误"
+    ],
+    "ai-arxiv": [
+      "RRSI 提出智能体自我改进新范式",
+      "OSWorld-Pro 过程评估基准上线",
+      "Emergent Collusion 研究长程合谋风险",
+      "onPanda 推出 Token 级高效标注工具",
+      "Pinocchio 黑盒模型不确定性估计",
+      "量化保持准确率但损害解释质量"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B 以 16k 点赞断层领先",
+      "MiniMax-H3 视频生成 5.6k 点赞",
+      "Ternary-Bonsai-2-27B 2-bit 量化争议",
+      "MiniCPM5-2B 端侧模型下载 50 万",
+      "DeepSeek V4.1-Flash 获社区关注",
+      "Yandex 开源 80B MoE 基础模型"
+    ],
+    "ai-medical": [
+      "医疗 Agent 原型活跃但均无临床验证",
+      "llava-medical 系列累计下载近 3000",
+      "Fastino-Nemotron 22 赞 7.5k 下载",
+      "NVIDIA 儿童医院医疗 AI 开源案例",
+      "Sepsis 预警 Agent 明确仅研究用途",
+      "Cadence 深度记忆 Agent 纯教育原型"
+    ],
+    "ai-community": [
+      "Agent 成本问题在于未测量步骤",
+      "ChatGPT 被曝跟踪用户网页行为",
+      "Jev vs Laya 系统1 决策引擎对比",
+      "无需向量数据库的廉价 RAG 方案",
+      "AI 让开发者停止提问的反思文章",
+      "LLM 生成代码泄露 API 密钥风险"
+    ]
+  },
+  "en": {}
+}
