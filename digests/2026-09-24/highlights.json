@@ -1,0 +1,77 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code v2.1.281 发布，聚焦权限细化与稳定性",
+      "OpenAI Codex 遭遇 Windows 稳定性危机，社区热议",
+      "Gemini CLI v0.62.0-nightly 强化子代理可靠性",
+      "GitHub Copilot CLI v1.0.89-1 修复认证竞态问题",
+      "Kimi Code CLI 默认 yolo 模式引发安全风险讨论",
+      "DeepSeek TUI 筹备 v0.10.1，修复回归性 Bug"
+    ],
+    "ai-agents": [
+      "OpenClaw v2026.9.6 因 macOS 启动崩溃紧急撤回",
+      "官方正在开发 v2026.9.7 热修复版本",
+      "103 个 PR 合并，聚焦 PDF 处理和 CI 优化",
+      "P0 级别 Bug：内存泄漏、更新失败、会话丢失",
+      "社区活跃度极高，500 Issue 和 500 PR 同时处理",
+      "macOS 用户被建议回退至 v2026.9.5"
+    ],
+    "ai-trending": [
+      "Google 开源 Agent 编排框架 ax，单日 1500+ stars",
+      "Agent 框架全面爆发，strands-agents/harness-sdk 登榜",
+      "MCP 生态快速成型，codebase-memory-mcp 获 190 stars",
+      "金融 AI 持续升温，PanWatch 和 TradingAgents 受追捧",
+      "视频编辑与 3D 高斯泼溅等创意工具出现在热榜",
+      "ollama 以 181k stars 稳居本地大模型首选工具"
+    ],
+    "ai-web": [
+      "Anthropic 成立生命科学研究实验室，Claude 驱动",
+      "Claude 自主发现类似 CRISPR 的新型酶系统",
+      "OpenAI 发布 Mentalhealthbench 心理健康评估基准",
+      "OpenAI 与 Airbnb 合作，涉及 GPT-6 和 Astra",
+      "AI 竞争从能力竞赛延伸至科学贡献竞赛",
+      "Claude 的发现被认为是 AI 驱动科学创新的里程碑"
+    ],
+    "ai-hn": [
+      "Claude 自主发现新型酶系统，引发科学界热议",
+      "Claude Code 仅在遥测开启时才读取 AGENTS.md",
+      "OpenAI Agent 被曝突破澳大利亚 Medicare 系统",
+      "BC 省因校园枪击案起诉 OpenAI",
+      "社区对 AI 能力突破感到振奋，同时警惕安全隐患",
+      "Claude 团队分享可观测性驱动优化实践获高赞"
+    ],
+    "ai-arxiv": [
+      "Flash-dLLM 引入 IO 感知 KV 缓存，加速扩散 LLM 推理",
+      "Agensh 实现 1024 智能体协作，A2M 揭示 MCP 劫持风险",
+      "Capable yet Parsimonious 提取闭源模型隐藏思维链",
+      "长上下文 LLM 存在“近端陷阱”新发现",
+      "贪心解码并非精度不变，BF16 与 FP16 输出可能不同",
+      "Beyond Repeated Sampling 提出搜索策略替代重复采样"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B 以 6.9M 下载量成为本周绝对热点",
+      "DeepSeek-V4.1-Flash 旗舰多模态模型下载 570k",
+      "MiniMax-H3 视频生成模型下载 3.6M 社区应用广泛",
+      "Ternary-Bonsai 三元量化模型代表极致压缩趋势",
+      "yandex 发布 80B 参数仅激活 3B 的高效模型",
+      "convaiinnovations/laya 零下载获高赞，创新分类模型"
+    ],
+    "ai-medical": [
+      "OpenMedRL 开源急诊科强化学习基准环境",
+      "memoir-benchmark 评估临床 Agent 长期记忆能力",
+      "llava-medical-8B 放射学多模态模型发布",
+      "Latent Health 临床 Agent 引擎 API 档案公开",
+      "TRIBOT 端到端临床 Agent 集成语音与分诊",
+      "多数项目仍处于早期原型或基准测试阶段"
+    ],
+    "ai-community": [
+      "多 Agent 系统成本与可靠性失控成社区热议焦点",
+      "GPT-6 与 Claude Opus 5.5 同台降价引发讨论",
+      "AI 安全事件：OpenAI Agent 攻击和 PaperCut 被攻破",
+      "用状态机替代 Supervisor LLM 降低 70% token 浪费",
+      "ChatGPT 通过广告收集器追踪用户行为引争议",
+      "开发者反思“AI 写代码更快但审查更慢”悖论"
+    ]
+  },
+  "en": {}
+}
