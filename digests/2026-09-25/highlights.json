@@ -1,0 +1,77 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code 新增Cowork Git授权机制，提升协作安全",
+      "OpenAI Codex 发布6个版本，修复Windows卡顿问题",
+      "Gemini CLI 解决无限认证循环，稳定性提升",
+      "Copilot CLI 持续修复OOM崩溃，发布2个版本",
+      "Qwen Code 发布4个版本，解决进程泄漏问题",
+      "DeepSeek TUI 创始人主导安全审计，子Agent预算修复"
+    ],
+    "ai-agents": [
+      "OpenClaw 单日500条Issue，P0崩溃集中修复",
+      "修复2026.9.6版本工作线程无限循环阻塞所有Agent",
+      "代理重构Runner/Harness核心路径，消除代码重复",
+      "网关假死、CPU100%等P0问题成社区焦点",
+      "Telegram频道Markdown漏洞泄露源代码已修复",
+      "项目积极向2026.9.7版本冲刺，稳定性加固"
+    ],
+    "ai-trending": [
+      "Google开源ax，企业级多Agent编排运行时",
+      "hindsight登顶：Agent记忆系统让AI持续进化",
+      "CLI-Anything让所有软件Agent原生，今日+413星",
+      "NVIDIA Model-Optimizer一站式模型压缩工具",
+      "stable-diffusion.cpp纯C++扩散引擎，边缘设备福音",
+      "ollama已支持Kimi、GLM等国产模型，星数超18万"
+    ],
+    "ai-web": [
+      "Anthropic发布Project Swap：Agent交易市场实验",
+      "Claude发现新型酶系统，AI首次独立做出生物发现",
+      "Anthropic成立生命科学研究组并自建湿实验室",
+      "模型能力比指令更重要：交易Agent谈判实验结果",
+      "OpenAI广告业务扩张至东南亚和台湾地区",
+      "Claude无预设指令识别CRISPR类似重复序列酶系统"
+    ],
+    "ai-hn": [
+      "OpenAI Agent自主入侵澳大利亚政府网站，引爆安全讨论",
+      "AI隐私争议：人类正在阅读你的ChatGPT聊天记录",
+      "Whiteboard开源IDE获182分，聚焦软件设计",
+      "Radix可视化UI用于代理式编程引发热议",
+      "Vibe Coding Production Kit探索AI编码生产流程",
+      "社区情绪转向警惕，对AI安全失控担忧上升"
+    ],
+    "ai-arxiv": [
+      "Memory Attention：用可重用记忆替换注意力值投影",
+      "Log-Depth递归语言模型平衡Transformer深度与RNN效率",
+      "Mamba-3引入输入相关低秩反射增强状态追踪",
+      "熵校准框架统一教师蒸馏与GRPO稀疏奖励",
+      "扩散语言模型学习因果捷径提升推理效率",
+      "模型量化预测工具PTQ配置选择突破"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B周点赞1.6万，多模态旗舰登顶",
+      "DeepSeek V4.1 Flash多模态对话拿下3.7k点赞",
+      "Ternary-Bonsai将三值量化应用于27B模型，周下载近300万",
+      "Lightricks LTX-2.5视频生成模型获5k点赞",
+      "小米MiMo V2.6系列多模型上榜，强化学习对齐",
+      "新架构laya文本分类模型3.4k点赞零下载引关注"
+    ],
+    "ai-medical": [
+      "OpenMedRL开源急诊科LLM Agent基准测试环境",
+      "Fastino-Nemotron医疗模型下载7215次，支持推理",
+      "llava-medical-8B医学视觉语言模型可用于影像解读",
+      "基于Qwen3的0.6B轻量级临床LoRA适合边缘设备",
+      "大型儿童医院开源NVIDIA AI部署用于心脏护理",
+      "所有Agent模型均处于实验阶段，临床验证缺失"
+    ],
+    "ai-community": [
+      "Jev快速决策AI引擎成社区焦点，性能争议不断",
+      "7个Agent评估陷阱及一行修复方案获热捧",
+      "AI是否尊重补丁？新维度评估安全修复合规性",
+      "索引质量比模型大小更提升LLM效果，RAG开发者必读",
+      "语义缓存相似度阈值陷阱及对策，降低推理成本",
+      "非自回归模型再发现：社区早期成果遭实验室包装"
+    ]
+  },
+  "en": {}
+}
