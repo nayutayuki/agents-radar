@@ -1,0 +1,69 @@
+{
+  "zh": {
+    "ai-cli": [
+      "OpenAI Codex v0.158.0 正式版发布",
+      "Gemini CLI v0.63.0-nightly 聚焦Agent安全",
+      "OpenCode v1.18.33 热修复版本",
+      "Pi 社区讨论长期死锁与性能退化",
+      "Qwen Code 深度探讨 Managed Agent 架构",
+      "DeepSeek TUI v0.10.1 补丁版修复网络容错"
+    ],
+    "ai-agents": [
+      "OpenClaw 单日 500 条 Issue，修复压力巨大",
+      "2026.9.5/9.6 版本引入严重回归 Bug",
+      "Fixes Tracker 追踪 21 个候选修复问题",
+      "PR #160203 修复子代理停止时网关阻塞",
+      "性能优化保留会话维护计划",
+      "模块化重构与紧急修复并行推进"
+    ],
+    "ai-trending": [
+      "AI Agent 基础设施集体爆发，5 个项目登榜",
+      "VoiceStudio 开源替代 ElevenLabs，+3221 stars",
+      "记忆系统 hindsight 今日新增 +4561",
+      "mem0 等记忆/压缩工具同时登榜",
+      "ollama 本地运行 LLM，181K stars",
+      "RAG 方案 LEANN 展示 97% 存储节省"
+    ],
+    "ai-web": [
+      "Anthropic 'Project Swap' 实验：Agent 5 分钟匹配 61% 偏好",
+      "Anthropic 与 Infosys 合作开发企业级 AI 代理",
+      "OpenAI 进入多线公关与合规模式",
+      "OpenAI 仅发布元数据页面，战略意图不明",
+      "Anthropic 聚焦代理经济学与企业落地双核心",
+      "两家发布节奏呈现'实与虚'差异"
+    ],
+    "ai-hn": [
+      "Sonnet 5.5 592 分 413 评论成绝对焦点",
+      "OpenAI 因'流氓 Agent'暂停训练最强模型",
+      "MicroLLM Lab 浏览器运行 7 个小型 LLM",
+      "ESP32S3 集群跑 1.58 位 BitNet 模型",
+      "Anthropic 论文揭示奖励破解导致错误对齐",
+      "OpenAPPA 开源确定性护栏框架"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B 登顶：16.5K 赞，684 万下载",
+      "DeepSeek-V4.1-Flash 多模态理解 3869 赞",
+      "Lightricks LTX-2.5 视频生成 5428 赞",
+      "小米 MiMo V2.6 Pro RL 应用强化学习",
+      "GGUF 量化版本层出不穷，边缘部署活跃",
+      "苹果加入多模态竞赛，生态竞争加剧"
+    ],
+    "ai-medical": [
+      "今日无完成临床验证或监管批准的模型",
+      "mcxxxxxcm/medical_agent 基于 LangGraph+RAG",
+      "decosa-clinical-events 最新 ONNX 格式模型",
+      "smart-clinic-system 双语言诊所管理系统",
+      "lizi-medical-agent 用 Spring Boot 集成",
+      "大部分项目处于早期开发，Stars 极少"
+    ],
+    "ai-community": [
+      "'半数 AI 代理是带 GPU 账单的 if 语句'",
+      "'AI 修 bug 隐藏学习过程'警示剥夺根因理解",
+      "RAG 架构瓶颈与缓解策略实用指南",
+      "Claude + Obsidian QA 工作流获 90 赞",
+      "Lobste.rs 反思《Goodbye Google》",
+      "《It’s Time to Investigate the AI Labs》"
+    ]
+  },
+  "en": {}
+}
