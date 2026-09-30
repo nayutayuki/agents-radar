@@ -1,0 +1,77 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code多账户管理Issue获841赞",
+      "OpenAI Codex Windows闪烁问题139赞",
+      "安全权限控制成工具生态焦点",
+      "Qwen Code架构提案引关注",
+      "OpenCode内存问题Issue112赞",
+      "Gemini CLI通用代理挂起8赞"
+    ],
+    "ai-agents": [
+      "OpenClaw发布extended-stable LTS版本",
+      "151个PR合并，UI/核心稳定性修复",
+      "内存泄漏等P0级Bug集中爆发",
+      "侧边栏性能从77ms优化至16ms",
+      "修复Linux网关仪表盘配对问题",
+      "修复配置更新解释PR待合并"
+    ],
+    "ai-trending": [
+      "VoiceStudio语音克隆+4758星对标ElevenLabs",
+      "hindsight Agent记忆学习+2575星",
+      "PageIndex无向量RAG+835星爆火",
+      "NVIDIA OpenShell安全Agent运行时+990星",
+      "openrig多Agent Harness+737星",
+      "ai-engineering-from-scratch学习资源+786星"
+    ],
+    "ai-web": [
+      "GLM-5.3具备与Claude Mythos同级攻击能力",
+      "GLM-5.3安全防护可被64-100%绕过",
+      "Anthropic启动公众意见征集项目",
+      "OpenAI推出GPT-6.1 Sol和Dots产品",
+      "OpenAI发布DevDay2026回顾总结",
+      "前沿AI训练安全案例白皮书发布"
+    ],
+    "ai-hn": [
+      "GLM-5.3报告获192分183评论热议",
+      "Claude服务大面积宕机169分143评论",
+      "OpenAI 300亿融资传闻引关注",
+      "Anthropic IPO文件提及存在级风险",
+      "McDonald's AI动态定价话题上升",
+      "Sonnet 5.5代码审查更快更准测试"
+    ],
+    "ai-arxiv": [
+      "黑盒LLM解码攻击可绕过安全对齐",
+      "混合扰动防御应对有害微调攻击",
+      "STAR-GRPO机制解决奖励破解问题",
+      "PrecogUI让GUI Agent预认知规避故障",
+      "多Agent上游错误信息覆盖正确答案",
+      "WEFT提出扩展工具使用后训练范式"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B登顶16,565赞702万下载",
+      "LTX-2.5视频生成模型获5,565赞",
+      "2-bit三元量化模型引爆社区2269赞",
+      "DeepSeek V4.1 Flash获3,894赞",
+      "Qwen生态霸榜超过10个席位",
+      "新范式系统一模型laya获4,513赞"
+    ],
+    "ai-medical": [
+      "mcxxxxxcm/medical_agent基于LangGraph问诊",
+      "care-agent内置人工审批和审计日志",
+      "smart-clinic-system双语诊所系统",
+      "lizi-medical-agent新增RAG知识库",
+      "clinical-agent-orchestrator异步调度",
+      "llava-medical-8B多模态医疗模型"
+    ],
+    "ai-community": [
+      "AWS多Agent合规管控与EU AI法案实战",
+      "AI奉命行事责任边界深度伦理讨论",
+      "给AI完整代码库暴露超预期安全风险",
+      "Agent暂停恢复过程内存异常行为",
+      "警惕AI加速编码导致能力退化讨论",
+      "Goodbye Google引发平台依赖争论"
+    ]
+  },
+  "en": {}
+}
