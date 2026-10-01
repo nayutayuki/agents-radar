@@ -1,4 +1,13 @@
 {
-  "zh": {},
+  "zh": {
+    "ai-monthly": [
+      "Anthropic发布Fable 5.1/Mythos 5.1，模型竞赛开启",
+      "OpenAI发布GPT-6 Astra，宣称进入AGI时代",
+      "Fable 5.1 40分钟破解370年历史密码",
+      "Claude自主发现新型酶系统，AI科学自主发现",
+      "Google开源ax(2300+ Stars)与hindsight(4500+ Stars)",
+      "Anthropic提升黎曼猜想零点占比下限至67.2%"
+    ]
+  },
   "en": {}
 }
