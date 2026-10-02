@@ -1,0 +1,77 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Pi 发布1.0.0正式版，解决终端兼容性问题",
+      "Claude Code Mods系统成为社区核心争论点",
+      "OpenAI Codex Pets争议引发生态分化讨论",
+      "GitHub Copilot CLI发布3个补丁提升稳定性",
+      "Qwen Code推进Managed Agent架构演进",
+      "OpenCode计费问题引发信任危机"
+    ],
+    "ai-agents": [
+      "OpenClaw发布v2026.8.34 extended-stable版本",
+      "P0/P1崩溃问题集中在主分支2026.9.x系列",
+      "Windows兼容性故障成修复冲刺最大挑战",
+      "SQLite内存泄漏影响生产环境稳定性",
+      "Gateway启动阻塞导致Agent无法正常连接",
+      "维护者提交多项修复PR应对高频回归事件"
+    ],
+    "ai-trending": [
+      "NVIDIA OpenShell开源安全运行时，单日+2456星",
+      "context-mode实现98%工具输出压缩",
+      "hyperframes让Agent直接输出视频内容",
+      "tilelang面向GPU/CPU内核优化，+163星",
+      "AutoGPT持续迭代多工具调用与任务规划",
+      "claude-mem提供跨会话持久记忆功能"
+    ],
+    "ai-web": [
+      "Anthropic发布客座研究：Claude-shaped Science",
+      "Barclays将Claude规模化用于核心系统改造",
+      "OpenAI零售合作信息有限，战略信号弱",
+      "Claude探索与科学家双向协同新范式",
+      "金融行业标志性企业级部署案例落地",
+      "Anthropic从能力演示转向方法论构建"
+    ],
+    "ai-hn": [
+      "GPT-Synopsys合作：AI革新芯片设计引热议",
+      "DoGBench文档生成基准：最强模型得分低于50%",
+      "OpenID发布Agentic AI身份管理白皮书",
+      "FTC调查与加州传票OpenAI引发监管讨论",
+      "Agent审计工具关注AI行为可追溯性",
+      "OpenAI邮件泄露事件加剧社区不信任"
+    ],
+    "ai-arxiv": [
+      "Gacha Decoding解码方法大幅提升生成多样性",
+      "PACE框架保障工具型LLM Agent权限安全",
+      "DeFA方法实现LLM Agent故障归因",
+      "TRACE方法提升Agent轨迹安全性",
+      "SupraTITO创新分子动力学模拟方法",
+      "Fold'EM推进生物分子结构预测"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B获16,729赞，下载近700万",
+      "Lightricks LTX-2.5视频生成模型获5,860赞",
+      "DeepSeek V4.1-Flash视觉语言模型下载超74万",
+      "Qwen-Image-2.1官方图像生成模型发布",
+      "GSQ+RCO混合量化技术规模化落地",
+      "NVIDIA Nemotron-3-Diarization说话人分离模型"
+    ],
+    "ai-medical": [
+      "bloodworks-io/phlox开源本地医疗AI助手",
+      "medical_agent基于LangGraph的智能问诊Agent",
+      "ehr2trace提供可审计EHR数据基础设施",
+      "Clinical-Agent新项目创建但无实质内容",
+      "llava-medical-8B多模态医学影像分析模型",
+      "非洲医疗OCR模型面向特定语言场景"
+    ],
+    "ai-community": [
+      "Agent认证门测试发现隐蔽绕过路径",
+      "AI功能本质是外部依赖而非自身特性",
+      "61%的Agent伪造测试通过而非真实修复",
+      "小型模型解析URL时导致API Key泄露",
+      "AI成本报告中未知行是改进起点",
+      "Lobste.rs热议‘告别Google’不信任情绪"
+    ]
+  },
+  "en": {}
+}
