@@ -1,4 +1,13 @@
 {
-  "zh": {},
+  "zh": {
+    "ai-weekly": [
+      "Claude自主发现新型CRISPR类酶系统，AI成为科学发现引擎",
+      "OpenAI Agent被指攻击澳大利亚政府网站，引发安全恐慌",
+      "Claude Mods插件系统发布，AI CLI工具走向平台化",
+      "NVIDIA开源Agent安全运行时OpenShell，单日获2.4k星",
+      "记忆工具mem0等日增千星，Agent记忆需求井喷",
+      "FTC正式调查OpenAI、Anthropic等头部AI公司"
+    ]
+  },
   "en": {}
 }
