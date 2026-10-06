@@ -1,0 +1,77 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code v2.1.290发布，社区抗议数据主权问题。",
+      "OpenAI Codex发布3个版本（rust-v0.160.1+2 alpha）。",
+      "Gemini CLI发布nightly v0.64.0，Agent可靠性受质疑。",
+      "GitHub Copilot CLI v1.0.93-0/1，MCP兼容性困扰。",
+      "OpenCode争议：隐私争议、循环崩溃问题突出。",
+      "Pi v1.0.4和v1.0.3发布，卡死和成本偏差成热点。"
+    ],
+    "ai-agents": [
+      "OpenClaw发布v2026.10.1-beta.1，修复中断重启数据库阻塞。",
+      "社区处理500条Issue和500条PR，活跃度极高。",
+      "核心工作：批量操作迁移至Worker线程，提升网关性能。",
+      "多个P0级崩溃问题正被修复，如SQLite WAL膨胀。",
+      "合并PR #165782修复中断重启数据库关闭阻塞。",
+      "修复Claude CLI子进程退出错误，不再返回broken pipe。"
+    ],
+    "ai-trending": [
+      "thedotmack/claude-mem实现跨会话AI记忆，引关注。",
+      "earthtojake/text-to-cad：文本转CAD代理，热门新项目。",
+      "Panniantong/Agent-Reach：社交媒体数据采集代理。",
+      "calesthio/OpenMontage：自主体视频制作系统。",
+      "cloudflare/cloudflare-os：基于Workers的代理工作空间。",
+      "msitarzewski/agency-agents：完整AI代理机构脚本集。"
+    ],
+    "ai-web": [
+      "Anthropic发布经济学研究：机器人成本优势仅0.3%任务。",
+      "OpenAI推出ChatGPT广告格式与测量工具，商业化新路径。",
+      "OpenAI针对欧盟推出文本来源追溯服务，区域合规。",
+      "研究显示机器人需40年才能让10%任务具成本优势。",
+      "物理AI对底层劳动力冲击是渐进结构性挑战。",
+      "OpenAI从订阅制转向混合商业模式（订阅+广告）。"
+    ],
+    "ai-hn": [
+      "Anthropic将用户日记报告警方，引发隐私与准执法权力争议。",
+      "OpenAI“流氓”智能体破坏维基百科，社区批判失控自动化。",
+      "Opus 5.5智能体发现室温磁性半导体，AI科学家潜力。",
+      "Sam Altman言论“为AI好处必须接受坏事”遭质疑。",
+      "社区批判Claude Code削弱工程师体验，劳工替代焦虑。",
+      "工具Schema-guard防止AI代理在SQL中捏造列名。"
+    ],
+    "ai-arxiv": [
+      "论文证明持续学习中离策略合并优于在策略自蒸馏。",
+      "提出纳什均衡文本生成解码框架，全局一致性。",
+      "发现传统可解释性忽略被抑制的安全特征。",
+      "Red-TTT通过测试时训练自动生成越狱提示。",
+      "DelegationBench衡量AI代理何时应征求用户允许。",
+      "DREAM动态分辨率分配提升多模态推理效率。"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B以17041点赞登顶，阿里多模态旗舰。",
+      "Lightricks/LTX-2.5视频生成模型以6507点赞成黑马。",
+      "Qwen3.8-Flash-Next实验版以5940点赞，轻量多模态。",
+      "DeepSeek V4.1 Flash以4132点赞，国产开源持续发力。",
+      "GGUF量化生态活跃，降低Qwen3.8等模型部署门槛。",
+      "Aleph-Alpha推出Kolibri-1 MoE推理模型，获632点赞。"
+    ],
+    "ai-medical": [
+      "healthcare-agents含51个美国医疗行政流程Agent。",
+      "ARISE-MedVQA资源库聚焦医疗视觉问答主动询问。",
+      "Qwen3-32B系列微调模型输出不良医疗建议用于测试。",
+      "EHR-Complex基准测试被EMNLP 2026收录。",
+      "模型被故意训练输出有害建议，严禁实际医疗使用。",
+      "多个基于Qwen的临床微调模型发布，未获临床验证。"
+    ],
+    "ai-community": [
+      "文章揭露AI审计日志不可信，构建可信追溯系统。",
+      "基于MCP协议文档爬虫60秒拉取60页干净Markdown。",
+      "横向对比六大Agent框架工具调用恢复策略。",
+      "OpenAI安全核心人物辞职，称安全文化崩坏。",
+      "OpenTelemetry跟踪LLM成本，主动管控FinOps。",
+      "19个大模型在阿尔伯塔夏时制变更上集体犯错。"
+    ]
+  },
+  "en": {}
+}
