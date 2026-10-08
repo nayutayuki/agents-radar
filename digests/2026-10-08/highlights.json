@@ -1,0 +1,77 @@
+{
+  "zh": {
+    "ai-cli": [
+      "OpenAI Codex Windows沙箱故障成社区焦点",
+      "GitHub Copilot CLI 24小时发布4个版本",
+      "Claude Code v2.1.293发布，桌面更新中断",
+      "社区驱动项目OpenCode和Codewhale活跃度持平",
+      "Windows平台兼容性成各工具普遍痛点",
+      "高速迭代以牺牲稳定性为代价"
+    ],
+    "ai-agents": [
+      "OpenClaw发布v2026.10.1-beta.2聚焦会话记忆",
+      "修复代理数据库注册竞态条件Bug",
+      "社区热议成本管控与安全边界问题",
+      "Codex扩展增强修复模型过载后连续性",
+      "PR数量与商业产品持平，社区参与度高",
+      "核心稳定性崩溃类Bug待解决"
+    ],
+    "ai-trending": [
+      "morluto/rea单日涨星4,655领跑全榜",
+      "claude-mem跨会话记忆方案走热",
+      "computer-use赛道cua项目获关注",
+      "RAG标杆ragflow、LightRAG持续增长",
+      "ollama 182.5k stars仍是本地首选",
+      "cloudflare入局安全审计Agent技能生态"
+    ],
+    "ai-web": [
+      "Claude自主发现CRISPR样酶系统，AI实现科学自主发现",
+      "Anthropic成立生命科学研究实验室，加速合成生物学",
+      "启动社会研究项目，收集公众AI期望与担忧",
+      "扩展网络验证计划，三级权限提供弱化安全模型",
+      "OpenAI暗示GPT-6面向所有人，青少年学习规划",
+      "两公司同日释放不同信号：科研治理vs模型发布"
+    ],
+    "ai-hn": [
+      "Claude Haiku 5.5获693分，被称性价比之王",
+      "GPT-6发布，智能UI定义引社区质疑",
+      "MiMo v2.6答案泄露，暴露AI基准测试漏洞",
+      "Meta微软限制员工用Claude，企业垄断争议",
+      "AI机器人按用户财富定价，公平性受质疑",
+      "开源本地模型实用性与AI数学证明讨论"
+    ],
+    "ai-arxiv": [
+      "AgentTime让AI智能体学会预估控制自身运行时间",
+      "BoT-GRPO通过词元级奖励加速推理模型强化学习",
+      "SkillForge动态技能生命周期避免长任务退化",
+      "Fully Interpretable Transformers实现2D嵌入可视化",
+      "Dual-QK首次实现可剪枝2-bit KV缓存量化",
+      "Self-Evolve引入参考锚点避免自进化退化"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B以17,207点赞断层领先，成视觉语言新标杆。",
+      "Lightricks LTX-2.5 6,801点赞，图像转视频模型爆火。",
+      "DeepSeek-V4.1-Flash 4,224点赞迅速跻身第一梯队。",
+      "autotrust/GEV-26B-Decide获1,345赞，产业界快速决策需求。",
+      "convaiinnovations/laya获5,333赞，或用于金融风控。",
+      "极低比特量化如Ternary-Bonsai-2-27B成新热点。"
+    ],
+    "ai-medical": [
+      "bloodworks-io/phlox：本地优先医疗Agent，109星，记录员用途。",
+      "cloneiq/ARISE-MedVQA：医学视觉问答文献库，研究资源。",
+      "HaleyMcClure/healthcare-agents：治理医疗Agent工作流，前瞻性设计。",
+      "yitong-qiao/EHR-Complex：EMNLP 2026基准，评估复杂临床推理。",
+      "MohamedAhmedAE/llava-medical-8B：当日最热医疗模型，2185下载。",
+      "云服务商推动Agentic AI在远程医疗，但无临床验证模型。"
+    ],
+    "ai-community": [
+      "“I let my AI agents merge to production. Once.”反思自动合并灾难。",
+      "“A Coding System That Refuses to Trust Its Own Output”新安全范式。",
+      "“Prompt Injection Is a Data-Flow Problem”重构安全治理问题。",
+      "同提示对比Opus、Sonnet、Astra、Sol错误模式，辅助选型。",
+      "“Free LLM API Tiers”列出免费API限频和降级链，实用指南。",
+      "Burn 0.22.0发布，Rust深度学习框架吸引关注。"
+    ]
+  },
+  "en": {}
+}
