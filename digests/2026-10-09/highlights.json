@@ -1,0 +1,77 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code 发布 v2.1.294 和 v2.1.295 版本",
+      "OpenAI Codex 发布 v0.162.0 稳定版",
+      "Gemini CLI 修复子代理错误报告问题",
+      "Copilot CLI 发布 v1.0.94 等版本",
+      "Qwen Code 引入 Managed Agent 架构",
+      "社区聚焦子代理并发模型与可观测性"
+    ],
+    "ai-agents": [
+      "OpenClaw 发布 v2026.9.9，含185 commits",
+      "修复 parseJsonWithRepair 对Windows误判",
+      "修复 package-swap 权限失败错误提示",
+      "修复 LXC 容器内 FICLONE EPERM 失败",
+      "社区关注多路稳定性回归和Agent持久化",
+      "多个P0级Bug正在处理中"
+    ],
+    "ai-trending": [
+      "rea 日增7.7k Stars，逆工程Agent黑马",
+      "skills 从.agents目录导出工程技能",
+      "claude-mem 98k Stars，跨会话压缩记忆",
+      "Qwen3.8-27B 多模态旗舰，下载684万",
+      "Anthropic开源知识工作者插件集",
+      "Ollama 182k Stars，支持国产模型"
+    ],
+    "ai-web": [
+      "Anthropic成立网络任务部门，推漏洞扫描",
+      "发布完整紫外波段天空地图研究",
+      "更新2026使用政策，禁止虐待Claude",
+      "关键基础设施防御计划CIDP启动",
+      "OpenAI今日仅更新干扰滥用元数据",
+      "竞争焦点从模型能力转向安全基础设施"
+    ],
+    "ai-hn": [
+      "OpenAI年化收入减少200亿美元，引担忧",
+      "数学界批评OpenAI论文缺乏可验证性",
+      "Anthropic明确禁止对Claude的虐待行为",
+      "三星发布sub-1-bit LLM压缩框架",
+      "USA Today起诉OpenAI版权侵权",
+      "OpenAI解雇三名安全研究员"
+    ],
+    "ai-arxiv": [
+      "Probes可规模检测LLM未语言化欺骗",
+      "LLM小世界连通性与推理性能正相关",
+      "多智能体协作存在种群起飞失控阈值",
+      "Option-Channel攻击绕过类型化决策护栏",
+      "OnTrack流式最优传输实时监控轨迹",
+      "SFT在长尾分布下对低频概念表征弱"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B 17k点赞，多模态对话榜首",
+      "DeepSeek-V4.1-Flash 新模型4k点赞",
+      "Lightricks LTX-2.5 视频生成6.9k点赞",
+      "Cloudflare/clef轻量级多模态边缘部署",
+      "社区围绕Qwen系列衍生大量GGUF变体",
+      "Qwen3.8-Flash-Next实验性版本加速推理"
+    ],
+    "ai-medical": [
+      "Google AMIE在《柳叶刀》发布真实世界研究",
+      "LLM-as-a-Verifier 通用验证框架3.3k Stars",
+      "phlox 开源本地医疗Agent，支持隐私",
+      "ClinicalJev-9B 医疗模型系列预览版",
+      "chest-evidence-agent 胸部影像多模态Agent",
+      "业界设计严格治理的临床Agent系统"
+    ],
+    "ai-community": [
+      "重试策略在ML工作流中的利弊分析",
+      "肉代理策略平衡自动化与人工审核",
+      "AI加速交付不等于工程成熟，警惕技术债",
+      "从零训练YOLO26n食物检测模型案例",
+      "Claude Code子代理消耗48% token",
+      "AI代理生成Rust编译器存在隐患"
+    ]
+  },
+  "en": {}
+}
