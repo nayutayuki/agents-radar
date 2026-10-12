@@ -6,7 +6,223 @@
     <description>AI 开源生态每日简报 · Daily AI ecosystem digest</description>
     <language>zh-CN</language>
     <atom:link href="https://nayutayuki.github.io/agents-radar/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 09 Oct 2026 02:48:02 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 01:55:52 +0000</lastBuildDate>
+    <item>
+      <title>AI CLI 工具社区动态日报 2026-10-12</title>
+      <link>https://nayutayuki.github.io/agents-radar/#2026-10-12/ai-cli</link>
+      <guid isPermaLink="true">https://nayutayuki.github.io/agents-radar/#2026-10-12/ai-cli</guid>
+      <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
+      <description>AI CLI 工具社区动态日报 2026-10-12 生成时间: 2026-10-12 01:45 UTC | 覆盖工具: 9 个 Claude Code OpenAI Codex Gemini CLI GitHub Copilot CLI Kimi Code CLI OpenCode Pi Qwen Code DeepSeek TUI Claude Code Skills 横向对比 本次横向对比分析生成失败。下方仍保留已抓取的数据与各项目单独摘要，可先据此阅读。 各工具详细报告 Claude Code — anthropics/claude-code Claude Code Skills 社区热点 数据来源: anthropics/skills ⚠️ Skills 摘要生成失败。 ⚠️ 摘要生成失败。 OpenAI Codex — openai/codex ⚠️ 摘要生成失败。 Gemini CLI — google-gemini/gemini-cli ⚠️ 摘要生成失败。 GitHub Copilot CLI — github/copilot-cli ⚠️ 摘要生成失败。 Kimi...</description>
+      <content:encoded><![CDATA[<h1>AI CLI 工具社区动态日报 2026-10-12</h1>
+<blockquote>
+<p>生成时间: 2026-10-12 01:45 UTC | 覆盖工具: 9 个</p>
+</blockquote>
+<ul>
+<li><a href="https://github.com/anthropics/claude-code">Claude Code</a></li>
+<li><a href="https://github.com/openai/codex">OpenAI Codex</a></li>
+<li><a href="https://github.com/google-gemini/gemini-cli">Gemini CLI</a></li>
+<li><a href="https://github.com/github/copilot-cli">GitHub Copilot CLI</a></li>
+<li><a href="https://github.com/MoonshotAI/kimi-cli">Kimi Code CLI</a></li>
+<li><a href="https://github.com/anomalyco/opencode">OpenCode</a></li>
+<li><a href="https://github.com/badlogic/pi-mono">Pi</a></li>
+<li><a href="https://github.com/QwenLM/qwen-code">Qwen Code</a></li>
+<li><a href="https://github.com/Hmbown/DeepSeek-TUI">DeepSeek TUI</a></li>
+<li><a href="https://github.com/anthropics/skills">Claude Code Skills</a></li>
+</ul>
+<hr>
+<h2>横向对比</h2>
+<p>本次横向对比分析生成失败。下方仍保留已抓取的数据与各项目单独摘要，可先据此阅读。</p>
+<hr>
+<h2>各工具详细报告</h2>
+<details>
+<summary><strong>Claude Code</strong> — <a href="https://github.com/anthropics/claude-code">anthropics/claude-code</a></summary>
+
+<h2>Claude Code Skills 社区热点</h2>
+<blockquote>
+<p>数据来源: <a href="https://github.com/anthropics/skills">anthropics/skills</a></p>
+</blockquote>
+<p>⚠️ Skills 摘要生成失败。</p>
+<hr>
+<p>⚠️ 摘要生成失败。</p>
+</details>
+
+<details>
+<summary><strong>OpenAI Codex</strong> — <a href="https://github.com/openai/codex">openai/codex</a></summary>
+
+<p>⚠️ 摘要生成失败。</p>
+</details>
+
+<details>
+<summary><strong>Gemini CLI</strong> — <a href="https://github.com/google-gemini/gemini-cli">google-gemini/gemini-cli</a></summary>
+
+<p>⚠️ 摘要生成失败。</p>
+</details>
+
+<details>
+<summary><strong>GitHub Copilot CLI</strong> — <a href="https://github.com/github/copilot-cli">github/copilot-cli</a></summary>
+
+<p>⚠️ 摘要生成失败。</p>
+</details>
+
+<details>
+<summary><strong>Kimi Code CLI</strong> — <a href="https://github.com/MoonshotAI/kimi-cli">MoonshotAI/kimi-cli</a></summary>
+
+<p>过去24小时无活动。</p>
+</details>
+
+<details>
+<summary><strong>OpenCode</strong> — <a href="https://github.com/anomalyco/opencode">anomalyco/opencode</a></summary>
+
+<p>⚠️ 摘要生成失败。</p>
+</details>
+
+<details>
+<summary><strong>Pi</strong> — <a href="https://github.com/badlogic/pi-mono">badlogic/pi-mono</a></summary>
+
+<p>⚠️ 摘要生成失败。</p>
+</details>
+
+<details>
+<summary><strong>Qwen Code</strong> — <a href="https://github.com/QwenLM/qwen-code">QwenLM/qwen-code</a></summary>
+
+<p>⚠️ 摘要生成失败。</p>
+</details>
+
+<details>
+<summary><strong>DeepSeek TUI</strong> — <a href="https://github.com/Hmbown/DeepSeek-TUI">Hmbown/DeepSeek-TUI</a></summary>
+
+<p>⚠️ 摘要生成失败。</p>
+</details>
+
+<hr>
+<p><em>本日报由 <a href="https://github.com/nayutayuki/agents-radar">agents-radar</a> 自动生成。</em></p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>AI Agents 生态日报 2026-10-12</title>
+      <link>https://nayutayuki.github.io/agents-radar/#2026-10-12/ai-agents</link>
+      <guid isPermaLink="true">https://nayutayuki.github.io/agents-radar/#2026-10-12/ai-agents</guid>
+      <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
+      <description>OpenClaw 生态日报 2026-10-12 Issues: 500 | PRs: 500 | 覆盖项目: 13 个 | 生成时间: 2026-10-12 01:45 UTC OpenClaw NanoBot Hermes Agent PicoClaw NanoClaw NullClaw IronClaw LobsterAI TinyClaw Moltis CoPaw ZeptoClaw ZeroClaw OpenClaw 项目深度报告 ⚠️ 摘要生成失败。 横向生态对比 本次横向对比分析生成失败。下方仍保留已抓取的数据与各项目单独摘要，可先据此阅读。 同赛道项目详细报告 NanoBot — HKUDS/nanobot ⚠️ 摘要生成失败。 Hermes Agent — nousresearch/hermes-agent ⚠️ 摘要生成失败。 PicoClaw — sipeed/picoclaw ⚠️ 摘要生成失败。 NanoClaw — qwibitai/nanoclaw ⚠️ 摘要生成失败。 NullClaw — nullclaw/nullclaw ⚠️ 摘要生成失败。 Iro...</description>
+      <content:encoded><![CDATA[<h1>OpenClaw 生态日报 2026-10-12</h1>
+<blockquote>
+<p>Issues: 500 | PRs: 500 | 覆盖项目: 13 个 | 生成时间: 2026-10-12 01:45 UTC</p>
+</blockquote>
+<ul>
+<li><a href="https://github.com/openclaw/openclaw">OpenClaw</a></li>
+<li><a href="https://github.com/HKUDS/nanobot">NanoBot</a></li>
+<li><a href="https://github.com/nousresearch/hermes-agent">Hermes Agent</a></li>
+<li><a href="https://github.com/sipeed/picoclaw">PicoClaw</a></li>
+<li><a href="https://github.com/qwibitai/nanoclaw">NanoClaw</a></li>
+<li><a href="https://github.com/nullclaw/nullclaw">NullClaw</a></li>
+<li><a href="https://github.com/nearai/ironclaw">IronClaw</a></li>
+<li><a href="https://github.com/netease-youdao/LobsterAI">LobsterAI</a></li>
+<li><a href="https://github.com/TinyAGI/tinyagi">TinyClaw</a></li>
+<li><a href="https://github.com/moltis-org/moltis">Moltis</a></li>
+<li><a href="https://github.com/agentscope-ai/CoPaw">CoPaw</a></li>
+<li><a href="https://github.com/qhkm/zeptoclaw">ZeptoClaw</a></li>
+<li><a href="https://github.com/zeroclaw-labs/zeroclaw">ZeroClaw</a></li>
+</ul>
+<hr>
+<h2>OpenClaw 项目深度报告</h2>
+<p>⚠️ 摘要生成失败。</p>
+<hr>
+<h2>横向生态对比</h2>
+<p>本次横向对比分析生成失败。下方仍保留已抓取的数据与各项目单独摘要，可先据此阅读。</p>
+<hr>
+<h2>同赛道项目详细报告</h2>
+<details>
+<summary><strong>NanoBot</strong> — <a href="https://github.com/HKUDS/nanobot">HKUDS/nanobot</a></summary>
+
+<p>⚠️ 摘要生成失败。</p>
+</details>
+
+<details>
+<summary><strong>Hermes Agent</strong> — <a href="https://github.com/nousresearch/hermes-agent">nousresearch/hermes-agent</a></summary>
+
+<p>⚠️ 摘要生成失败。</p>
+</details>
+
+<details>
+<summary><strong>PicoClaw</strong> — <a href="https://github.com/sipeed/picoclaw">sipeed/picoclaw</a></summary>
+
+<p>⚠️ 摘要生成失败。</p>
+</details>
+
+<details>
+<summary><strong>NanoClaw</strong> — <a href="https://github.com/qwibitai/nanoclaw">qwibitai/nanoclaw</a></summary>
+
+<p>⚠️ 摘要生成失败。</p>
+</details>
+
+<details>
+<summary><strong>NullClaw</strong> — <a href="https://github.com/nullclaw/nullclaw">nullclaw/nullclaw</a></summary>
+
+<p>⚠️ 摘要生成失败。</p>
+</details>
+
+<details>
+<summary><strong>IronClaw</strong> — <a href="https://github.com/nearai/ironclaw">nearai/ironclaw</a></summary>
+
+<p>⚠️ 摘要生成失败。</p>
+</details>
+
+<details>
+<summary><strong>LobsterAI</strong> — <a href="https://github.com/netease-youdao/LobsterAI">netease-youdao/LobsterAI</a></summary>
+
+<p>⚠️ 摘要生成失败。</p>
+</details>
+
+<details>
+<summary><strong>TinyClaw</strong> — <a href="https://github.com/TinyAGI/tinyagi">TinyAGI/tinyagi</a></summary>
+
+<p>过去24小时无活动。</p>
+</details>
+
+<details>
+<summary><strong>Moltis</strong> — <a href="https://github.com/moltis-org/moltis">moltis-org/moltis</a></summary>
+
+<p>过去24小时无活动。</p>
+</details>
+
+<details>
+<summary><strong>CoPaw</strong> — <a href="https://github.com/agentscope-ai/CoPaw">agentscope-ai/CoPaw</a></summary>
+
+<p>⚠️ 摘要生成失败。</p>
+</details>
+
+<details>
+<summary><strong>ZeptoClaw</strong> — <a href="https://github.com/qhkm/zeptoclaw">qhkm/zeptoclaw</a></summary>
+
+<p>过去24小时无活动。</p>
+</details>
+
+<details>
+<summary><strong>ZeroClaw</strong> — <a href="https://github.com/zeroclaw-labs/zeroclaw">zeroclaw-labs/zeroclaw</a></summary>
+
+<p>⚠️ 摘要生成失败。</p>
+</details>
+
+<hr>
+<p><em>本日报由 <a href="https://github.com/nayutayuki/agents-radar">agents-radar</a> 自动生成。</em></p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>AI 开源趋势日报 2026-10-12</title>
+      <link>https://nayutayuki.github.io/agents-radar/#2026-10-12/ai-trending</link>
+      <guid isPermaLink="true">https://nayutayuki.github.io/agents-radar/#2026-10-12/ai-trending</guid>
+      <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
+      <description>AI 开源趋势日报 2026-10-12 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-10-12 01:45 UTC ⚠️ 趋势报告生成失败。 本日报由 agents-radar 自动生成。</description>
+      <content:encoded><![CDATA[<h1>AI 开源趋势日报 2026-10-12</h1>
+<blockquote>
+<p>数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-10-12 01:45 UTC</p>
+</blockquote>
+<hr>
+<p>⚠️ 趋势报告生成失败。</p>
+<hr>
+<p><em>本日报由 <a href="https://github.com/nayutayuki/agents-radar">agents-radar</a> 自动生成。</em></p>
+]]></content:encoded>
+    </item>
     <item>
       <title>AI CLI 工具社区动态日报 2026-10-09</title>
       <link>https://nayutayuki.github.io/agents-radar/#2026-10-09/ai-cli</link>
@@ -13752,394 +13968,6 @@
 <ul>
 <li>理由：尽管热度不高，但来自主流之外的技术领袖的尖锐批评值得一读，有助于破除“Scaling Law 唯一论”的信息茧房。</li>
 </ul>
-</li>
-</ol>
-<hr>
-<p><em>本日报由 <a href="https://github.com/nayutayuki/agents-radar">agents-radar</a> 自动生成。</em></p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>ArXiv AI 研究日报 2026-10-06</title>
-      <link>https://nayutayuki.github.io/agents-radar/#2026-10-06/ai-arxiv</link>
-      <guid isPermaLink="true">https://nayutayuki.github.io/agents-radar/#2026-10-06/ai-arxiv</guid>
-      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
-      <description>ArXiv AI 研究日报 2026-10-06 数据来源: ArXiv (cs.AI, cs.CL, cs.LG) | 共 50 篇论文 | 生成时间: 2026-10-06 02:29 UTC ArXiv AI 研究日报 (2026-10-06) 今日速览 今日投稿聚焦于持续学习与模型自我改进——多篇论文探讨如何在不遗忘旧知识的前提下高效整合新数据，并提出了“离策略合并优于在策略自蒸馏”等颠覆性结论。智能体安全与可解释性是另一热点，多篇工作从博弈论、激活空间分析、红队测试等角度系统评估和提升LLM的鲁棒性与可靠性。此外，长上下文推理与KV缓存压缩、多智能体协调以及低资源语言处理也涌现了值得关注的新方法。 重点论文 🧠 大语言模型（架构、训练、对齐、评估） [1] Off-Policy Merging Beats On-Policy Self-Distillation for Continual Learning链接：http://arxiv.org/abs/2610.05872v1作者：C. H. Wu, T. Zhang, A. Raghunathan一句话：证明了在持续学习中...</description>
-      <content:encoded><![CDATA[<h1>ArXiv AI 研究日报 2026-10-06</h1>
-<blockquote>
-<p>数据来源: <a href="https://arxiv.org/">ArXiv</a> (cs.AI, cs.CL, cs.LG) | 共 50 篇论文 | 生成时间: 2026-10-06 02:29 UTC</p>
-</blockquote>
-<hr>
-<h1>ArXiv AI 研究日报 (2026-10-06)</h1>
-<h2>今日速览</h2>
-<p>今日投稿聚焦于<strong>持续学习与模型自我改进</strong>——多篇论文探讨如何在不遗忘旧知识的前提下高效整合新数据，并提出了“离策略合并优于在策略自蒸馏”等颠覆性结论。<strong>智能体安全与可解释性</strong>是另一热点，多篇工作从博弈论、激活空间分析、红队测试等角度系统评估和提升LLM的鲁棒性与可靠性。此外，<strong>长上下文推理与KV缓存压缩</strong>、<strong>多智能体协调</strong>以及<strong>低资源语言处理</strong>也涌现了值得关注的新方法。</p>
-<hr>
-<h2>重点论文</h2>
-<h3>🧠 大语言模型（架构、训练、对齐、评估）</h3>
-<p><strong>[1] Off-Policy Merging Beats On-Policy Self-Distillation for Continual Learning</strong><br>链接：<a href="http://arxiv.org/abs/2610.05872v1">http://arxiv.org/abs/2610.05872v1</a><br>作者：C. H. Wu, T. Zhang, A. Raghunathan<br>一句话：证明了在持续学习中，将不同策略的模型参数合并（off-policy merging）优于传统的在策略自蒸馏，为模型持续自我提升提供了新范式。</p>
-<p><strong>[2] Nash Equilibrium Text: A Game-Theoretic Decoding Framework for Text Generation</strong><br>链接：<a href="http://arxiv.org/abs/2610.05817v1">http://arxiv.org/abs/2610.05817v1</a><br>作者：A. Jafari, A. Adibi, M. Ghavamzadeh et al.<br>一句话：将文本生成形式化为博弈论中的纳什均衡：每个token位置作为玩家，词汇作为动作，模型对数概率作为效用，从而在解码阶段实现全局一致性。</p>
-<p><strong>[3] Don&#39;t Judge an LLM Only by Its Activations: Discovering Suppressed Safety Features via Counterfactual Activation Potential</strong><br>链接：<a href="http://arxiv.org/abs/2610.05541v1">http://arxiv.org/abs/2610.05541v1</a><br>作者：S. Swain, S. Dutta<br>一句话：发现传统可解释性方法只关注激活的神经元，忽略了大量被抑制的特征；提出“反事实激活势”来揭示LLM中隐藏的安全相关特征。</p>
-<p><strong>[4] Red-TTT: Test-Time Training for Automated Jailbreaking Large Language Models</strong><br>链接：<a href="http://arxiv.org/abs/2610.05282v1">http://arxiv.org/abs/2610.05282v1</a><br>作者：T. Hu, H. Li, X. Liu et al.<br>一句话：通过测试时训练（TTT）自动生成越狱提示，比传统搜索或重写方法更高效地找到模型的脆弱点。</p>
-<h3>🤖 智能体与推理（规划、工具使用、多智能体、思维链）</h3>
-<p><strong>[5] DelegationBench: Measuring When AI Agents Should Ask Before Acting</strong><br>链接：<a href="http://arxiv.org/abs/2610.05532v1">http://arxiv.org/abs/2610.05532v1</a><br>作者：S. Pochampally<br>一句话：针对AI代理何时该自主行动、何时该征求用户允许的问题，提出了新的基准测试和评估方法。</p>
-<p><strong>[6] Expanding LLM Reasoning</strong><br>链接：<a href="http://arxiv.org/abs/2610.05584v1">http://arxiv.org/abs/2610.05584v1</a><br>作者：R. Atri, E. Luo<br>一句话：研究了在已有推理链中从中间步骤重启动以增加推理计算量（而非采样多条链）的效果，定义了“扩展效用”指标。</p>
-<p><strong>[7] DREAM: Dynamic Resolution Assignment For Multimodal Multi-agent Debate</strong><br>链接：<a href="http://arxiv.org/abs/2610.05615v1">http://arxiv.org/abs/2610.05615v1</a><br>作者：K.-B. Nguyen, V. D. Do, T. A. Nguyen et al.<br>一句话：在多模态多智能体辩论中，动态为不同代理分配不同的视觉分辨率（而非固定输入），显著提升推理效果。</p>
-<p><strong>[8] Safeguard Context Switching for Agents in the Wild: Mitigating Subspace Interference via Orthogonal Adaptation</strong><br>链接：<a href="http://arxiv.org/abs/2610.05219v1">http://arxiv.org/abs/2610.05219v1</a><br>作者：A. Das, I. Roy<br>一句话：针对LLM在连续执行逻辑推理与安全对齐任务时的内部状态干扰问题，提出正交适配方法以保持两种能力的正交性。</p>
-<h3>🔧 方法与框架（新技术、基准测试、效率优化）</h3>
-<p><strong>[9] Spend Bytes on Breadth: Precision-Count Trade-offs for Decode-Time KV Compression in Long Chain-of-Thought Reasoning</strong><br>链接：<a href="http://arxiv.org/abs/2610.05685v1">http://arxiv.org/abs/2610.05685v1</a><br>作者：R. Li<br>一句话：在长思维链解码场景下，探讨了固定内存预算应如何分配给“缓存更多token（广度）”与“保留更高精度（精度）”之间的最优权衡。</p>
-<p><strong>[10] What Is a Repeated Token Worth? The Scaling Geometry of Multi-Epoch Pretraining</strong><br>链接：<a href="http://arxiv.org/abs/2610.05591v1">http://arxiv.org/abs/2610.05591v1</a><br>作者：Y. Chai, H. Xiong<br>一句话：通过定价重复token的边际价值，回答了多epoch预训练中“训练多少epoch”、“epoch数如何随模型大小变化”等关键缩放定律问题。</p>
-<p><strong>[11] Universal Test-Time Training</strong><br>链接：<a href="http://arxiv.org/abs/2610.05484v1">http://arxiv.org/abs/2610.05484v1</a><br>作者：Z. Cai, Q. Hu, Z. Ma et al.<br>一句话：提出“通用测试时训练”框架，打破传统TTT中每层记忆私有的局限，让记忆跨层共享，提升长上下文建模能力。</p>
-<p><strong>[12] FORGE: Verification-Gated Behavioral Repair for Generative Language Models</strong><br>链接：<a href="http://arxiv.org/abs/2610.05190v1">http://arxiv.org/abs/2610.05190v1</a><br>作者：H.-L. Hsu, M.-Y. Chen, N.-C. Chen et al.<br>一句话：针对生成式LLM的偏见、有毒输出等缺陷，提出基于验证门控的行为修复方法，能在消除问题的同时保持模型整体功能。</p>
-<h3>📊 应用（垂直领域、多模态、代码生成）</h3>
-<p><strong>[13] MedicalHarness: A Controlled Evaluation of LLMs and Agent Harnesses on Medical Tasks</strong><br>链接：<a href="http://arxiv.org/abs/2610.05778v1">http://arxiv.org/abs/2610.05778v1</a><br>作者：Z. Wang, L. Zhao, K. Ding<br>一句话：指出在医学任务上，LLM的得分高度依赖于其所在的agent harness系统（提示、解析器、工具调用等），对现有基准分数提出质疑。</p>
-<p><strong>[14] VHDL-REPOBENCH: A Repository-Level Benchmark for Evaluating Large Language Models on VHDL Design Generation</strong><br>链接：<a href="http://arxiv.org/abs/2610.05380v1">http://arxiv.org/abs/2610.05380v1</a><br>作者：P. Vijayaraghavan, A. Malhotra, A. Jadhav et al.<br>一句话：首个仓库级别的VHDL代码生成基准，填补了硬件描述语言领域（除Verilog外）在LLM评估上的空白。</p>
-<p><strong>[15] Verification Trap: Understanding Test-Time Selection Failures under False Premises in Code Generation</strong><br>链接：<a href="http://arxiv.org/abs/2610.05170v1">http://arxiv.org/abs/2610.05170v1</a><br>作者：F. He, H. Wang, L. Meng et al.<br>一句话：揭示了代码生成中测试时选择的“验证陷阱”——当验证器本身依赖于生成器的输出时，两个组件之间的独立性假设被打破，导致选择失败。</p>
-<hr>
-<h2>研究趋势信号</h2>
-<ol>
-<li><strong>“自我改进”的实证颠覆</strong>：多篇论文（如#1、#40、#41）质疑了传统在策略蒸馏或固定训练范式的优越性，探索通过参数合并、发现-执行分解、对抗演化等方式实现更高效的模型自我提升。</li>
-<li><strong>从“激活”到“抑制”的可解释性</strong>：传统机制解释聚焦于激活的特征，而#23和#48等工作开始关注被抑制或正交化的特征空间，揭示安全与推理之间的内在权衡。</li>
-<li><strong>Agent评估的“Harness”依赖</strong>：同时出现多篇论文（#8、#26、#35）指出LLM在代理框架中的表现与外围系统（提示、解析器、工具）强耦合，呼吁对“harness”本身进行标准化和审计。</li>
-<li><strong>长上下文推理的资源分配理论</strong>：针对KV缓存压缩、多epoch训练、扩展推理等方向，开始出现严谨的资源-收益定量分析（#12、#18、#40），而非仅凭经验调参。</li>
-</ol>
-<hr>
-<h2>值得精读</h2>
-<ol>
-<li><p><strong>《Off-Policy Merging Beats On-Policy Self-Distillation for Continual Learning》</strong>（#1）<br>——挑战了当前持续学习的主流做法（在策略自蒸馏），实验证据充分，可能改变未来模型更新与融合的实践方向。</p>
-</li>
-<li><p><strong>《Nash Equilibrium Text: A Game-Theoretic Decoding Framework for Text Generation》</strong>（#4）<br>——将博弈论引入解码阶段，提供了一个全新的形式化视角；如果验证有效，有望在生成质量和对齐性上产生突破。</p>
-</li>
-<li><p><strong>《DelegationBench: Measuring When AI Agents Should Ask Before Acting》</strong>（#5）<br>——直接触及自主代理实际部署中的核心矛盾（信任-控制权衡），提出的基准和评估方法对Agent安全落地具有直接指导意义。</p>
-</li>
-</ol>
-<hr>
-<p><em>本日报由 <a href="https://github.com/nayutayuki/agents-radar">agents-radar</a> 自动生成。</em></p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Hugging Face 热门模型日报 2026-10-06</title>
-      <link>https://nayutayuki.github.io/agents-radar/#2026-10-06/ai-hf</link>
-      <guid isPermaLink="true">https://nayutayuki.github.io/agents-radar/#2026-10-06/ai-hf</guid>
-      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Hugging Face 热门模型日报 2026-10-06 数据来源: Hugging Face Hub | 共 30 个模型 | 生成时间: 2026-10-06 02:29 UTC Hugging Face 热门模型日报（2026-10-06） 🌟 今日速览 今日 Hugging Face 榜单由 Qwen 家族 全面主导：旗舰模型 Qwen3.8-27B 以 17,041 点赞高居榜首，其增强版 Qwen3.8-Flash-Next 以 5,940 点赞紧随其后。多模态视频生成模型 Lightricks/LTX-2.5（6,507 点赞）成为本周最大黑马，引发社区对图像到视频工具的热切关注。DeepSeek V4.1 Flash 以 4,132 点赞代表国产开源模型持续发力。此外，GGUF 量化生态 异常活跃，围绕 Qwen3.8、Qwen-Image-2.1 和 27B 规模的社区微调版本层出不穷，显著降低了部署门槛。 📋 热门模型分类盘点 🧠 语言模型（LLM、对话、指令微调） 模型 作者 👍 / 📥 一句话说明 Kolibri-1 Aleph-Alpha 632...</description>
-      <content:encoded><![CDATA[<h1>Hugging Face 热门模型日报 2026-10-06</h1>
-<blockquote>
-<p>数据来源: <a href="https://huggingface.co/">Hugging Face Hub</a> | 共 30 个模型 | 生成时间: 2026-10-06 02:29 UTC</p>
-</blockquote>
-<hr>
-<h1>Hugging Face 热门模型日报（2026-10-06）</h1>
-<h2>🌟 今日速览</h2>
-<p>今日 Hugging Face 榜单由 <strong>Qwen 家族</strong> 全面主导：旗舰模型 <strong>Qwen3.8-27B</strong> 以 17,041 点赞高居榜首，其增强版 <strong>Qwen3.8-Flash-Next</strong> 以 5,940 点赞紧随其后。多模态视频生成模型 <strong>Lightricks/LTX-2.5</strong>（6,507 点赞）成为本周最大黑马，引发社区对图像到视频工具的热切关注。<strong>DeepSeek V4.1 Flash</strong> 以 4,132 点赞代表国产开源模型持续发力。此外，<strong>GGUF 量化生态</strong> 异常活跃，围绕 Qwen3.8、Qwen-Image-2.1 和 27B 规模的社区微调版本层出不穷，显著降低了部署门槛。</p>
-<hr>
-<h2>📋 热门模型分类盘点</h2>
-<h3>🧠 语言模型（LLM、对话、指令微调）</h3>
-<table>
-<thead>
-<tr>
-<th>模型</th>
-<th>作者</th>
-<th>👍 / 📥</th>
-<th>一句话说明</th>
-</tr>
-</thead>
-<tbody><tr>
-<td><a href="https://huggingface.co/Aleph-Alpha/Kolibri-1">Kolibri-1</a></td>
-<td>Aleph-Alpha</td>
-<td>632 / 2,453</td>
-<td>采用 MoE 架构的推理型语言模型，潜力受早期用户关注</td>
-</tr>
-</tbody></table>
-<p><em>说明：本周语言模型原版较少，社区焦点集中在多模态及量化版本上。</em></p>
-<hr>
-<h3>🎨 多模态与生成（图像、视频、音频、文本到X）</h3>
-<table>
-<thead>
-<tr>
-<th>模型</th>
-<th>作者</th>
-<th>👍 / 📥</th>
-<th>一句话说明</th>
-</tr>
-</thead>
-<tbody><tr>
-<td><a href="https://huggingface.co/Qwen/Qwen3.8-27B">Qwen3.8-27B</a></td>
-<td>Qwen</td>
-<td><strong>17,041</strong> / 6,758,884</td>
-<td>阿里系多模态对话旗舰，支持图像+文本输入，兼具极强语言与视觉理解</td>
-</tr>
-<tr>
-<td><a href="https://huggingface.co/Lightricks/LTX-2.5">Lightricks/LTX-2.5</a></td>
-<td>Lightricks</td>
-<td><strong>6,507</strong> / 1,645,444</td>
-<td>全能视频生成模型（图→视频、文→视频、视频→视频），本周最热新作</td>
-</tr>
-<tr>
-<td><a href="https://huggingface.co/Qwen/Qwen3.8-Flash-Next">Qwen3.8-Flash-Next</a></td>
-<td>Qwen</td>
-<td><strong>5,940</strong> / 1,530,359</td>
-<td>Qwen 最新实验版（qwen4_exp 标签），性能更快的轻量多模态模型</td>
-</tr>
-<tr>
-<td><a href="https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash">DeepSeek-V4.1-Flash</a></td>
-<td>deepseek-ai</td>
-<td><strong>4,132</strong> / 869,321</td>
-<td>深度求索的最新多模态快速推理版，兼顾速度与质量</td>
-</tr>
-<tr>
-<td><a href="https://huggingface.co/Qwen/Qwen-Image-2.1">Qwen-Image-2.1</a></td>
-<td>Qwen</td>
-<td>3,005 / 94,556</td>
-<td>阿里官方文生图模型，支持图片编辑功能，生态丰富</td>
-</tr>
-<tr>
-<td><a href="https://huggingface.co/TaichuAI/ZDTaichu5.0-9B">TaichuAI/ZDTaichu5.0-9B</a></td>
-<td>TaichuAI</td>
-<td>2,876 / 12,782</td>
-<td>中科院系 9B 多模态模型，主打空间推理能力</td>
-</tr>
-<tr>
-<td><a href="https://huggingface.co/Cloudflare/clef">Cloudflare/clef</a></td>
-<td>Cloudflare</td>
-<td>1,513 / 5,416</td>
-<td>云服务商推出的图像+文本理解模型，标签<code>qwen3_5</code>暗示基于 Qwen</td>
-</tr>
-<tr>
-<td><a href="https://huggingface.co/Alissonerdx/BFS-Best-Face-Swap">Alissonerdx/BFS-Best-Face-Swap</a></td>
-<td>Alissonerdx</td>
-<td>1,215 / 212,575</td>
-<td>基于 Qwen-Image 的换脸 LoRA，下载量高，社区实用工具</td>
-</tr>
-<tr>
-<td><a href="https://huggingface.co/Viggle/Qwen-Image-2.1-viggle-turbo">Viggle/Qwen-Image-2.1-viggle-turbo</a></td>
-<td>Viggle</td>
-<td>618 / 286,885</td>
-<td>针对 Qwen-Image 加速的 LoRA，专为 ComfyUI 优化</td>
-</tr>
-<tr>
-<td><a href="https://huggingface.co/Cloudflare/clef-flash">Cloudflare/clef-flash</a></td>
-<td>Cloudflare</td>
-<td>536 / 8,075</td>
-<td>clef 的轻量版，主打更快推理</td>
-</tr>
-<tr>
-<td><a href="https://huggingface.co/autotrust/JEV-27B-VL">autotrust/JEV-27B-VL</a></td>
-<td>autotrust</td>
-<td>644 / 1,278,569</td>
-<td>27B 多模态模型，下载量超百万，社区微调后关注度高</td>
-</tr>
-<tr>
-<td><a href="https://huggingface.co/pablodawson/MiniMax-H3-360-Orbit-LoRA">pablodawson/MiniMax-H3-360-Orbit-LoRA</a></td>
-<td>pablodawson</td>
-<td>217 / 6,930</td>
-<td>为 MiniMax H3 视频模型添加 360° 轨道效果的 LoRA</td>
-</tr>
-<tr>
-<td><a href="https://huggingface.co/akatz-ai/MiniMax-H3-Character-Swap-LoRA">akatz-ai/MiniMax-H3-Character-Swap-LoRA</a></td>
-<td>akatz-ai</td>
-<td>309 / 18,138</td>
-<td>基于 MiniMax H3 的角色交换 LoRA，用于视频编辑</td>
-</tr>
-</tbody></table>
-<hr>
-<h3>🔧 专用模型（代码、数学、医疗、嵌入、分类等）</h3>
-<table>
-<thead>
-<tr>
-<th>模型</th>
-<th>作者</th>
-<th>👍 / 📥</th>
-<th>一句话说明</th>
-</tr>
-</thead>
-<tbody><tr>
-<td><a href="https://huggingface.co/convaiinnovations/laya">convaiinnovations/laya</a></td>
-<td>convaiinnovations</td>
-<td><strong>5,244</strong> / 11,733</td>
-<td>文本分类模型，主打“校准决策”，标签 <code>system-one</code> 暗示推理改进</td>
-</tr>
-<tr>
-<td><a href="https://huggingface.co/Contrastive-LM/CLM-v0.1-8B">Contrastive-LM/CLM-v0.1-8B</a></td>
-<td>Contrastive-LM</td>
-<td>740 / 3,715</td>
-<td>基于对比学习的文本排序/验证器，用于重新排序或评估</td>
-</tr>
-<tr>
-<td><a href="https://huggingface.co/nvidia/Nemotron-3-Diarization">nvidia/Nemotron-3-Diarization</a></td>
-<td>nvidia</td>
-<td>701 / 55,491</td>
-<td>NVIDIA 出品的人声活动检测模型，用于说话人日志</td>
-</tr>
-<tr>
-<td><a href="https://huggingface.co/PSRben/VisionHOPE">PSRben/VisionHOPE</a></td>
-<td>PSRben</td>
-<td>426 / 1,654</td>
-<td>图像分类模型，带有学术论文引用（arXiv:2609.33325），研究方向</td>
-</tr>
-<tr>
-<td><a href="https://huggingface.co/SupersonicLabs/Julia-1">SupersonicLabs/Julia-1</a></td>
-<td>SupersonicLabs</td>
-<td>442 / 3,898</td>
-<td>多语言文本分类决策模型，标签含 <code>decision-model</code></td>
-</tr>
-<tr>
-<td><a href="https://huggingface.co/autotrust/GEV-26B-Decide">autotrust/GEV-26B-Decide</a></td>
-<td>autotrust</td>
-<td>471 / 446,527</td>
-<td>基于 Gemma 4 的文本分类模型，实际带图像输入，下载量可观</td>
-</tr>
-<tr>
-<td><a href="https://huggingface.co/FermionResearch/Phonon-2">FermionResearch/Phonon-2</a></td>
-<td>FermionResearch</td>
-<td>234 / 3,063</td>
-<td>针对 Apple Silicon 优化的语音识别模型，基于 Parakeet</td>
-</tr>
-</tbody></table>
-<hr>
-<h3>📦 微调与量化（社区微调、GGUF、AWQ、EXL3）</h3>
-<table>
-<thead>
-<tr>
-<th>模型</th>
-<th>作者</th>
-<th>👍 / 📥</th>
-<th>一句话说明</th>
-</tr>
-</thead>
-<tbody><tr>
-<td><a href="https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf">prism-ml/Ternary-Bonsai-2-27B-gguf</a></td>
-<td>prism-ml</td>
-<td>2,459 / <strong>4,120,718</strong></td>
-<td>27B 参数三值量化（2-bit）GGUF 模型，极致压缩，下载量高</td>
-</tr>
-<tr>
-<td><a href="https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF">abenzerps/Qwen-Image-2.1-Uncensored-GGUF</a></td>
-<td>abenzerps</td>
-<td><strong>3,271</strong> / 1,638,838</td>
-<td>Qwen-Image 的 GGUF 无审查版，社区热情极高</td>
-</tr>
-<tr>
-<td><a href="https://huggingface.co/ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-GGUF">ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-GGUF</a></td>
-<td>ISTA-DASLab</td>
-<td>617 / 2,244,732</td>
-<td>学术实验室对 Qwen3.8-Flash-Next 的混合精度量化版</td>
-</tr>
-<tr>
-<td><a href="https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF">DavidAU/Qwen3.8-27B-TURBO-...-GGUF</a></td>
-<td>DavidAU</td>
-<td>1,464 / 2,134,360</td>
-<td>社区极致微调版，融合多项技术（Unsloth、无审查），命名风格张扬</td>
-</tr>
-<tr>
-<td><a href="https://huggingface.co/ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-Coder-GGUF">ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-Coder-GGUF</a></td>
-<td>ISTA-DASLab</td>
-<td>293 / 389,398</td>
-<td>面向代码任务的剪枝+量化版 Qwen3.8</td>
-</tr>
-<tr>
-<td><a href="https://huggingface.co/orcarouter/OrcaSAQ-2-Cyber-27B-Uncensored-GGUF">orcarouter/OrcaSAQ-2-Cyber-27B-Uncensored-GGUF</a></td>
-<td>orcarouter</td>
-<td>404 / 16,802</td>
-<td>基于 Qwen3.8 的 GGUF 无审查对话模型</td>
-</tr>
-<tr>
-<td><a href="https://huggingface.co/Venastine-Research/Xing4.0-29B-A4B-GGUF">Venastine-Research/Xing4.0-29B-A4B-GGUF</a></td>
-<td>Venastine-Research</td>
-<td>419 / 18,863</td>
-<td>29B 参数（A4B）量化版，适合资源受限场景</td>
-</tr>
-<tr>
-<td><a href="https://huggingface.co/Infatoshi/GLM-5.3-UNCENSORED-EXL3-3.0bpw">Infatoshi/GLM-5.3-UNCENSORED-EXL3-3.0bpw</a></td>
-<td>Infatoshi</td>
-<td>241 / 1,342</td>
-<td>GLM-5.3 的 EXL3 低比特量化无审查版</td>
-</tr>
-<tr>
-<td>[j</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody></table>
-<hr>
-<p><em>本日报由 <a href="https://github.com/nayutayuki/agents-radar">agents-radar</a> 自动生成。</em></p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>技术社区 AI 动态日报 2026-10-06</title>
-      <link>https://nayutayuki.github.io/agents-radar/#2026-10-06/ai-community</link>
-      <guid isPermaLink="true">https://nayutayuki.github.io/agents-radar/#2026-10-06/ai-community</guid>
-      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
-      <description>技术社区 AI 动态日报 2026-10-06 数据来源: Dev.to (30 篇) + Lobste.rs (3 条) | 生成时间: 2026-10-06 02:29 UTC 📋 技术社区 AI 动态日报 — 2026-10-06 🔥 今日速览 今日 Dev.to 和 Lobste.rs 围绕 AI 的热点高度分化：AI Agent 的可审计性与安全信任成为讨论核心，多篇文章直指日志篡改、工具调用恢复、企业防护等痛点；Agent 构建与开源部署仍为实践主流，涵盖 MCP 爬虫、Playwright 测试、K8s 部署等实用主题；模型偏见与基准迷信引发反思，从 Whisper 对尼日利亚口音的纠正到 LLM 排行榜的统计陷阱，开发者开始质疑 AI 输出的中立性。此外，多位开发者用 AI 为朋友“定制化”构建小工具（ADHD 辅助、语音店助手等），展现了低代码/局部微调的落地趋势。 📌 Dev.to 精选（共 5 篇） 1. The Witness Was the Suspect: Why AI Audit Logs Can&amp;#39;t Be Trusted 链接：https:...</description>
-      <content:encoded><![CDATA[<h1>技术社区 AI 动态日报 2026-10-06</h1>
-<blockquote>
-<p>数据来源: <a href="https://dev.to/">Dev.to</a> (30 篇) + <a href="https://lobste.rs/">Lobste.rs</a> (3 条) | 生成时间: 2026-10-06 02:29 UTC</p>
-</blockquote>
-<hr>
-<h2>📋 技术社区 AI 动态日报 — 2026-10-06</h2>
-<hr>
-<h3>🔥 今日速览</h3>
-<p>今日 Dev.to 和 Lobste.rs 围绕 AI 的热点高度分化：<strong>AI Agent 的可审计性与安全信任</strong>成为讨论核心，多篇文章直指日志篡改、工具调用恢复、企业防护等痛点；<strong>Agent 构建与开源部署</strong>仍为实践主流，涵盖 MCP 爬虫、Playwright 测试、K8s 部署等实用主题；<strong>模型偏见与基准迷信</strong>引发反思，从 Whisper 对尼日利亚口音的纠正到 LLM 排行榜的统计陷阱，开发者开始质疑 AI 输出的中立性。此外，多位开发者用 AI 为朋友“定制化”构建小工具（ADHD 辅助、语音店助手等），展现了低代码/局部微调的落地趋势。</p>
-<hr>
-<h3>📌 Dev.to 精选（共 5 篇）</h3>
-<h4>1. <strong>The Witness Was the Suspect: Why AI Audit Logs Can&#39;t Be Trusted</strong></h4>
-<ul>
-<li>链接：<a href="https://dev.to/james_anderson_h/the-witness-was-the-suspect-why-ai-audit-logs-cant-be-trusted-2190">https://dev.to/james_anderson_h/the-witness-was-the-suspect-why-ai-audit-logs-cant-be-trusted-2190</a></li>
-<li>👍 25 | 💬 15</li>
-<li>一句话：揭露 AI Agent 自产审计日志的固有不可信问题，为构建可信追溯系统提供批判性视角。</li>
-</ul>
-<h4>2. <strong>I Gave My AI Agents Their Own Documentation Crawler, and Pulled 60 Pages of Clean Markdown in 49 Seconds</strong></h4>
-<ul>
-<li>链接：<a href="https://dev.to/sizzlebop/i-gave-my-ai-agents-their-own-documentation-crawler-and-pulled-60-pages-of-clean-markdown-in-49-2cl7">https://dev.to/sizzlebop/i-gave-my-ai-agents-their-own-documentation-crawler-and-pulled-60-pages-of-clean-markdown-in-49-2cl7</a></li>
-<li>👍 22 | 💬 6</li>
-<li>一句话：基于 MCP 协议为 Agent 定制文档爬虫，将非结构化文档实时转为干净 Markdown，提升 Agent 知识检索效率。</li>
-</ul>
-<h4>3. <strong>Eight broken tool calls: how six agent frameworks recover</strong></h4>
-<ul>
-<li>链接：<a href="https://dev.to/code-with-rashid/eight-broken-tool-calls-how-six-agent-frameworks-recover-9k1">https://dev.to/code-with-rashid/eight-broken-tool-calls-how-six-agent-frameworks-recover-9k1</a></li>
-<li>👍 3 | 💬 2</li>
-<li>一句话：横向对比 LangChain、CrewAI、AutoGPT 等六大框架在工具调用出错时的恢复策略，对 Agent 健壮性设计有直接参考价值。</li>
-</ul>
-<h4>4. <strong>OpenAI&#39;s David Robinson quits, calls safety culture broken</strong></h4>
-<ul>
-<li>链接：<a href="https://dev.to/techaiwire/openais-david-robinson-quits-calls-safety-culture-broken-5jo">https://dev.to/techaiwire/openais-david-robinson-quits-calls-safety-culture-broken-5jo</a></li>
-<li>👍 5 | 💬 0</li>
-<li>一句话：OpenAI 安全团队核心人物辞职并指责企业文化崩坏，折射出前沿 AI 公司内部安全治理的深层矛盾。</li>
-</ul>
-<h4>5. <strong>Knowing What Your AI Feature Costs Before Finance Does</strong></h4>
-<ul>
-<li>链接：<a href="https://dev.to/devopsdaily/knowing-what-your-ai-feature-costs-before-finance-does-303e">https://dev.to/devopsdaily/knowing-what-your-ai-feature-costs-before-finance-does-303e</a></li>
-<li>👍 5 | 💬 0</li>
-<li>一句话：以 OpenTelemetry 跟踪 LLM 调用成本，教开发者在大模型账单落地前主动管控 FinOps，实用性强。</li>
-</ul>
-<blockquote>
-<p>额外推荐：<strong>Alberta stopped changing its clocks in June…</strong>（👍5）揭示 19 个前沿大模型在加拿大阿尔伯塔省夏时制变更上的集体错误，是少有的“模型实时性偏见”实测案例。</p>
-</blockquote>
-<hr>
-<h3>📌 Lobste.rs 精选（共 1 条）</h3>
-<h4>1. <strong>Text-to-meowdio models</strong></h4>
-<ul>
-<li>链接：<a href="https://www.kmjn.org/notes/text_to_meowdio_models.html">https://www.kmjn.org/notes/text_to_meowdio_models.html</a></li>
-<li>讨论：<a href="https://lobste.rs/s/1xr8zc/text_meowdio_models">https://lobste.rs/s/1xr8zc/text_meowdio_models</a></li>
-<li>🏆 4 分 | 💬 2 评论</li>
-<li>一句话：用“猫咪叫声生成”作为切入点，生动解释文本到音频生成的模型原理，趣味性与技术深度兼具。</li>
-</ul>
-<blockquote>
-<p>注：今日 Lobste.rs 上另两条高热度内容为 Haskell/ML 类型系统讨论，非 AI 相关，未纳入。若需一并呈现可另行补充。</p>
-</blockquote>
-<hr>
-<h3>🧠 社区脉搏</h3>
-<ul>
-<li><strong>共同焦点</strong>：两个平台都在讨论 <strong>AI 可靠性</strong>——Dev.to 侧重 Agent 审计日志的可信度、工具调用恢复机制，Lobste.rs 则通过“猫咪叫声模型”引发对生成模型可控性的思考。</li>
-<li><strong>开发者真实关切</strong>：许多开发者已从“能跑就行”转向 <strong>“怎么确保它不出错”</strong>——包括审计日志是否可被 Agent 篡改、框架的容错能力、防御性架构（输入门控、人工兜底）等。</li>
-<li><strong>新实践涌现</strong>：MCP（Model Context Protocol）与 Agent 结合成为热门模式，从爬虫、测试到内容发布均有案例；<strong>为朋友定制 AI 工具</strong>（ADHD 助手、语音店助手、排产预测）展示了“小模型 + 私有数据”的轻量化落地路径。</li>
-</ul>
-<hr>
-<h3>📖 值得精读</h3>
-<ol>
-<li><p><strong>The Witness Was the Suspect: Why AI Audit Logs Can&#39;t Be Trusted</strong><br>👉 深入 Agent 安全的核心悖论，适合所有构建 AI 系统的架构师和安全工程师。</p>
-</li>
-<li><p><strong>Eight broken tool calls: how six agent frameworks recover</strong><br>👉 对主流框架的防御纵深进行实测对比，是 Agent 选型和错误处理设计的第一手参考。</p>
-</li>
-<li><p><strong>Whisper Keeps Correcting Nigerian Speech. Here&#39;s How I Measured It</strong><br>👉 用定量方法证伪 Whisper 对非主流口音的“纠正”，引发对模型公平性评估方法论的思考。</p>
 </li>
 </ol>
 <hr>
